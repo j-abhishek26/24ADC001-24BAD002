@@ -1,0 +1,601 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer Segment,Region,State,City,Product Category,Sub-Category,Sales,Profit,Quantity,Discount
+ORD-2025-1305,01-01-2025,08-01-2025,Second Class,Home Office,South,Karnataka,Mysuru,Technology,Accessories,2881.47,532.54,3,0
+ORD-2024-1253,01-02-2024,05-02-2024,Standard Class,Corporate,North,Uttar Pradesh,Kanpur,Technology,Accessories,13641.55,68.37,9,0.2
+ORD-2025-1259,01-02-2025,04-02-2025,First Class,Consumer,East,Assam,Guwahati,Office Supplies,Art,250.15,29.24,6,0.15
+ORD-2025-1292,01-02-2025,08-02-2025,First Class,Home Office,West,Goa,Panaji,Electronics,Cameras,1130.77,52.7,12,0.15
+ORD-2025-1488,01-02-2025,04-02-2025,Same Day,Consumer,South,Tamil Nadu,Coimbatore,Technology,Copiers,7670.28,-870.83,5,0.3
+ORD-2024-1224,01-03-2024,04-03-2024,Second Class,Consumer,East,West Bengal,Kolkata,Electronics,Cameras,3140.52,20.75,3,0.2
+ORD-2024-1263,01-03-2024,02-03-2024,First Class,Consumer,South,Karnataka,Mysuru,Technology,Machines,4922.4,1021.09,12,0
+ORD-2024-1163,01-04-2024,08-04-2024,Standard Class,Consumer,South,Telangana,Hyderabad,Office Supplies,Binders,1048.75,128.27,9,0.2
+ORD-2024-1597,01-04-2024,02-04-2024,First Class,Home Office,West,Goa,Panaji,Furniture,Storage,2103.08,121.87,3,0.1
+ORD-2025-1490,01-04-2025,02-04-2025,Standard Class,Home Office,East,West Bengal,Kolkata,Furniture,Bookcases,1956.34,-89.93,3,0.2
+ORD-2024-1191,01-06-2024,03-06-2024,First Class,Corporate,West,Gujarat,Ahmedabad,Electronics,Wearables,3027.42,549.54,9,0
+ORD-2025-1478,01-06-2025,02-06-2025,First Class,Corporate,East,West Bengal,Siliguri,Office Supplies,Paper,1068.0,259.8,5,0
+ORD-2024-1443,01-07-2024,03-07-2024,Second Class,Corporate,East,Bihar,Patna,Furniture,Storage,5048.88,-206.24,10,0.2
+ORD-2025-1302,01-07-2025,06-07-2025,Standard Class,Consumer,East,West Bengal,Siliguri,Electronics,Cameras,103.98,-7.19,1,0.2
+ORD-2024-1239,01-09-2024,02-09-2024,Standard Class,Corporate,East,Assam,Guwahati,Office Supplies,Labels,454.3,125.09,7,0
+ORD-2024-1402,01-09-2024,04-09-2024,Second Class,Home Office,South,Tamil Nadu,Madurai,Electronics,Wearables,10268.64,481.65,11,0.15
+ORD-2025-1278,01-09-2025,04-09-2025,Same Day,Home Office,West,Maharashtra,Nagpur,Office Supplies,Paper,700.06,-23.31,12,0.3
+ORD-2025-1413,01-09-2025,08-09-2025,Standard Class,Consumer,North,Uttar Pradesh,Kanpur,Furniture,Chairs,2741.09,-390.25,12,0.3
+ORD-2025-1480,01-09-2025,03-09-2025,Same Day,Home Office,South,Tamil Nadu,Coimbatore,Electronics,Audio,6204.18,-816.99,7,0.3
+ORD-2024-1201,01-10-2024,05-10-2024,First Class,Corporate,South,Kerala,Kochi,Furniture,Bookcases,539.11,4.1,3,0.1
+ORD-2024-1599,01-10-2024,06-10-2024,First Class,Home Office,South,Kerala,Thiruvananthapuram,Electronics,Cameras,1294.29,-165.34,2,0.3
+ORD-2024-1290,01-11-2024,08-11-2024,First Class,Corporate,North,Delhi,New Delhi,Office Supplies,Art,62.98,20.71,2,0
+ORD-2025-1384,01-11-2025,05-11-2025,Second Class,Consumer,North,Delhi,New Delhi,Technology,Phones,2398.98,-51.78,4,0.2
+ORD-2024-1034,02-01-2024,07-01-2024,Second Class,Corporate,North,Rajasthan,Jaipur,Furniture,Storage,6040.58,-229.89,9,0.2
+ORD-2024-1404,02-02-2024,07-02-2024,First Class,Consumer,North,Punjab,Ludhiana,Office Supplies,Binders,908.49,89.93,7,0.2
+ORD-2024-1237,02-03-2024,06-03-2024,Same Day,Corporate,North,Delhi,New Delhi,Furniture,Chairs,4359.7,-261.12,11,0.2
+ORD-2024-1262,02-04-2024,03-04-2024,Standard Class,Corporate,South,Kerala,Thiruvananthapuram,Furniture,Chairs,1083.0,132.82,4,0
+ORD-2024-1436,02-04-2024,09-04-2024,Second Class,Corporate,North,Punjab,Amritsar,Technology,Copiers,2417.9,-196.95,3,0.3
+ORD-2024-1467,02-04-2024,04-04-2024,Standard Class,Consumer,North,Rajasthan,Udaipur,Office Supplies,Binders,1436.19,33.91,10,0.3
+ORD-2025-1315,02-04-2025,05-04-2025,Standard Class,Corporate,West,Madhya Pradesh,Bhopal,Furniture,Storage,1134.98,-50.69,8,0.2
+ORD-2025-1380,02-04-2025,03-04-2025,Second Class,Consumer,South,Karnataka,Mysuru,Office Supplies,Labels,442.62,89.93,5,0.1
+ORD-2025-1356,02-05-2025,07-05-2025,Standard Class,Corporate,South,Kerala,Kochi,Technology,Accessories,10401.02,730.55,9,0.15
+ORD-2025-1385,02-05-2025,06-05-2025,Second Class,Home Office,South,Tamil Nadu,Chennai,Technology,Machines,19327.14,3572.71,9,0
+ORD-2025-1454,02-06-2025,03-06-2025,Same Day,Home Office,East,West Bengal,Kolkata,Electronics,Cameras,10895.4,1296.78,9,0
+ORD-2025-1276,02-07-2025,09-07-2025,Same Day,Corporate,South,Tamil Nadu,Coimbatore,Technology,Copiers,13059.26,1086.08,8,0.15
+ORD-2025-1220,02-08-2025,09-08-2025,Standard Class,Corporate,East,Odisha,Bhubaneswar,Furniture,Storage,4851.73,-67.53,8,0.15
+ORD-2025-1537,02-08-2025,06-08-2025,Standard Class,Corporate,West,Maharashtra,Nagpur,Technology,Copiers,16927.06,-40.56,11,0.2
+ORD-2025-1567,02-08-2025,09-08-2025,Second Class,Consumer,West,Gujarat,Surat,Furniture,Storage,5345.46,568.9,9,0
+ORD-2025-1217,02-09-2025,04-09-2025,Second Class,Home Office,South,Telangana,Hyderabad,Office Supplies,Labels,1020.81,284.47,7,0
+ORD-2024-1067,02-10-2024,07-10-2024,Same Day,Corporate,North,Punjab,Ludhiana,Electronics,Wearables,318.41,19.71,3,0.1
+ORD-2024-1375,02-10-2024,06-10-2024,Same Day,Consumer,East,Bihar,Patna,Office Supplies,Paper,1439.04,357.45,6,0
+ORD-2025-1064,02-10-2025,07-10-2025,Second Class,Home Office,West,Maharashtra,Nagpur,Furniture,Bookcases,2239.81,-19.09,4,0.1
+ORD-2025-1202,02-10-2025,06-10-2025,First Class,Consumer,North,Uttar Pradesh,Kanpur,Electronics,Wearables,3294.29,68.18,4,0.1
+ORD-2025-1389,02-10-2025,04-10-2025,First Class,Corporate,West,Madhya Pradesh,Indore,Furniture,Storage,3525.34,-460.44,10,0.3
+ORD-2025-1398,02-10-2025,03-10-2025,Standard Class,Consumer,South,Karnataka,Mysuru,Furniture,Bookcases,1419.22,198.88,11,0
+ORD-2025-1470,02-10-2025,05-10-2025,Second Class,Home Office,East,West Bengal,Kolkata,Office Supplies,Labels,1130.09,207.39,7,0.1
+ORD-2025-1132,02-11-2025,05-11-2025,Same Day,Corporate,North,Punjab,Amritsar,Office Supplies,Binders,388.48,88.94,6,0.1
+ORD-2025-1405,02-11-2025,06-11-2025,Standard Class,Corporate,East,Odisha,Bhubaneswar,Furniture,Tables,1514.32,91.01,2,0.1
+ORD-2024-1342,02-12-2024,07-12-2024,First Class,Corporate,East,West Bengal,Kolkata,Office Supplies,Labels,1698.91,187.29,12,0.15
+ORD-2025-1130,02-12-2025,06-12-2025,Second Class,Consumer,North,Uttar Pradesh,Noida,Office Supplies,Paper,1569.92,107.11,8,0.2
+ORD-2025-1334,02-12-2025,06-12-2025,Same Day,Home Office,South,Tamil Nadu,Madurai,Furniture,Tables,2601.85,46.51,4,0.15
+ORD-2025-1471,03-01-2025,07-01-2025,Standard Class,Home Office,South,Kerala,Kochi,Furniture,Storage,2271.5,189.51,11,0
+ORD-2025-1044,03-02-2025,07-02-2025,Second Class,Corporate,West,Madhya Pradesh,Indore,Electronics,Cameras,8517.41,383.17,12,0.15
+ORD-2025-1427,03-03-2025,05-03-2025,First Class,Corporate,South,Tamil Nadu,Madurai,Office Supplies,Paper,1017.52,326.6,7,0
+ORD-2025-1536,03-03-2025,05-03-2025,Standard Class,Corporate,East,Assam,Guwahati,Technology,Machines,10876.42,-277.62,12,0.2
+ORD-2024-1362,03-04-2024,05-04-2024,First Class,Consumer,North,Punjab,Amritsar,Electronics,Audio,6652.8,125.17,10,0.1
+ORD-2024-1251,03-05-2024,08-05-2024,First Class,Consumer,North,Punjab,Amritsar,Office Supplies,Labels,334.01,57.06,4,0.1
+ORD-2024-1277,03-05-2024,07-05-2024,Second Class,Consumer,North,Rajasthan,Jaipur,Office Supplies,Paper,142.08,44.17,3,0
+ORD-2024-1319,03-05-2024,07-05-2024,Same Day,Consumer,West,Maharashtra,Pune,Technology,Accessories,1768.77,-28.67,4,0.2
+ORD-2024-1500,03-05-2024,06-05-2024,Second Class,Corporate,South,Tamil Nadu,Madurai,Furniture,Chairs,1370.67,191.39,7,0
+ORD-2024-1275,03-06-2024,10-06-2024,Same Day,Home Office,West,Goa,Panaji,Technology,Phones,2402.69,-37.53,2,0.2
+ORD-2025-1128,03-06-2025,08-06-2025,Same Day,Corporate,North,Uttar Pradesh,Lucknow,Electronics,Wearables,4204.1,-517.05,7,0.3
+ORD-2025-1345,03-06-2025,10-06-2025,Second Class,Consumer,South,Telangana,Hyderabad,Technology,Phones,1406.83,49.96,10,0.15
+ORD-2025-1528,03-06-2025,06-06-2025,Second Class,Home Office,East,Odisha,Bhubaneswar,Electronics,Wearables,4464.14,444.62,5,0.1
+ORD-2024-1118,03-07-2024,05-07-2024,Second Class,Consumer,North,Rajasthan,Udaipur,Furniture,Bookcases,2881.76,267.01,8,0
+ORD-2024-1408,03-07-2024,08-07-2024,Same Day,Corporate,East,Assam,Guwahati,Electronics,Audio,3063.55,-196.63,6,0.2
+ORD-2024-1129,03-09-2024,10-09-2024,First Class,Consumer,East,West Bengal,Siliguri,Technology,Machines,2071.89,-169.5,2,0.3
+ORD-2025-1452,03-10-2025,08-10-2025,Standard Class,Corporate,South,Telangana,Hyderabad,Office Supplies,Labels,1796.81,240.69,10,0.15
+ORD-2025-1504,03-10-2025,10-10-2025,Second Class,Home Office,North,Uttar Pradesh,Noida,Office Supplies,Labels,55.99,13.51,1,0
+ORD-2025-1515,03-10-2025,07-10-2025,Same Day,Home Office,South,Kerala,Kochi,Technology,Machines,1104.73,-85.36,1,0.3
+ORD-2024-1181,03-11-2024,10-11-2024,Same Day,Home Office,West,Gujarat,Surat,Furniture,Tables,1586.96,200.34,8,0
+ORD-2025-1449,03-12-2025,06-12-2025,Standard Class,Consumer,East,Bihar,Patna,Technology,Phones,8331.97,471.58,12,0.15
+ORD-2025-1304,04-03-2025,05-03-2025,Standard Class,Corporate,North,Uttar Pradesh,Noida,Technology,Accessories,11743.3,1858.62,10,0
+ORD-2025-1174,04-04-2025,08-04-2025,Second Class,Home Office,South,Kerala,Thiruvananthapuram,Electronics,Cameras,5288.18,39.43,11,0.2
+ORD-2024-1492,04-05-2024,09-05-2024,Same Day,Consumer,South,Tamil Nadu,Coimbatore,Electronics,Cameras,4985.04,838.4,6,0
+ORD-2024-1430,04-06-2024,06-06-2024,First Class,Home Office,West,Goa,Panaji,Technology,Machines,972.66,200.61,3,0
+ORD-2025-1424,04-06-2025,11-06-2025,Standard Class,Consumer,North,Uttar Pradesh,Noida,Office Supplies,Labels,158.76,35.99,6,0.1
+ORD-2024-1548,04-07-2024,07-07-2024,Same Day,Consumer,West,Goa,Panaji,Office Supplies,Binders,1717.94,483.47,7,0
+ORD-2024-1227,04-08-2024,08-08-2024,Second Class,Home Office,East,West Bengal,Siliguri,Furniture,Storage,1501.0,187.22,5,0
+ORD-2025-1166,04-08-2025,11-08-2025,Same Day,Corporate,East,Odisha,Bhubaneswar,Technology,Machines,4310.24,347.47,3,0.15
+ORD-2024-1194,04-10-2024,05-10-2024,Standard Class,Consumer,North,Delhi,New Delhi,Furniture,Storage,9215.91,1473.91,11,0
+ORD-2024-1244,04-10-2024,05-10-2024,Standard Class,Consumer,East,Odisha,Bhubaneswar,Electronics,Cameras,1501.12,48.54,2,0.15
+ORD-2025-1225,04-10-2025,08-10-2025,Standard Class,Corporate,East,Odisha,Bhubaneswar,Office Supplies,Art,155.07,20.08,2,0.2
+ORD-2025-1503,04-10-2025,07-10-2025,Standard Class,Home Office,North,Punjab,Amritsar,Technology,Phones,705.92,13.1,1,0.15
+ORD-2025-1247,04-11-2025,08-11-2025,Second Class,Corporate,South,Telangana,Hyderabad,Electronics,Audio,15390.84,1699.07,12,0
+ORD-2025-1293,04-11-2025,09-11-2025,First Class,Home Office,South,Kerala,Thiruvananthapuram,Office Supplies,Paper,88.88,13.58,2,0.1
+ORD-2025-1233,04-12-2025,08-12-2025,Standard Class,Home Office,East,Odisha,Bhubaneswar,Electronics,Wearables,2596.7,296.03,2,0
+ORD-2025-1323,04-12-2025,07-12-2025,Second Class,Home Office,South,Karnataka,Bengaluru,Technology,Machines,4882.8,73.28,3,0.2
+ORD-2025-1550,04-12-2025,08-12-2025,Same Day,Consumer,North,Rajasthan,Udaipur,Office Supplies,Art,422.38,138.75,7,0
+ORD-2024-1297,05-01-2024,09-01-2024,Same Day,Consumer,West,Goa,Panaji,Office Supplies,Binders,183.63,31.48,3,0.15
+ORD-2025-1235,05-02-2025,08-02-2025,Second Class,Corporate,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,587.92,105.0,4,0.1
+ORD-2024-1038,05-04-2024,07-04-2024,Standard Class,Consumer,North,Uttar Pradesh,Noida,Technology,Machines,4236.04,-508.69,4,0.3
+ORD-2024-1229,05-04-2024,12-04-2024,Second Class,Consumer,South,Telangana,Hyderabad,Electronics,Cameras,1158.06,192.76,2,0
+ORD-2025-1184,05-05-2025,07-05-2025,Second Class,Home Office,North,Punjab,Ludhiana,Electronics,Audio,12740.4,1779.37,12,0
+ORD-2024-1555,05-06-2024,08-06-2024,Same Day,Corporate,West,Maharashtra,Mumbai,Office Supplies,Art,220.33,-7.13,2,0.3
+ORD-2025-1074,05-07-2025,09-07-2025,Same Day,Corporate,East,Bihar,Patna,Electronics,Cameras,3508.97,-405.84,9,0.3
+ORD-2024-1016,05-09-2024,09-09-2024,Same Day,Corporate,West,Gujarat,Ahmedabad,Technology,Copiers,7182.96,1003.41,4,0
+ORD-2024-1161,05-09-2024,06-09-2024,Standard Class,Consumer,East,Odisha,Bhubaneswar,Technology,Accessories,13559.85,2627.82,9,0
+ORD-2024-1026,05-10-2024,08-10-2024,First Class,Home Office,East,West Bengal,Kolkata,Technology,Accessories,16441.68,2472.17,12,0
+ORD-2024-1464,05-11-2024,10-11-2024,Second Class,Home Office,North,Rajasthan,Jaipur,Office Supplies,Binders,1061.46,173.93,10,0.1
+ORD-2025-1479,05-11-2025,09-11-2025,Second Class,Corporate,East,West Bengal,Kolkata,Technology,Accessories,2629.53,547.61,3,0
+ORD-2025-1359,05-12-2025,08-12-2025,First Class,Corporate,North,Delhi,New Delhi,Office Supplies,Paper,210.34,57.34,2,0
+ORD-2025-1543,05-12-2025,07-12-2025,Same Day,Home Office,East,West Bengal,Kolkata,Furniture,Tables,1328.36,223.31,4,0
+ORD-2024-1162,06-01-2024,11-01-2024,Same Day,Corporate,West,Goa,Panaji,Furniture,Tables,2381.1,107.84,3,0.1
+ORD-2024-1329,06-01-2024,09-01-2024,First Class,Home Office,West,Goa,Panaji,Furniture,Bookcases,1387.17,118.42,3,0
+ORD-2025-1392,06-03-2025,09-03-2025,Standard Class,Corporate,North,Punjab,Ludhiana,Office Supplies,Art,1580.0,436.66,8,0
+ORD-2025-1063,06-04-2025,13-04-2025,First Class,Home Office,South,Karnataka,Bengaluru,Furniture,Storage,2834.65,264.04,5,0
+ORD-2025-1218,06-04-2025,11-04-2025,Second Class,Corporate,South,Kerala,Thiruvananthapuram,Furniture,Bookcases,743.76,88.11,6,0
+ORD-2025-1376,06-04-2025,08-04-2025,Standard Class,Home Office,West,Goa,Panaji,Electronics,Cameras,7062.64,-403.58,10,0.2
+ORD-2025-1542,06-05-2025,09-05-2025,First Class,Consumer,West,Maharashtra,Mumbai,Technology,Phones,4525.8,958.13,6,0
+ORD-2025-1209,06-06-2025,13-06-2025,Same Day,Corporate,West,Maharashtra,Mumbai,Furniture,Tables,4043.28,-212.18,10,0.2
+ORD-2024-1591,06-07-2024,07-07-2024,Standard Class,Corporate,West,Maharashtra,Mumbai,Furniture,Tables,1117.44,-70.72,3,0.2
+ORD-2025-1407,06-08-2025,13-08-2025,Standard Class,Home Office,South,Kerala,Kochi,Furniture,Tables,6170.04,-334.33,9,0.2
+ORD-2024-1092,06-09-2024,08-09-2024,Second Class,Home Office,North,Punjab,Ludhiana,Furniture,Bookcases,2901.28,443.84,4,0
+ORD-2025-1584,06-09-2025,08-09-2025,Same Day,Consumer,West,Madhya Pradesh,Indore,Office Supplies,Paper,995.32,117.17,5,0.2
+ORD-2025-1013,06-11-2025,10-11-2025,Same Day,Consumer,West,Maharashtra,Nagpur,Technology,Accessories,6265.14,1145.06,3,0
+ORD-2025-1439,06-11-2025,08-11-2025,Standard Class,Corporate,West,Maharashtra,Mumbai,Electronics,Wearables,880.38,155.75,3,0
+ORD-2025-1494,06-12-2025,09-12-2025,Second Class,Consumer,South,Telangana,Hyderabad,Electronics,Wearables,7529.64,628.97,11,0.1
+ORD-2025-1243,07-01-2025,11-01-2025,Same Day,Consumer,North,Delhi,New Delhi,Furniture,Storage,1752.64,-344.33,3,0.3
+ORD-2024-1552,07-03-2024,10-03-2024,Same Day,Consumer,West,Madhya Pradesh,Indore,Technology,Accessories,12887.64,2442.16,6,0
+ORD-2024-1429,07-07-2024,10-07-2024,First Class,Corporate,South,Telangana,Hyderabad,Office Supplies,Binders,505.63,26.77,3,0.2
+ORD-2025-1459,07-07-2025,11-07-2025,Standard Class,Consumer,East,Odisha,Bhubaneswar,Furniture,Bookcases,109.44,7.7,1,0.1
+ORD-2024-1138,07-08-2024,12-08-2024,Standard Class,Corporate,West,Maharashtra,Pune,Technology,Copiers,5597.68,796.35,8,0
+ORD-2024-1573,07-08-2024,10-08-2024,Same Day,Home Office,South,Kerala,Kochi,Furniture,Tables,1541.29,-217.4,5,0.3
+ORD-2024-1089,07-11-2024,11-11-2024,Same Day,Corporate,West,Maharashtra,Mumbai,Furniture,Chairs,595.75,-30.64,4,0.15
+ORD-2024-1425,07-12-2024,11-12-2024,First Class,Corporate,South,Kerala,Kochi,Furniture,Bookcases,1207.77,126.43,3,0
+ORD-2024-1335,08-02-2024,09-02-2024,Standard Class,Home Office,North,Punjab,Ludhiana,Office Supplies,Art,48.19,-0.71,3,0.3
+ORD-2025-1256,08-02-2025,12-02-2025,Second Class,Consumer,North,Rajasthan,Jaipur,Furniture,Storage,1031.38,-2.8,11,0.1
+ORD-2024-1116,08-03-2024,11-03-2024,Second Class,Corporate,West,Goa,Panaji,Technology,Machines,2954.75,202.15,11,0.1
+ORD-2024-1284,08-03-2024,11-03-2024,Standard Class,Consumer,West,Goa,Panaji,Office Supplies,Paper,1251.88,385.64,7,0
+ORD-2025-1018,08-03-2025,10-03-2025,Same Day,Home Office,South,Karnataka,Bengaluru,Office Supplies,Paper,205.07,10.73,4,0.3
+ORD-2025-1231,08-03-2025,15-03-2025,Standard Class,Consumer,West,Maharashtra,Mumbai,Technology,Phones,755.14,127.1,2,0
+ORD-2024-1540,08-04-2024,13-04-2024,First Class,Corporate,East,Bihar,Patna,Furniture,Bookcases,1666.92,139.51,3,0
+ORD-2024-1545,08-04-2024,09-04-2024,Second Class,Home Office,East,West Bengal,Kolkata,Office Supplies,Binders,783.43,145.03,4,0.15
+ORD-2025-1372,08-05-2025,11-05-2025,Same Day,Consumer,North,Delhi,New Delhi,Technology,Phones,9543.12,781.36,8,0.15
+ORD-2024-1274,08-07-2024,11-07-2024,First Class,Corporate,West,Madhya Pradesh,Bhopal,Furniture,Storage,4836.6,554.17,6,0
+ORD-2025-1173,08-07-2025,09-07-2025,Same Day,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Binders,421.15,60.3,2,0.1
+ORD-2024-1252,08-08-2024,11-08-2024,Same Day,Home Office,North,Punjab,Amritsar,Technology,Phones,4937.76,1120.08,12,0
+ORD-2025-1272,08-08-2025,13-08-2025,Same Day,Consumer,East,Bihar,Patna,Furniture,Storage,2306.04,244.63,3,0
+ORD-2025-1287,08-08-2025,10-08-2025,First Class,Home Office,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,2364.89,704.19,11,0
+ORD-2025-1112,08-10-2025,11-10-2025,Standard Class,Corporate,East,Odisha,Bhubaneswar,Furniture,Storage,7329.9,771.06,10,0
+ORD-2024-1419,08-11-2024,10-11-2024,Same Day,Home Office,East,Odisha,Bhubaneswar,Office Supplies,Binders,1728.79,102.03,10,0.3
+ORD-2024-1421,08-11-2024,12-11-2024,Second Class,Consumer,South,Telangana,Hyderabad,Office Supplies,Binders,722.64,219.68,6,0
+ORD-2024-1561,08-11-2024,09-11-2024,Same Day,Home Office,South,Telangana,Hyderabad,Electronics,Audio,464.22,-1.11,1,0.15
+ORD-2025-1119,08-11-2025,11-11-2025,Second Class,Consumer,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,2197.2,636.58,10,0
+ORD-2025-1055,08-12-2025,12-12-2025,Standard Class,Corporate,South,Kerala,Thiruvananthapuram,Office Supplies,Paper,1175.4,257.76,8,0.1
+ORD-2025-1151,09-01-2025,10-01-2025,First Class,Consumer,West,Gujarat,Surat,Technology,Copiers,8000.37,115.73,10,0.15
+ORD-2024-1033,09-02-2024,10-02-2024,Same Day,Home Office,North,Uttar Pradesh,Lucknow,Office Supplies,Art,725.57,93.34,6,0.2
+ORD-2024-1281,09-02-2024,13-02-2024,Same Day,Corporate,East,Assam,Guwahati,Technology,Copiers,9446.93,-247.91,6,0.2
+ORD-2024-1423,09-03-2024,13-03-2024,First Class,Consumer,South,Telangana,Hyderabad,Office Supplies,Binders,1284.28,65.87,11,0.3
+ORD-2024-1148,09-04-2024,10-04-2024,Second Class,Consumer,West,Maharashtra,Pune,Office Supplies,Paper,372.89,8.03,7,0.3
+ORD-2025-1355,09-04-2025,14-04-2025,Standard Class,Consumer,South,Karnataka,Mysuru,Furniture,Bookcases,2031.44,37.68,4,0.1
+ORD-2025-1578,09-04-2025,16-04-2025,Same Day,Home Office,East,West Bengal,Siliguri,Office Supplies,Art,9.36,1.07,1,0.2
+ORD-2025-1595,09-04-2025,16-04-2025,Standard Class,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Labels,1912.16,96.72,10,0.2
+ORD-2024-1526,09-05-2024,13-05-2024,Standard Class,Home Office,South,Tamil Nadu,Chennai,Electronics,Wearables,1304.97,203.9,3,0
+ORD-2025-1082,09-05-2025,10-05-2025,First Class,Consumer,East,Assam,Guwahati,Furniture,Storage,2745.1,349.95,10,0
+ORD-2025-1210,09-05-2025,10-05-2025,Second Class,Corporate,West,Madhya Pradesh,Indore,Office Supplies,Binders,154.76,48.46,2,0
+ORD-2024-1271,09-06-2024,10-06-2024,First Class,Home Office,North,Rajasthan,Jaipur,Technology,Copiers,1250.56,213.76,4,0
+ORD-2024-1510,09-06-2024,16-06-2024,Second Class,Consumer,South,Telangana,Hyderabad,Electronics,Wearables,3651.52,226.44,3,0.15
+ORD-2025-1095,09-06-2025,14-06-2025,Standard Class,Home Office,North,Delhi,New Delhi,Office Supplies,Art,285.48,92.65,9,0
+ORD-2024-1213,09-07-2024,16-07-2024,Second Class,Corporate,West,Madhya Pradesh,Indore,Technology,Accessories,10362.45,2111.23,7,0
+ORD-2024-1391,09-07-2024,10-07-2024,Standard Class,Consumer,East,West Bengal,Kolkata,Furniture,Chairs,747.19,-49.43,3,0.2
+ORD-2025-1021,09-07-2025,10-07-2025,Second Class,Consumer,South,Telangana,Hyderabad,Electronics,Wearables,1137.08,180.13,1,0
+ORD-2025-1043,09-07-2025,13-07-2025,Standard Class,Home Office,South,Karnataka,Bengaluru,Office Supplies,Art,299.21,0.6,4,0.3
+ORD-2025-1556,09-07-2025,12-07-2025,Standard Class,Corporate,South,Telangana,Hyderabad,Office Supplies,Art,1555.4,150.51,9,0.15
+ORD-2024-1508,09-08-2024,14-08-2024,Second Class,Home Office,West,Madhya Pradesh,Indore,Electronics,Audio,5006.33,568.92,7,0
+ORD-2025-1339,09-08-2025,14-08-2025,First Class,Consumer,East,West Bengal,Kolkata,Furniture,Chairs,3628.35,364.54,9,0
+ORD-2024-1008,09-09-2024,16-09-2024,Same Day,Corporate,West,Madhya Pradesh,Bhopal,Furniture,Tables,2161.28,-111.4,5,0.2
+ORD-2024-1158,09-09-2024,12-09-2024,Second Class,Home Office,East,Bihar,Patna,Technology,Accessories,5087.92,1053.8,4,0
+ORD-2024-1134,09-11-2024,13-11-2024,First Class,Corporate,East,Bihar,Patna,Furniture,Bookcases,4019.05,558.55,7,0
+ORD-2025-1509,09-12-2025,14-12-2025,Same Day,Corporate,East,Bihar,Patna,Office Supplies,Binders,58.83,18.54,3,0
+ORD-2024-1308,10-01-2024,12-01-2024,Same Day,Home Office,East,Assam,Guwahati,Furniture,Chairs,1871.85,197.95,3,0
+ORD-2025-1474,10-01-2025,11-01-2025,Standard Class,Home Office,South,Telangana,Hyderabad,Electronics,Wearables,13217.94,1063.89,10,0.1
+ORD-2024-1332,10-02-2024,17-02-2024,Same Day,Corporate,North,Delhi,New Delhi,Office Supplies,Paper,1087.75,59.28,7,0.3
+ORD-2024-1483,10-04-2024,13-04-2024,Second Class,Home Office,East,Assam,Guwahati,Office Supplies,Art,1041.45,226.32,7,0.1
+ORD-2025-1069,10-04-2025,11-04-2025,Same Day,Home Office,West,Goa,Panaji,Technology,Phones,4562.94,1035.87,6,0
+ORD-2024-1469,10-05-2024,13-05-2024,First Class,Consumer,East,West Bengal,Kolkata,Technology,Copiers,2079.54,270.52,9,0
+ORD-2024-1501,10-06-2024,11-06-2024,Standard Class,Home Office,South,Tamil Nadu,Chennai,Furniture,Storage,1602.58,113.34,2,0
+ORD-2025-1347,10-06-2025,12-06-2025,Second Class,Home Office,East,West Bengal,Kolkata,Technology,Accessories,2644.5,237.66,3,0.15
+ORD-2025-1458,10-06-2025,11-06-2025,Second Class,Home Office,East,West Bengal,Kolkata,Electronics,Wearables,1823.1,-5.75,6,0.15
+ORD-2025-1539,10-06-2025,12-06-2025,Second Class,Home Office,West,Goa,Panaji,Office Supplies,Binders,404.84,-12.37,3,0.3
+ORD-2024-1234,10-09-2024,13-09-2024,First Class,Home Office,West,Goa,Panaji,Office Supplies,Paper,553.96,85.92,4,0.15
+ORD-2024-1260,10-09-2024,17-09-2024,Standard Class,Consumer,West,Goa,Panaji,Electronics,Audio,2565.74,-233.16,9,0.3
+ORD-2024-1394,10-09-2024,17-09-2024,Standard Class,Home Office,North,Punjab,Amritsar,Technology,Copiers,7878.67,894.48,4,0.1
+ORD-2025-1316,10-09-2025,15-09-2025,Same Day,Corporate,West,Maharashtra,Nagpur,Office Supplies,Binders,1233.18,142.66,9,0.15
+ORD-2024-1027,10-10-2024,11-10-2024,Second Class,Home Office,West,Goa,Panaji,Furniture,Storage,198.98,-2.39,3,0.2
+ORD-2024-1093,10-10-2024,12-10-2024,Standard Class,Home Office,South,Karnataka,Mysuru,Technology,Phones,19564.29,4105.59,9,0
+ORD-2024-1457,10-10-2024,15-10-2024,Second Class,Consumer,East,Odisha,Bhubaneswar,Furniture,Bookcases,2186.88,-214.83,8,0.2
+ORD-2024-1065,10-11-2024,15-11-2024,Same Day,Home Office,South,Telangana,Hyderabad,Furniture,Tables,6941.5,790.74,10,0
+ORD-2024-1294,10-11-2024,14-11-2024,First Class,Corporate,South,Telangana,Hyderabad,Furniture,Tables,4357.38,418.55,6,0
+ORD-2025-1331,10-11-2025,13-11-2025,Same Day,Home Office,West,Maharashtra,Pune,Furniture,Tables,1757.35,290.02,5,0
+ORD-2024-1045,10-12-2024,17-12-2024,Same Day,Consumer,South,Telangana,Hyderabad,Office Supplies,Labels,959.78,63.83,7,0.2
+ORD-2025-1513,10-12-2025,17-12-2025,Second Class,Home Office,North,Rajasthan,Udaipur,Furniture,Chairs,1653.72,175.03,4,0
+ORD-2025-1121,11-01-2025,18-01-2025,Same Day,Home Office,South,Telangana,Hyderabad,Electronics,Audio,10251.86,891.34,8,0.1
+ORD-2025-1169,11-01-2025,16-01-2025,First Class,Corporate,South,Kerala,Thiruvananthapuram,Technology,Machines,1522.21,84.21,3,0.1
+ORD-2025-1242,11-01-2025,13-01-2025,Standard Class,Consumer,West,Goa,Panaji,Office Supplies,Paper,114.75,18.64,2,0.15
+ORD-2024-1512,11-02-2024,15-02-2024,Same Day,Corporate,South,Karnataka,Bengaluru,Office Supplies,Binders,1662.3,453.09,9,0
+ORD-2025-1137,11-02-2025,14-02-2025,Second Class,Corporate,East,Assam,Guwahati,Office Supplies,Art,656.56,152.71,4,0
+ORD-2025-1378,11-02-2025,12-02-2025,Same Day,Home Office,East,Assam,Guwahati,Furniture,Chairs,646.25,97.83,1,0
+ORD-2025-1435,11-02-2025,14-02-2025,First Class,Home Office,North,Rajasthan,Jaipur,Furniture,Storage,3214.89,-10.77,5,0.1
+ORD-2025-1586,11-02-2025,18-02-2025,First Class,Consumer,North,Rajasthan,Jaipur,Electronics,Wearables,2047.3,-77.12,7,0.2
+ORD-2024-1142,11-05-2024,16-05-2024,Same Day,Home Office,North,Rajasthan,Udaipur,Technology,Machines,3031.5,-131.49,3,0.3
+ORD-2024-1152,11-05-2024,12-05-2024,Second Class,Consumer,West,Madhya Pradesh,Bhopal,Technology,Phones,4728.72,420.36,6,0.15
+ORD-2025-1506,11-05-2025,16-05-2025,First Class,Corporate,North,Delhi,New Delhi,Furniture,Chairs,560.54,-36.73,4,0.2
+ORD-2025-1592,11-05-2025,15-05-2025,First Class,Consumer,North,Rajasthan,Udaipur,Electronics,Wearables,6467.16,-1003.67,12,0.3
+ORD-2024-1041,11-06-2024,18-06-2024,First Class,Home Office,East,Assam,Guwahati,Technology,Copiers,15273.12,3133.7,8,0
+ORD-2025-1149,11-06-2025,15-06-2025,Same Day,Home Office,East,Bihar,Patna,Technology,Copiers,5163.3,218.5,5,0.1
+ORD-2025-1091,11-07-2025,18-07-2025,Standard Class,Corporate,West,Gujarat,Surat,Furniture,Bookcases,2618.77,233.02,7,0
+ORD-2025-1491,11-08-2025,12-08-2025,Standard Class,Home Office,West,Goa,Panaji,Technology,Copiers,8512.56,711.7,8,0.1
+ORD-2025-1283,11-09-2025,18-09-2025,Same Day,Home Office,East,Assam,Guwahati,Furniture,Storage,1225.76,197.77,8,0
+ORD-2024-1003,11-10-2024,13-10-2024,Standard Class,Corporate,East,West Bengal,Kolkata,Technology,Machines,3312.96,461.41,6,0
+ORD-2024-1238,11-10-2024,12-10-2024,Second Class,Home Office,West,Maharashtra,Nagpur,Office Supplies,Paper,728.37,238.49,9,0
+ORD-2025-1568,11-10-2025,13-10-2025,Second Class,Corporate,South,Telangana,Hyderabad,Office Supplies,Binders,742.91,-8.39,5,0.3
+ORD-2024-1185,11-11-2024,14-11-2024,Same Day,Corporate,East,Bihar,Patna,Office Supplies,Art,670.39,100.47,8,0.1
+ORD-2024-1499,11-12-2024,18-12-2024,Second Class,Corporate,West,Gujarat,Ahmedabad,Technology,Copiers,9147.84,2081.91,6,0
+ORD-2025-1465,11-12-2025,16-12-2025,Second Class,Consumer,South,Kerala,Thiruvananthapuram,Furniture,Tables,2579.56,35.42,7,0.15
+ORD-2024-1313,12-01-2024,19-01-2024,Same Day,Consumer,East,Assam,Guwahati,Technology,Phones,12991.73,-1209.15,9,0.3
+ORD-2025-1087,12-01-2025,19-01-2025,First Class,Consumer,West,Maharashtra,Pune,Office Supplies,Labels,801.17,106.64,5,0.15
+ORD-2025-1444,12-01-2025,16-01-2025,First Class,Corporate,East,West Bengal,Kolkata,Technology,Machines,8930.54,-758.68,7,0.3
+ORD-2024-1131,12-02-2024,15-02-2024,Same Day,Corporate,West,Maharashtra,Pune,Furniture,Tables,6847.42,540.35,9,0.1
+ORD-2024-1073,12-03-2024,15-03-2024,First Class,Consumer,West,Gujarat,Surat,Furniture,Tables,4995.13,816.33,7,0
+ORD-2024-1076,12-04-2024,17-04-2024,Second Class,Consumer,North,Punjab,Amritsar,Electronics,Cameras,1096.83,-71.94,1,0.2
+ORD-2025-1498,12-04-2025,17-04-2025,Standard Class,Consumer,South,Tamil Nadu,Coimbatore,Technology,Phones,4584.5,970.91,10,0
+ORD-2024-1117,12-05-2024,17-05-2024,First Class,Consumer,North,Punjab,Amritsar,Office Supplies,Labels,357.32,102.16,2,0
+ORD-2024-1310,12-06-2024,13-06-2024,Same Day,Consumer,South,Tamil Nadu,Chennai,Technology,Phones,8762.94,1053.54,10,0.1
+ORD-2025-1455,12-06-2025,19-06-2025,Same Day,Home Office,East,Bihar,Patna,Technology,Phones,6991.07,-324.0,4,0.2
+ORD-2025-1028,12-07-2025,13-07-2025,Second Class,Consumer,West,Madhya Pradesh,Indore,Furniture,Tables,6497.14,-326.1,10,0.15
+ORD-2025-1083,12-09-2025,19-09-2025,First Class,Consumer,West,Goa,Panaji,Office Supplies,Binders,443.45,17.69,5,0.3
+ORD-2024-1032,12-10-2024,15-10-2024,First Class,Consumer,North,Punjab,Amritsar,Office Supplies,Binders,908.1,134.5,7,0.2
+ORD-2024-1214,12-10-2024,19-10-2024,Second Class,Corporate,West,Madhya Pradesh,Indore,Technology,Accessories,3057.16,15.82,2,0.15
+ORD-2024-1511,12-10-2024,13-10-2024,First Class,Corporate,West,Madhya Pradesh,Indore,Office Supplies,Labels,1544.34,-23.68,12,0.3
+ORD-2024-1084,12-11-2024,16-11-2024,First Class,Corporate,South,Telangana,Hyderabad,Technology,Phones,816.34,-30.09,6,0.2
+ORD-2025-1100,12-11-2025,16-11-2025,First Class,Corporate,North,Uttar Pradesh,Noida,Furniture,Bookcases,9502.08,1585.33,12,0
+ORD-2024-1312,12-12-2024,17-12-2024,Second Class,Corporate,East,West Bengal,Kolkata,Electronics,Wearables,8295.35,-211.33,12,0.15
+ORD-2024-1051,13-01-2024,17-01-2024,Same Day,Home Office,West,Goa,Panaji,Office Supplies,Art,371.65,87.74,2,0.1
+ORD-2024-1190,13-01-2024,14-01-2024,Standard Class,Home Office,North,Rajasthan,Udaipur,Furniture,Storage,2185.01,71.55,5,0.15
+ORD-2024-1482,13-01-2024,16-01-2024,Standard Class,Consumer,West,Madhya Pradesh,Bhopal,Furniture,Storage,6050.3,289.5,8,0.1
+ORD-2024-1397,13-02-2024,18-02-2024,First Class,Consumer,East,West Bengal,Siliguri,Technology,Phones,11169.92,107.47,8,0.2
+ORD-2024-1544,13-02-2024,15-02-2024,Same Day,Consumer,North,Delhi,New Delhi,Technology,Copiers,3052.03,165.78,11,0.15
+ORD-2025-1565,13-03-2025,15-03-2025,First Class,Corporate,East,Bihar,Patna,Office Supplies,Labels,144.14,19.08,2,0.2
+ORD-2024-1254,13-05-2024,15-05-2024,Standard Class,Home Office,North,Punjab,Ludhiana,Furniture,Tables,3625.97,-170.31,6,0.2
+ORD-2024-1311,13-05-2024,17-05-2024,Standard Class,Corporate,West,Goa,Panaji,Electronics,Wearables,2493.67,134.83,2,0.1
+ORD-2025-1333,13-05-2025,14-05-2025,Standard Class,Consumer,East,West Bengal,Siliguri,Office Supplies,Labels,853.93,223.76,11,0
+ORD-2025-1350,13-06-2025,16-06-2025,First Class,Corporate,South,Kerala,Thiruvananthapuram,Office Supplies,Binders,330.48,44.81,4,0.15
+ORD-2024-1400,13-07-2024,18-07-2024,First Class,Home Office,North,Rajasthan,Udaipur,Office Supplies,Labels,304.32,92.28,6,0
+ORD-2025-1081,13-07-2025,15-07-2025,Same Day,Home Office,East,West Bengal,Siliguri,Electronics,Wearables,848.44,-4.31,6,0.15
+ORD-2024-1122,13-09-2024,14-09-2024,Standard Class,Corporate,West,Gujarat,Ahmedabad,Technology,Accessories,7377.05,652.35,6,0.15
+ORD-2024-1054,13-10-2024,18-10-2024,Second Class,Consumer,West,Gujarat,Surat,Technology,Machines,6683.08,-26.63,5,0.15
+ORD-2024-1598,13-11-2024,20-11-2024,First Class,Home Office,South,Tamil Nadu,Coimbatore,Office Supplies,Labels,733.73,43.74,6,0.2
+ORD-2025-1396,13-11-2025,15-11-2025,Standard Class,Consumer,West,Goa,Panaji,Office Supplies,Binders,779.04,72.77,4,0.2
+ORD-2025-1531,13-11-2025,16-11-2025,Same Day,Corporate,North,Rajasthan,Jaipur,Office Supplies,Binders,860.16,2.38,12,0.3
+ORD-2024-1102,13-12-2024,16-12-2024,Standard Class,Consumer,North,Uttar Pradesh,Lucknow,Furniture,Bookcases,216.78,0.16,3,0.15
+ORD-2025-1125,13-12-2025,15-12-2025,Standard Class,Consumer,South,Tamil Nadu,Coimbatore,Electronics,Cameras,8299.66,593.71,8,0.1
+ORD-2025-1357,14-01-2025,15-01-2025,Same Day,Corporate,South,Tamil Nadu,Madurai,Technology,Copiers,10955.35,2452.27,7,0
+ORD-2025-1588,14-01-2025,16-01-2025,First Class,Consumer,East,Assam,Guwahati,Electronics,Wearables,13086.0,2068.23,9,0
+ORD-2024-1075,14-02-2024,17-02-2024,Second Class,Corporate,South,Karnataka,Mysuru,Furniture,Storage,5801.54,-939.14,12,0.3
+ORD-2024-1248,14-02-2024,16-02-2024,First Class,Corporate,West,Maharashtra,Mumbai,Technology,Phones,16072.83,1769.37,9,0.1
+ORD-2024-1393,14-03-2024,19-03-2024,Same Day,Consumer,North,Punjab,Ludhiana,Furniture,Storage,1303.46,-228.1,4,0.3
+ORD-2024-1001,14-04-2024,21-04-2024,Standard Class,Consumer,North,Delhi,New Delhi,Furniture,Tables,6186.15,798.32,9,0
+ORD-2024-1050,14-04-2024,21-04-2024,Standard Class,Corporate,South,Tamil Nadu,Madurai,Technology,Accessories,16102.66,1216.6,11,0.15
+ORD-2024-1199,14-04-2024,16-04-2024,Same Day,Consumer,North,Delhi,New Delhi,Office Supplies,Art,166.26,32.54,7,0.1
+ORD-2024-1221,14-04-2024,21-04-2024,Standard Class,Corporate,East,West Bengal,Siliguri,Office Supplies,Labels,833.48,264.61,4,0
+ORD-2024-1326,14-04-2024,19-04-2024,Same Day,Consumer,East,Odisha,Bhubaneswar,Office Supplies,Labels,2220.23,402.94,12,0.15
+ORD-2024-1541,14-04-2024,16-04-2024,Standard Class,Corporate,West,Madhya Pradesh,Bhopal,Electronics,Audio,791.17,-119.59,4,0.3
+ORD-2025-1368,14-04-2025,21-04-2025,Standard Class,Corporate,West,Madhya Pradesh,Bhopal,Technology,Machines,7472.57,-1025.72,10,0.3
+ORD-2025-1558,14-05-2025,15-05-2025,Same Day,Corporate,South,Kerala,Thiruvananthapuram,Furniture,Storage,3497.34,-191.03,8,0.2
+ORD-2024-1156,14-07-2024,15-07-2024,Second Class,Corporate,South,Tamil Nadu,Madurai,Electronics,Audio,4865.7,687.5,7,0
+ORD-2025-1318,14-07-2025,19-07-2025,Same Day,Consumer,North,Punjab,Ludhiana,Office Supplies,Art,193.2,61.76,2,0
+ORD-2025-1193,14-10-2025,15-10-2025,First Class,Home Office,West,Madhya Pradesh,Bhopal,Office Supplies,Binders,318.96,71.62,2,0.1
+ORD-2024-1282,14-11-2024,17-11-2024,Second Class,Consumer,East,West Bengal,Siliguri,Technology,Machines,17951.81,-721.27,12,0.2
+ORD-2025-1139,14-11-2025,17-11-2025,First Class,Consumer,South,Kerala,Kochi,Technology,Machines,12163.81,292.37,9,0.15
+ORD-2024-1367,14-12-2024,15-12-2024,First Class,Home Office,South,Kerala,Kochi,Office Supplies,Art,857.31,151.16,5,0.15
+ORD-2025-1039,14-12-2025,18-12-2025,Standard Class,Consumer,South,Kerala,Kochi,Office Supplies,Paper,504.48,149.13,4,0
+ORD-2025-1192,14-12-2025,16-12-2025,Standard Class,Consumer,North,Uttar Pradesh,Kanpur,Office Supplies,Paper,125.58,18.73,2,0.2
+ORD-2025-1096,15-02-2025,19-02-2025,Standard Class,Consumer,East,Assam,Guwahati,Furniture,Storage,4112.64,-78.26,8,0.2
+ORD-2024-1330,15-03-2024,22-03-2024,Second Class,Corporate,North,Uttar Pradesh,Kanpur,Technology,Machines,3070.0,558.93,4,0
+ORD-2024-1349,15-04-2024,22-04-2024,First Class,Home Office,West,Madhya Pradesh,Indore,Furniture,Bookcases,6730.72,-1162.06,11,0.3
+ORD-2024-1383,15-04-2024,16-04-2024,Same Day,Home Office,South,Telangana,Hyderabad,Furniture,Storage,899.71,-53.64,8,0.15
+ORD-2024-1522,15-05-2024,19-05-2024,First Class,Consumer,North,Uttar Pradesh,Kanpur,Electronics,Wearables,3579.2,-55.59,8,0.2
+ORD-2025-1219,15-05-2025,17-05-2025,First Class,Consumer,West,Madhya Pradesh,Bhopal,Office Supplies,Labels,17.67,0.64,1,0.3
+ORD-2025-1495,15-05-2025,19-05-2025,Same Day,Consumer,South,Tamil Nadu,Madurai,Electronics,Audio,1085.11,-53.42,9,0.2
+ORD-2024-1269,15-06-2024,19-06-2024,First Class,Consumer,East,Assam,Guwahati,Technology,Accessories,254.79,33.63,1,0
+ORD-2025-1133,15-06-2025,18-06-2025,Second Class,Home Office,East,Odisha,Bhubaneswar,Technology,Machines,19250.03,921.94,12,0.1
+ORD-2025-1388,15-07-2025,18-07-2025,Second Class,Home Office,North,Rajasthan,Udaipur,Office Supplies,Binders,414.72,74.43,9,0.1
+ORD-2024-1031,15-08-2024,17-08-2024,Second Class,Consumer,South,Tamil Nadu,Coimbatore,Electronics,Cameras,9887.04,1290.45,8,0
+ORD-2024-1047,15-09-2024,16-09-2024,First Class,Consumer,East,Assam,Guwahati,Technology,Copiers,11093.93,2.31,12,0.15
+ORD-2024-1289,15-09-2024,17-09-2024,Same Day,Home Office,East,Assam,Guwahati,Electronics,Cameras,6844.67,324.65,11,0.15
+ORD-2025-1006,15-09-2025,22-09-2025,Same Day,Corporate,East,Bihar,Patna,Technology,Phones,5512.68,806.73,12,0
+ORD-2024-1547,15-10-2024,17-10-2024,Standard Class,Consumer,North,Delhi,New Delhi,Office Supplies,Paper,2033.19,665.58,9,0
+ORD-2025-1059,15-10-2025,19-10-2025,Same Day,Corporate,North,Delhi,New Delhi,Technology,Accessories,268.12,6.28,1,0.15
+ORD-2024-1103,15-12-2024,17-12-2024,Standard Class,Consumer,North,Delhi,New Delhi,Office Supplies,Labels,1147.92,353.2,12,0
+ORD-2025-1261,15-12-2025,18-12-2025,Second Class,Home Office,West,Goa,Panaji,Furniture,Bookcases,663.57,-26.51,1,0.2
+ORD-2025-1516,15-12-2025,20-12-2025,First Class,Home Office,East,West Bengal,Siliguri,Office Supplies,Art,386.12,10.99,4,0.3
+ORD-2024-1024,16-03-2024,21-03-2024,Standard Class,Consumer,East,West Bengal,Kolkata,Office Supplies,Binders,286.1,92.5,5,0
+ORD-2025-1176,16-04-2025,19-04-2025,Standard Class,Home Office,West,Madhya Pradesh,Bhopal,Technology,Accessories,1362.4,36.17,4,0.2
+ORD-2025-1554,16-05-2025,20-05-2025,Standard Class,Consumer,East,Odisha,Bhubaneswar,Furniture,Bookcases,807.81,64.59,3,0
+ORD-2024-1049,16-06-2024,19-06-2024,Same Day,Corporate,East,Bihar,Patna,Technology,Phones,327.01,61.34,1,0
+ORD-2024-1240,16-06-2024,20-06-2024,First Class,Consumer,South,Tamil Nadu,Chennai,Technology,Phones,16075.17,1178.29,9,0.15
+ORD-2024-1432,16-06-2024,18-06-2024,First Class,Corporate,East,Odisha,Bhubaneswar,Office Supplies,Paper,296.16,16.85,7,0.3
+ORD-2025-1300,16-06-2025,21-06-2025,First Class,Corporate,North,Delhi,New Delhi,Electronics,Cameras,4562.49,89.18,7,0.2
+ORD-2024-1057,16-07-2024,19-07-2024,Second Class,Consumer,West,Goa,Panaji,Furniture,Chairs,1121.59,-146.91,9,0.3
+ORD-2024-1485,16-07-2024,17-07-2024,Second Class,Home Office,West,Goa,Panaji,Technology,Machines,299.54,67.05,2,0
+ORD-2025-1546,16-08-2025,19-08-2025,Second Class,Home Office,East,West Bengal,Kolkata,Furniture,Bookcases,2323.5,-295.42,9,0.3
+ORD-2024-1575,16-09-2024,21-09-2024,Standard Class,Home Office,North,Delhi,New Delhi,Technology,Accessories,7989.08,-109.57,11,0.2
+ORD-2025-1062,16-09-2025,23-09-2025,Standard Class,Consumer,West,Goa,Panaji,Office Supplies,Binders,93.79,6.67,4,0.2
+ORD-2025-1088,16-09-2025,18-09-2025,First Class,Home Office,South,Kerala,Kochi,Technology,Machines,11242.54,-1052.0,11,0.3
+ORD-2024-1245,16-10-2024,19-10-2024,Second Class,Corporate,South,Tamil Nadu,Coimbatore,Furniture,Storage,2821.96,-54.19,9,0.1
+ORD-2025-1135,16-10-2025,17-10-2025,Second Class,Consumer,North,Uttar Pradesh,Noida,Electronics,Cameras,1663.79,77.09,11,0.1
+ORD-2025-1266,16-10-2025,21-10-2025,Standard Class,Consumer,West,Maharashtra,Mumbai,Technology,Accessories,2549.04,415.79,8,0
+ORD-2025-1487,16-10-2025,20-10-2025,First Class,Corporate,South,Telangana,Hyderabad,Office Supplies,Binders,808.71,2.18,5,0.3
+ORD-2025-1023,16-11-2025,23-11-2025,First Class,Corporate,North,Rajasthan,Udaipur,Electronics,Audio,2305.89,53.24,5,0.1
+ORD-2024-1228,17-01-2024,18-01-2024,Same Day,Consumer,West,Goa,Panaji,Furniture,Storage,2273.75,58.33,3,0.1
+ORD-2025-1014,17-01-2025,21-01-2025,Standard Class,Corporate,South,Telangana,Hyderabad,Electronics,Wearables,10843.52,1353.17,8,0
+ORD-2025-1022,17-02-2025,18-02-2025,Standard Class,Home Office,North,Punjab,Ludhiana,Office Supplies,Paper,2356.9,678.53,10,0
+ORD-2024-1249,17-03-2024,22-03-2024,Second Class,Corporate,North,Delhi,New Delhi,Technology,Copiers,7237.55,335.98,7,0.2
+ORD-2024-1270,17-03-2024,22-03-2024,Same Day,Home Office,North,Uttar Pradesh,Lucknow,Electronics,Audio,2832.48,451.51,2,0
+ORD-2024-1353,17-05-2024,24-05-2024,First Class,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Paper,1306.0,307.68,10,0
+ORD-2025-1197,17-05-2025,19-05-2025,Same Day,Consumer,West,Goa,Panaji,Technology,Copiers,5337.36,312.63,7,0.1
+ORD-2025-1179,17-06-2025,19-06-2025,Second Class,Home Office,East,Odisha,Bhubaneswar,Electronics,Wearables,3277.65,510.24,5,0
+ORD-2025-1434,17-06-2025,18-06-2025,Same Day,Home Office,West,Goa,Panaji,Technology,Phones,1048.38,190.67,1,0
+ORD-2024-1340,17-07-2024,18-07-2024,Same Day,Home Office,West,Gujarat,Ahmedabad,Furniture,Bookcases,1600.97,-311.49,10,0.3
+ORD-2024-1581,17-08-2024,18-08-2024,Second Class,Consumer,East,Odisha,Bhubaneswar,Electronics,Wearables,10262.02,-192.92,9,0.2
+ORD-2025-1295,17-08-2025,22-08-2025,Same Day,Home Office,North,Rajasthan,Jaipur,Electronics,Wearables,552.67,-12.72,4,0.15
+ORD-2024-1035,17-11-2024,24-11-2024,Same Day,Corporate,West,Maharashtra,Nagpur,Electronics,Wearables,15373.68,2317.0,12,0
+ORD-2024-1579,17-11-2024,22-11-2024,Second Class,Home Office,South,Tamil Nadu,Coimbatore,Furniture,Bookcases,442.29,53.8,3,0
+ORD-2024-1370,18-03-2024,23-03-2024,First Class,Consumer,East,West Bengal,Siliguri,Technology,Machines,16447.44,2719.65,8,0
+ORD-2024-1046,18-05-2024,22-05-2024,Same Day,Corporate,North,Rajasthan,Jaipur,Furniture,Storage,1030.59,13.12,5,0.1
+ORD-2024-1417,18-05-2024,22-05-2024,Second Class,Home Office,North,Rajasthan,Udaipur,Technology,Accessories,9176.54,965.6,8,0.1
+ORD-2025-1577,18-05-2025,22-05-2025,Standard Class,Consumer,East,Assam,Guwahati,Furniture,Chairs,3284.59,-222.57,6,0.2
+ORD-2024-1351,18-06-2024,20-06-2024,Second Class,Consumer,West,Maharashtra,Nagpur,Electronics,Cameras,1881.11,227.9,11,0
+ORD-2024-1364,18-07-2024,19-07-2024,Second Class,Home Office,West,Madhya Pradesh,Indore,Furniture,Bookcases,5529.8,26.79,9,0.15
+ORD-2025-1344,18-07-2025,19-07-2025,Second Class,Home Office,West,Madhya Pradesh,Bhopal,Technology,Copiers,4691.2,1004.76,10,0
+ORD-2025-1226,18-08-2025,19-08-2025,Same Day,Home Office,East,Bihar,Patna,Electronics,Cameras,15734.76,2723.58,12,0
+ORD-2024-1576,18-09-2024,21-09-2024,Second Class,Corporate,South,Kerala,Thiruvananthapuram,Furniture,Storage,616.04,56.08,4,0
+ORD-2025-1025,18-09-2025,25-09-2025,Standard Class,Consumer,East,Bihar,Patna,Office Supplies,Art,1036.34,16.02,11,0.3
+ORD-2024-1410,18-10-2024,23-10-2024,Second Class,Consumer,West,Madhya Pradesh,Bhopal,Furniture,Chairs,280.11,19.79,3,0
+ORD-2025-1232,18-10-2025,25-10-2025,Second Class,Corporate,East,Bihar,Patna,Furniture,Tables,1508.12,-96.75,9,0.15
+ORD-2025-1180,18-11-2025,22-11-2025,Second Class,Corporate,West,Madhya Pradesh,Indore,Electronics,Wearables,5719.49,-219.44,6,0.2
+ORD-2025-1566,18-11-2025,23-11-2025,Second Class,Home Office,East,Odisha,Bhubaneswar,Office Supplies,Labels,39.4,4.74,1,0.2
+ORD-2024-1387,18-12-2024,21-12-2024,Same Day,Corporate,South,Telangana,Hyderabad,Furniture,Tables,371.79,-6.61,1,0.2
+ORD-2025-1279,18-12-2025,23-12-2025,Second Class,Home Office,West,Goa,Panaji,Office Supplies,Binders,1042.72,283.04,7,0
+ORD-2025-1486,19-01-2025,26-01-2025,Second Class,Consumer,North,Delhi,New Delhi,Electronics,Audio,10845.63,491.52,11,0.15
+ORD-2024-1268,19-02-2024,23-02-2024,Same Day,Corporate,North,Uttar Pradesh,Kanpur,Technology,Phones,7141.82,1560.17,7,0
+ORD-2025-1496,19-02-2025,20-02-2025,Second Class,Home Office,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,500.37,51.19,11,0.2
+ORD-2024-1113,19-03-2024,26-03-2024,Same Day,Corporate,West,Madhya Pradesh,Indore,Furniture,Bookcases,1340.77,-7.5,2,0.15
+ORD-2024-1195,19-03-2024,22-03-2024,Same Day,Home Office,East,West Bengal,Kolkata,Office Supplies,Labels,152.32,27.18,4,0.15
+ORD-2025-1336,19-03-2025,22-03-2025,Standard Class,Home Office,South,Telangana,Hyderabad,Office Supplies,Labels,100.54,28.5,11,0
+ORD-2025-1600,19-04-2025,26-04-2025,Same Day,Home Office,South,Kerala,Thiruvananthapuram,Furniture,Bookcases,2322.06,-219.42,11,0.2
+ORD-2024-1264,19-05-2024,21-05-2024,Same Day,Home Office,East,Assam,Guwahati,Office Supplies,Art,903.71,21.62,7,0.3
+ORD-2024-1338,19-05-2024,26-05-2024,Second Class,Corporate,West,Maharashtra,Pune,Furniture,Tables,3605.49,598.56,9,0
+ORD-2024-1390,19-05-2024,22-05-2024,Same Day,Consumer,East,Assam,Guwahati,Electronics,Audio,1488.59,15.3,8,0.15
+ORD-2024-1019,19-06-2024,23-06-2024,Standard Class,Consumer,North,Delhi,New Delhi,Electronics,Audio,2126.1,-276.17,4,0.3
+ORD-2024-1208,19-06-2024,26-06-2024,Same Day,Corporate,North,Delhi,New Delhi,Technology,Machines,11092.96,196.87,10,0.2
+ORD-2024-1563,19-06-2024,24-06-2024,Standard Class,Home Office,North,Punjab,Amritsar,Office Supplies,Art,548.66,153.46,7,0
+ORD-2024-1246,19-07-2024,26-07-2024,Same Day,Consumer,East,Odisha,Bhubaneswar,Office Supplies,Labels,902.44,208.14,4,0
+ORD-2024-1468,19-07-2024,21-07-2024,First Class,Corporate,South,Kerala,Thiruvananthapuram,Office Supplies,Labels,1031.82,296.16,6,0
+ORD-2025-1327,19-07-2025,20-07-2025,Same Day,Consumer,East,West Bengal,Siliguri,Office Supplies,Art,40.9,11.95,5,0
+ORD-2024-1086,19-08-2024,26-08-2024,First Class,Consumer,East,West Bengal,Siliguri,Electronics,Audio,5404.06,-483.89,7,0.3
+ORD-2024-1299,19-08-2024,26-08-2024,First Class,Consumer,South,Tamil Nadu,Madurai,Furniture,Tables,3995.65,320.73,5,0
+ORD-2024-1564,19-08-2024,24-08-2024,Standard Class,Home Office,South,Telangana,Hyderabad,Furniture,Storage,1102.67,-28.21,2,0.2
+ORD-2025-1207,19-08-2025,23-08-2025,First Class,Home Office,West,Madhya Pradesh,Indore,Office Supplies,Labels,1467.94,285.32,12,0.1
+ORD-2025-1590,19-09-2025,22-09-2025,Same Day,Consumer,East,Bihar,Patna,Office Supplies,Art,921.62,241.05,7,0
+ORD-2024-1020,19-10-2024,23-10-2024,Same Day,Consumer,West,Maharashtra,Pune,Furniture,Storage,5470.16,-790.02,12,0.3
+ORD-2024-1007,19-11-2024,23-11-2024,First Class,Consumer,South,Telangana,Hyderabad,Furniture,Chairs,1018.47,23.05,4,0.15
+ORD-2024-1369,19-11-2024,23-11-2024,First Class,Consumer,North,Rajasthan,Jaipur,Technology,Accessories,16114.27,-64.9,9,0.15
+ORD-2024-1374,19-11-2024,26-11-2024,Standard Class,Corporate,South,Kerala,Kochi,Technology,Copiers,1294.48,217.4,11,0
+ORD-2025-1484,19-11-2025,20-11-2025,Standard Class,Home Office,South,Telangana,Hyderabad,Office Supplies,Binders,187.88,28.14,1,0.1
+ORD-2025-1551,19-11-2025,20-11-2025,Standard Class,Consumer,North,Rajasthan,Udaipur,Furniture,Storage,2916.14,-123.49,9,0.2
+ORD-2024-1147,19-12-2024,23-12-2024,First Class,Consumer,South,Telangana,Hyderabad,Office Supplies,Art,188.9,28.56,6,0.15
+ORD-2024-1012,20-01-2024,21-01-2024,Standard Class,Consumer,East,Odisha,Bhubaneswar,Office Supplies,Labels,1163.15,274.26,5,0
+ORD-2024-1301,20-01-2024,22-01-2024,Second Class,Consumer,East,Odisha,Bhubaneswar,Electronics,Cameras,1149.06,199.26,3,0
+ORD-2025-1422,20-01-2025,25-01-2025,Standard Class,Corporate,East,Assam,Guwahati,Technology,Phones,18024.12,2803.57,9,0
+ORD-2024-1442,20-02-2024,22-02-2024,Standard Class,Home Office,North,Punjab,Amritsar,Technology,Accessories,4524.74,604.83,11,0
+ORD-2024-1582,20-02-2024,24-02-2024,First Class,Consumer,West,Gujarat,Surat,Technology,Accessories,13978.1,2025.78,10,0
+ORD-2025-1571,20-02-2025,23-02-2025,Second Class,Consumer,North,Delhi,New Delhi,Technology,Phones,2718.92,365.2,2,0.1
+ORD-2024-1101,20-04-2024,23-04-2024,Second Class,Corporate,North,Punjab,Ludhiana,Technology,Accessories,11251.68,2320.78,6,0
+ORD-2025-1053,20-04-2025,25-04-2025,First Class,Consumer,South,Tamil Nadu,Coimbatore,Electronics,Audio,6572.16,676.08,7,0
+ORD-2024-1189,20-05-2024,27-05-2024,Same Day,Corporate,North,Delhi,New Delhi,Technology,Copiers,7032.12,920.6,12,0
+ORD-2024-1296,20-05-2024,22-05-2024,Second Class,Consumer,East,Assam,Guwahati,Electronics,Audio,4980.96,121.15,10,0.1
+ORD-2025-1535,20-05-2025,25-05-2025,Second Class,Corporate,West,Maharashtra,Pune,Technology,Machines,6614.8,1383.3,4,0
+ORD-2025-1109,20-06-2025,21-06-2025,First Class,Consumer,West,Maharashtra,Mumbai,Office Supplies,Labels,407.84,34.24,5,0.2
+ORD-2024-1078,20-08-2024,27-08-2024,Standard Class,Corporate,West,Maharashtra,Nagpur,Furniture,Bookcases,215.75,-29.48,2,0.3
+ORD-2024-1414,20-08-2024,27-08-2024,Same Day,Consumer,East,Bihar,Patna,Office Supplies,Binders,1649.3,483.89,10,0
+ORD-2024-1524,20-08-2024,24-08-2024,Second Class,Corporate,East,Odisha,Bhubaneswar,Furniture,Bookcases,1347.36,-155.55,5,0.3
+ORD-2025-1530,20-08-2025,25-08-2025,Same Day,Home Office,East,West Bengal,Siliguri,Furniture,Tables,1310.8,94.71,5,0
+ORD-2025-1257,20-09-2025,25-09-2025,Same Day,Consumer,East,Bihar,Patna,Electronics,Audio,10432.95,1563.79,11,0
+ORD-2025-1363,20-09-2025,27-09-2025,Second Class,Home Office,East,West Bengal,Kolkata,Technology,Copiers,12179.92,9.09,12,0.15
+ORD-2025-1258,20-10-2025,25-10-2025,Same Day,Home Office,North,Uttar Pradesh,Kanpur,Furniture,Tables,1791.09,-354.72,9,0.3
+ORD-2025-1017,20-11-2025,27-11-2025,First Class,Consumer,West,Madhya Pradesh,Bhopal,Electronics,Audio,2954.4,414.39,2,0
+ORD-2025-1520,20-11-2025,27-11-2025,Same Day,Consumer,North,Rajasthan,Udaipur,Office Supplies,Art,406.3,129.69,2,0
+ORD-2025-1583,20-11-2025,24-11-2025,First Class,Corporate,North,Delhi,New Delhi,Technology,Copiers,4186.56,624.03,12,0
+ORD-2024-1160,20-12-2024,24-12-2024,First Class,Home Office,South,Telangana,Hyderabad,Office Supplies,Binders,1789.67,288.85,12,0.1
+ORD-2024-1048,21-01-2024,26-01-2024,Second Class,Corporate,North,Delhi,New Delhi,Electronics,Audio,754.46,58.05,3,0.1
+ORD-2024-1040,21-02-2024,26-02-2024,Same Day,Home Office,West,Gujarat,Ahmedabad,Technology,Copiers,1121.98,59.84,2,0.1
+ORD-2024-1150,21-02-2024,24-02-2024,Standard Class,Consumer,West,Gujarat,Ahmedabad,Office Supplies,Binders,1111.0,107.83,11,0.2
+ORD-2024-1285,21-02-2024,24-02-2024,Same Day,Home Office,South,Karnataka,Bengaluru,Furniture,Storage,3289.0,501.08,5,0
+ORD-2024-1314,21-02-2024,26-02-2024,Second Class,Consumer,North,Rajasthan,Udaipur,Furniture,Bookcases,2599.94,52.85,11,0.1
+ORD-2024-1489,21-04-2024,23-04-2024,Standard Class,Corporate,West,Gujarat,Surat,Furniture,Storage,3663.24,481.34,7,0
+ORD-2024-1521,21-04-2024,23-04-2024,Second Class,Home Office,North,Rajasthan,Jaipur,Office Supplies,Binders,871.32,243.65,12,0
+ORD-2025-1037,21-04-2025,25-04-2025,Second Class,Home Office,East,Odisha,Bhubaneswar,Technology,Machines,3497.04,147.99,4,0.15
+ORD-2025-1461,21-04-2025,26-04-2025,First Class,Home Office,East,Bihar,Patna,Technology,Phones,4069.12,202.34,12,0.1
+ORD-2025-1475,21-04-2025,26-04-2025,Standard Class,Home Office,West,Maharashtra,Mumbai,Technology,Machines,2642.9,408.39,10,0
+ORD-2025-1517,21-04-2025,26-04-2025,Standard Class,Home Office,North,Uttar Pradesh,Lucknow,Furniture,Bookcases,681.12,91.83,6,0
+ORD-2024-1428,21-05-2024,24-05-2024,Second Class,Home Office,South,Karnataka,Bengaluru,Office Supplies,Paper,1563.21,426.77,9,0
+ORD-2024-1341,21-07-2024,28-07-2024,Second Class,Consumer,North,Uttar Pradesh,Noida,Furniture,Chairs,3336.54,276.34,6,0
+ORD-2024-1507,21-08-2024,22-08-2024,Second Class,Consumer,South,Telangana,Hyderabad,Technology,Machines,2929.96,-351.61,7,0.3
+ORD-2024-1570,21-09-2024,24-09-2024,Same Day,Consumer,North,Punjab,Ludhiana,Furniture,Chairs,1488.26,-36.83,3,0.2
+ORD-2025-1216,21-09-2025,26-09-2025,First Class,Consumer,East,Assam,Guwahati,Technology,Machines,833.94,118.24,3,0
+ORD-2024-1159,21-10-2024,22-10-2024,Same Day,Corporate,West,Goa,Panaji,Office Supplies,Art,1178.55,270.57,9,0.1
+ORD-2025-1553,21-10-2025,25-10-2025,Same Day,Home Office,South,Kerala,Thiruvananthapuram,Furniture,Bookcases,3478.2,104.39,11,0.15
+ORD-2025-1596,21-10-2025,24-10-2025,Same Day,Consumer,West,Goa,Panaji,Furniture,Chairs,276.0,-28.41,1,0.2
+ORD-2024-1250,21-11-2024,25-11-2024,Standard Class,Consumer,East,Bihar,Patna,Technology,Machines,1342.22,192.76,2,0
+ORD-2025-1324,21-11-2025,28-11-2025,Same Day,Consumer,East,West Bengal,Siliguri,Office Supplies,Labels,2016.0,640.58,9,0
+ORD-2024-1366,21-12-2024,24-12-2024,Standard Class,Corporate,North,Delhi,New Delhi,Office Supplies,Art,217.58,50.69,4,0.1
+ORD-2024-1386,21-12-2024,25-12-2024,Same Day,Corporate,South,Kerala,Thiruvananthapuram,Office Supplies,Art,247.0,42.18,2,0.1
+ORD-2024-1399,21-12-2024,25-12-2024,Second Class,Corporate,West,Gujarat,Surat,Electronics,Wearables,892.63,-37.69,1,0.2
+ORD-2025-1230,21-12-2025,22-12-2025,Second Class,Home Office,West,Goa,Panaji,Office Supplies,Binders,42.16,10.26,8,0
+ORD-2025-1514,21-12-2025,25-12-2025,Same Day,Corporate,North,Delhi,New Delhi,Technology,Accessories,19396.73,-49.63,12,0.15
+ORD-2025-1004,22-01-2025,23-01-2025,First Class,Home Office,East,Bihar,Patna,Technology,Phones,11774.36,983.69,11,0.15
+ORD-2025-1265,22-01-2025,25-01-2025,Standard Class,Home Office,East,Odisha,Bhubaneswar,Furniture,Tables,3409.4,299.25,5,0
+ORD-2024-1155,22-02-2024,27-02-2024,Same Day,Consumer,East,West Bengal,Siliguri,Furniture,Tables,3412.58,-129.27,9,0.2
+ORD-2025-1206,22-02-2025,01-03-2025,Second Class,Home Office,South,Kerala,Thiruvananthapuram,Technology,Phones,12633.94,1948.18,11,0
+ORD-2024-1005,22-03-2024,24-03-2024,First Class,Consumer,South,Tamil Nadu,Chennai,Technology,Machines,13437.34,2356.12,7,0
+ORD-2024-1381,22-03-2024,24-03-2024,First Class,Home Office,East,Assam,Guwahati,Technology,Phones,4929.66,962.77,6,0
+ORD-2024-1431,22-03-2024,29-03-2024,Same Day,Home Office,South,Karnataka,Bengaluru,Technology,Machines,4430.98,352.77,3,0.15
+ORD-2025-1107,22-03-2025,23-03-2025,Same Day,Home Office,South,Telangana,Hyderabad,Office Supplies,Binders,164.7,-1.43,2,0.3
+ORD-2024-1009,22-04-2024,24-04-2024,Same Day,Corporate,South,Karnataka,Mysuru,Furniture,Chairs,5885.65,233.31,11,0.1
+ORD-2024-1140,22-05-2024,24-05-2024,First Class,Corporate,South,Telangana,Hyderabad,Furniture,Tables,728.11,91.31,1,0
+ORD-2024-1529,22-05-2024,29-05-2024,Second Class,Corporate,West,Goa,Panaji,Technology,Phones,6285.1,1069.49,5,0
+ORD-2025-1164,22-05-2025,24-05-2025,Standard Class,Corporate,West,Gujarat,Ahmedabad,Electronics,Cameras,7043.6,710.89,5,0
+ORD-2025-1549,22-05-2025,25-05-2025,First Class,Corporate,East,West Bengal,Siliguri,Furniture,Tables,4736.74,-501.81,9,0.2
+ORD-2024-1188,22-06-2024,24-06-2024,Standard Class,Home Office,West,Madhya Pradesh,Indore,Technology,Machines,12901.28,2860.08,8,0
+ORD-2025-1141,22-06-2025,26-06-2025,First Class,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Labels,1934.5,469.18,10,0
+ORD-2025-1170,22-06-2025,26-06-2025,Standard Class,Consumer,West,Gujarat,Ahmedabad,Technology,Phones,7254.96,1608.6,6,0
+ORD-2025-1451,22-07-2025,27-07-2025,First Class,Consumer,West,Maharashtra,Nagpur,Office Supplies,Art,76.72,6.38,10,0.2
+ORD-2024-1015,22-08-2024,23-08-2024,First Class,Home Office,North,Punjab,Ludhiana,Furniture,Chairs,4934.64,599.14,6,0
+ORD-2024-1446,22-09-2024,27-09-2024,Same Day,Home Office,North,Rajasthan,Udaipur,Office Supplies,Art,1459.1,470.87,10,0
+ORD-2025-1052,22-09-2025,27-09-2025,First Class,Corporate,South,Kerala,Kochi,Technology,Machines,12432.6,1523.91,8,0.1
+ORD-2025-1090,22-09-2025,26-09-2025,Second Class,Corporate,West,Gujarat,Surat,Technology,Copiers,10360.05,2061.94,5,0
+ORD-2025-1136,22-10-2025,25-10-2025,Same Day,Corporate,South,Kerala,Kochi,Furniture,Tables,3769.6,491.97,10,0
+ORD-2024-1204,22-11-2024,25-11-2024,Second Class,Corporate,South,Kerala,Thiruvananthapuram,Furniture,Storage,6757.74,518.83,11,0.1
+ORD-2024-1068,22-12-2024,26-12-2024,First Class,Corporate,South,Kerala,Thiruvananthapuram,Electronics,Cameras,5939.56,1103.41,11,0
+ORD-2024-1211,22-12-2024,26-12-2024,Standard Class,Corporate,East,Bihar,Patna,Technology,Copiers,2928.1,-13.92,12,0.2
+ORD-2025-1460,22-12-2025,27-12-2025,Same Day,Home Office,West,Maharashtra,Mumbai,Office Supplies,Paper,1719.87,49.9,11,0.3
+ORD-2024-1493,23-03-2024,27-03-2024,Standard Class,Corporate,North,Uttar Pradesh,Noida,Electronics,Cameras,4620.2,-275.77,5,0.2
+ORD-2025-1123,23-03-2025,24-03-2025,First Class,Consumer,North,Punjab,Amritsar,Office Supplies,Paper,663.24,3.39,4,0.3
+ORD-2024-1126,23-04-2024,26-04-2024,Same Day,Consumer,East,Odisha,Bhubaneswar,Office Supplies,Labels,126.44,32.1,2,0
+ORD-2024-1306,23-04-2024,28-04-2024,Standard Class,Home Office,West,Goa,Panaji,Furniture,Chairs,1885.8,279.01,3,0
+ORD-2024-1403,23-04-2024,24-04-2024,Second Class,Consumer,West,Gujarat,Surat,Office Supplies,Art,266.36,83.51,2,0
+ORD-2024-1167,23-05-2024,27-05-2024,Second Class,Corporate,East,West Bengal,Siliguri,Technology,Accessories,3118.24,486.69,4,0
+ORD-2024-1273,23-06-2024,30-06-2024,First Class,Corporate,East,Assam,Guwahati,Furniture,Tables,574.72,37.0,2,0.1
+ORD-2025-1105,23-06-2025,30-06-2025,Standard Class,Consumer,North,Uttar Pradesh,Kanpur,Furniture,Storage,1198.44,94.01,4,0.1
+ORD-2025-1445,23-06-2025,27-06-2025,Standard Class,Home Office,South,Tamil Nadu,Madurai,Electronics,Cameras,9785.88,1577.54,12,0
+ORD-2024-1325,23-07-2024,26-07-2024,Second Class,Consumer,North,Delhi,New Delhi,Furniture,Chairs,2085.45,288.5,3,0
+ORD-2024-1420,23-07-2024,30-07-2024,Standard Class,Consumer,South,Kerala,Kochi,Electronics,Audio,5025.72,-811.24,12,0.3
+ORD-2025-1411,23-07-2025,28-07-2025,First Class,Consumer,East,West Bengal,Siliguri,Electronics,Wearables,4179.99,433.77,3,0
+ORD-2024-1361,23-08-2024,27-08-2024,Same Day,Corporate,East,Bihar,Patna,Technology,Phones,5233.59,792.61,3,0
+ORD-2024-1580,23-09-2024,25-09-2024,Standard Class,Corporate,West,Goa,Panaji,Office Supplies,Paper,728.41,-8.61,6,0.3
+ORD-2025-1433,23-09-2025,27-09-2025,Standard Class,Home Office,South,Karnataka,Bengaluru,Furniture,Storage,5152.4,580.96,8,0
+ORD-2025-1462,23-09-2025,26-09-2025,First Class,Corporate,West,Madhya Pradesh,Indore,Electronics,Audio,9621.64,1635.31,7,0
+ORD-2025-1559,23-09-2025,30-09-2025,Standard Class,Consumer,South,Tamil Nadu,Coimbatore,Furniture,Storage,1846.35,140.59,5,0
+ORD-2024-1106,23-10-2024,26-10-2024,Second Class,Corporate,South,Telangana,Hyderabad,Technology,Machines,2252.61,-15.62,8,0.2
+ORD-2024-1337,23-10-2024,30-10-2024,Same Day,Corporate,North,Delhi,New Delhi,Electronics,Audio,987.9,174.39,2,0
+ORD-2025-1255,23-10-2025,27-10-2025,First Class,Consumer,East,West Bengal,Kolkata,Electronics,Audio,1715.55,-149.36,2,0.3
+ORD-2024-1538,23-11-2024,27-11-2024,First Class,Corporate,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,660.57,162.72,3,0
+ORD-2025-1120,23-11-2025,30-11-2025,Same Day,Consumer,South,Karnataka,Mysuru,Furniture,Bookcases,1868.44,-68.21,8,0.15
+ORD-2025-1198,24-01-2025,31-01-2025,First Class,Consumer,East,Odisha,Bhubaneswar,Furniture,Tables,1734.7,-123.23,3,0.2
+ORD-2025-1560,24-01-2025,25-01-2025,Second Class,Consumer,East,Bihar,Patna,Technology,Machines,5395.19,405.32,6,0.1
+ORD-2025-1280,24-02-2025,27-02-2025,Standard Class,Consumer,North,Delhi,New Delhi,Technology,Machines,6149.85,343.75,8,0.15
+ORD-2025-1066,24-03-2025,25-03-2025,First Class,Consumer,East,Assam,Guwahati,Office Supplies,Labels,848.51,69.77,7,0.2
+ORD-2025-1215,24-06-2025,01-07-2025,Standard Class,Corporate,East,Odisha,Bhubaneswar,Furniture,Storage,2005.09,-51.62,7,0.15
+ORD-2025-1183,24-08-2025,31-08-2025,First Class,Corporate,East,Assam,Guwahati,Electronics,Audio,3696.8,114.19,4,0.1
+ORD-2025-1382,24-08-2025,29-08-2025,Standard Class,Consumer,West,Goa,Panaji,Technology,Machines,14893.2,2209.98,7,0
+ORD-2024-1168,24-09-2024,01-10-2024,Same Day,Corporate,East,Bihar,Patna,Office Supplies,Binders,372.36,110.51,4,0
+ORD-2025-1182,24-10-2025,25-10-2025,Second Class,Consumer,South,Kerala,Kochi,Furniture,Bookcases,5017.38,619.97,6,0
+ORD-2025-1288,24-10-2025,26-10-2025,First Class,Home Office,West,Maharashtra,Nagpur,Furniture,Tables,572.94,54.57,1,0
+ORD-2025-1036,24-11-2025,01-12-2025,Standard Class,Corporate,West,Goa,Panaji,Furniture,Storage,6972.55,-243.38,10,0.15
+ORD-2025-1212,24-11-2025,26-11-2025,Second Class,Corporate,North,Delhi,New Delhi,Technology,Phones,24634.08,4473.53,12,0
+ORD-2025-1097,25-01-2025,30-01-2025,Standard Class,Home Office,East,Odisha,Bhubaneswar,Furniture,Bookcases,3502.41,-15.61,8,0.15
+ORD-2024-1373,25-02-2024,01-03-2024,First Class,Corporate,East,Assam,Guwahati,Technology,Accessories,12093.6,-21.09,8,0.15
+ORD-2024-1505,25-02-2024,03-03-2024,Same Day,Consumer,West,Madhya Pradesh,Indore,Furniture,Chairs,1363.1,7.0,4,0.1
+ORD-2025-1523,25-02-2025,02-03-2025,Same Day,Corporate,North,Delhi,New Delhi,Technology,Machines,6312.92,-677.81,11,0.3
+ORD-2025-1115,25-03-2025,30-03-2025,First Class,Corporate,North,Punjab,Ludhiana,Furniture,Storage,1525.95,163.71,3,0
+ORD-2025-1476,25-04-2025,29-04-2025,Same Day,Corporate,East,West Bengal,Siliguri,Office Supplies,Binders,888.08,149.54,8,0.15
+ORD-2025-1320,25-05-2025,26-05-2025,Same Day,Home Office,North,Rajasthan,Udaipur,Technology,Accessories,1031.7,91.34,1,0.15
+ORD-2025-1175,25-06-2025,27-06-2025,Standard Class,Corporate,East,West Bengal,Kolkata,Electronics,Cameras,3102.74,-526.39,4,0.3
+ORD-2025-1406,25-06-2025,26-06-2025,Standard Class,Consumer,West,Goa,Panaji,Technology,Machines,8210.15,1842.85,5,0
+ORD-2025-1061,25-07-2025,29-07-2025,Same Day,Corporate,South,Telangana,Hyderabad,Electronics,Audio,9331.0,1656.9,10,0
+ORD-2024-1348,25-08-2024,26-08-2024,First Class,Corporate,West,Goa,Panaji,Furniture,Storage,1187.08,162.46,4,0
+ORD-2025-1094,25-08-2025,28-08-2025,Same Day,Home Office,North,Punjab,Ludhiana,Office Supplies,Paper,44.35,10.76,5,0
+ORD-2025-1562,25-08-2025,26-08-2025,Standard Class,Corporate,West,Madhya Pradesh,Bhopal,Furniture,Storage,5285.56,-137.27,7,0.15
+ORD-2024-1072,25-10-2024,30-10-2024,Same Day,Consumer,West,Maharashtra,Nagpur,Technology,Copiers,7748.66,-710.94,7,0.3
+ORD-2024-1110,25-12-2024,01-01-2025,Standard Class,Consumer,North,Delhi,New Delhi,Electronics,Cameras,11086.77,-1721.01,11,0.3
+ORD-2024-1463,25-12-2024,29-12-2024,Second Class,Home Office,West,Madhya Pradesh,Indore,Furniture,Chairs,1374.66,201.79,3,0
+ORD-2025-1030,26-02-2025,27-02-2025,Second Class,Corporate,South,Karnataka,Bengaluru,Electronics,Audio,1336.78,-102.82,6,0.3
+ORD-2025-1322,26-02-2025,03-03-2025,First Class,Home Office,East,Bihar,Patna,Technology,Accessories,16014.31,398.62,12,0.15
+ORD-2025-1203,26-03-2025,29-03-2025,First Class,Home Office,West,Goa,Panaji,Technology,Machines,9390.11,80.87,11,0.15
+ORD-2024-1060,26-04-2024,27-04-2024,Standard Class,Consumer,East,Odisha,Bhubaneswar,Furniture,Storage,694.59,-1.43,2,0.15
+ORD-2024-1309,26-04-2024,30-04-2024,Same Day,Corporate,East,West Bengal,Siliguri,Technology,Accessories,7524.24,1606.96,8,0
+ORD-2024-1352,26-04-2024,30-04-2024,Same Day,Consumer,East,West Bengal,Kolkata,Office Supplies,Art,1363.44,394.14,8,0
+ORD-2024-1502,26-05-2024,02-06-2024,Second Class,Home Office,East,Assam,Guwahati,Technology,Accessories,4816.73,307.91,8,0.1
+ORD-2025-1187,26-05-2025,31-05-2025,Same Day,Home Office,South,Telangana,Hyderabad,Office Supplies,Paper,1819.18,465.22,11,0
+ORD-2025-1172,26-07-2025,30-07-2025,First Class,Consumer,West,Gujarat,Surat,Office Supplies,Binders,679.32,35.44,5,0.2
+ORD-2024-1358,26-08-2024,27-08-2024,Standard Class,Home Office,East,West Bengal,Siliguri,Furniture,Storage,2529.47,14.62,9,0.1
+ORD-2024-1412,26-08-2024,29-08-2024,Second Class,Home Office,South,Telangana,Hyderabad,Electronics,Audio,2087.51,10.4,2,0.15
+ORD-2025-1346,26-08-2025,02-09-2025,Standard Class,Corporate,East,Assam,Guwahati,Office Supplies,Paper,580.53,110.37,3,0.1
+ORD-2024-1401,26-09-2024,01-10-2024,Same Day,Home Office,South,Tamil Nadu,Madurai,Furniture,Bookcases,266.72,-36.33,1,0.3
+ORD-2025-1518,26-10-2025,30-10-2025,Second Class,Home Office,South,Karnataka,Mysuru,Furniture,Chairs,4792.55,-498.85,10,0.3
+ORD-2024-1143,26-11-2024,03-12-2024,First Class,Consumer,North,Delhi,New Delhi,Office Supplies,Paper,542.16,170.56,9,0
+ORD-2024-1395,26-11-2024,28-11-2024,Standard Class,Corporate,South,Kerala,Thiruvananthapuram,Technology,Machines,1136.99,49.73,1,0.2
+ORD-2025-1154,26-12-2025,31-12-2025,Standard Class,Corporate,West,Goa,Panaji,Office Supplies,Labels,78.45,20.64,1,0
+ORD-2025-1267,26-12-2025,02-01-2026,Second Class,Consumer,East,Bihar,Patna,Technology,Phones,7787.45,320.37,6,0.1
+ORD-2025-1447,26-12-2025,29-12-2025,Standard Class,Home Office,West,Madhya Pradesh,Indore,Electronics,Audio,1470.13,150.54,1,0
+ORD-2024-1594,27-01-2024,30-01-2024,Standard Class,Corporate,North,Punjab,Amritsar,Technology,Machines,16838.36,2852.7,11,0
+ORD-2025-1298,27-01-2025,28-01-2025,Standard Class,Corporate,South,Kerala,Thiruvananthapuram,Office Supplies,Labels,45.57,3.98,4,0.2
+ORD-2024-1178,27-02-2024,29-02-2024,First Class,Home Office,North,Rajasthan,Udaipur,Furniture,Tables,2465.95,373.79,5,0
+ORD-2025-1098,27-02-2025,02-03-2025,First Class,Corporate,North,Punjab,Amritsar,Office Supplies,Paper,1308.64,278.69,7,0.1
+ORD-2024-1472,27-03-2024,29-03-2024,Same Day,Home Office,North,Punjab,Amritsar,Technology,Accessories,7098.68,-670.1,7,0.3
+ORD-2025-1587,27-04-2025,30-04-2025,Standard Class,Consumer,North,Delhi,New Delhi,Office Supplies,Paper,1918.84,38.04,11,0.3
+ORD-2024-1127,27-05-2024,30-05-2024,Same Day,Consumer,North,Rajasthan,Jaipur,Technology,Accessories,10014.0,1542.72,10,0
+ORD-2024-1533,27-05-2024,29-05-2024,Same Day,Consumer,South,Kerala,Thiruvananthapuram,Furniture,Chairs,2957.85,226.61,9,0
+ORD-2025-1011,27-05-2025,29-05-2025,Second Class,Consumer,West,Maharashtra,Nagpur,Electronics,Cameras,1107.48,-119.02,2,0.3
+ORD-2025-1196,27-05-2025,03-06-2025,Standard Class,Corporate,East,Assam,Guwahati,Technology,Phones,2146.08,372.79,1,0
+ORD-2025-1085,27-06-2025,02-07-2025,Same Day,Corporate,West,Gujarat,Ahmedabad,Furniture,Bookcases,2487.18,401.44,3,0
+ORD-2024-1360,27-07-2024,31-07-2024,Same Day,Corporate,West,Goa,Panaji,Electronics,Cameras,6925.74,193.03,9,0.1
+ORD-2025-1317,27-07-2025,01-08-2025,Same Day,Consumer,East,West Bengal,Kolkata,Technology,Machines,13055.04,-178.47,12,0.2
+ORD-2025-1379,27-07-2025,01-08-2025,Standard Class,Corporate,North,Rajasthan,Udaipur,Furniture,Bookcases,4220.55,303.81,5,0
+ORD-2025-1448,27-07-2025,03-08-2025,First Class,Consumer,South,Kerala,Thiruvananthapuram,Furniture,Bookcases,2795.32,388.55,11,0
+ORD-2025-1437,27-08-2025,03-09-2025,Second Class,Home Office,West,Goa,Panaji,Furniture,Storage,6516.4,619.11,8,0
+ORD-2024-1307,27-09-2024,01-10-2024,First Class,Corporate,North,Uttar Pradesh,Noida,Furniture,Bookcases,254.25,-49.85,3,0.3
+ORD-2024-1079,27-10-2024,30-10-2024,Second Class,Consumer,South,Telangana,Hyderabad,Furniture,Chairs,1162.11,143.08,3,0
+ORD-2025-1077,27-10-2025,28-10-2025,First Class,Home Office,West,Goa,Panaji,Technology,Copiers,14543.07,-1259.98,11,0.3
+ORD-2024-1409,27-11-2024,02-12-2024,First Class,Corporate,East,Bihar,Patna,Office Supplies,Labels,575.82,154.04,9,0
+ORD-2024-1418,27-11-2024,04-12-2024,Same Day,Corporate,South,Karnataka,Bengaluru,Furniture,Storage,1675.58,229.85,2,0
+ORD-2025-1519,27-11-2025,01-12-2025,Same Day,Home Office,South,Telangana,Hyderabad,Electronics,Wearables,918.18,123.52,2,0
+ORD-2025-1071,27-12-2025,29-12-2025,Second Class,Consumer,West,Madhya Pradesh,Indore,Furniture,Tables,284.6,-6.89,1,0.15
+ORD-2025-1473,28-01-2025,31-01-2025,Same Day,Home Office,South,Kerala,Thiruvananthapuram,Office Supplies,Labels,358.84,34.36,7,0.15
+ORD-2024-1291,28-02-2024,04-03-2024,Standard Class,Home Office,East,Bihar,Patna,Furniture,Tables,1974.53,-189.57,6,0.2
+ORD-2024-1354,28-03-2024,30-03-2024,Second Class,Corporate,West,Maharashtra,Nagpur,Technology,Machines,5842.65,-536.55,8,0.3
+ORD-2024-1438,28-03-2024,02-04-2024,Second Class,Corporate,North,Delhi,New Delhi,Technology,Machines,13316.44,-565.69,12,0.3
+ORD-2024-1481,28-04-2024,29-04-2024,Second Class,Corporate,South,Karnataka,Mysuru,Furniture,Bookcases,1369.81,13.89,7,0.1
+ORD-2025-1114,28-05-2025,30-05-2025,First Class,Home Office,North,Rajasthan,Jaipur,Office Supplies,Labels,1917.12,596.41,8,0
+ORD-2025-1002,28-07-2025,30-07-2025,Same Day,Home Office,North,Punjab,Ludhiana,Office Supplies,Binders,1840.28,252.03,12,0.15
+ORD-2025-1157,28-07-2025,31-07-2025,Second Class,Corporate,West,Maharashtra,Nagpur,Furniture,Tables,6109.53,-166.9,8,0.15
+ORD-2025-1532,28-07-2025,29-07-2025,Same Day,Corporate,North,Uttar Pradesh,Kanpur,Office Supplies,Labels,370.24,55.26,8,0.2
+ORD-2024-1042,28-08-2024,31-08-2024,Second Class,Corporate,West,Gujarat,Surat,Office Supplies,Art,785.52,191.54,9,0
+ORD-2024-1371,28-09-2024,30-09-2024,Second Class,Consumer,South,Kerala,Kochi,Furniture,Tables,750.26,-103.64,4,0.3
+ORD-2025-1145,28-10-2025,30-10-2025,Same Day,Home Office,North,Delhi,New Delhi,Furniture,Bookcases,4218.01,-4.64,7,0.15
+ORD-2024-1108,28-11-2024,30-11-2024,First Class,Consumer,West,Madhya Pradesh,Bhopal,Furniture,Chairs,6633.72,419.27,10,0.1
+ORD-2025-1534,28-12-2025,02-01-2026,Same Day,Corporate,North,Rajasthan,Udaipur,Office Supplies,Labels,570.09,141.72,3,0
+ORD-2025-1589,28-12-2025,02-01-2026,Second Class,Corporate,West,Goa,Panaji,Furniture,Bookcases,2175.0,220.39,5,0
+ORD-2024-1569,29-01-2024,31-01-2024,Same Day,Corporate,South,Kerala,Kochi,Furniture,Tables,3301.11,94.21,5,0.1
+ORD-2025-1200,29-01-2025,30-01-2025,Second Class,Home Office,North,Delhi,New Delhi,Office Supplies,Art,374.85,-11.82,7,0.3
+ORD-2024-1365,29-03-2024,01-04-2024,Second Class,Home Office,North,Uttar Pradesh,Lucknow,Technology,Accessories,8339.09,-87.44,6,0.2
+ORD-2025-1104,29-03-2025,05-04-2025,Second Class,Home Office,South,Karnataka,Bengaluru,Technology,Machines,8913.87,725.75,10,0.1
+ORD-2025-1557,29-03-2025,02-04-2025,First Class,Home Office,North,Rajasthan,Udaipur,Office Supplies,Labels,35.24,5.67,3,0.15
+ORD-2024-1171,29-04-2024,06-05-2024,Same Day,Consumer,South,Karnataka,Bengaluru,Office Supplies,Labels,497.88,74.23,10,0.1
+ORD-2025-1056,29-04-2025,04-05-2025,First Class,Home Office,South,Kerala,Kochi,Office Supplies,Art,756.45,79.46,7,0.2
+ORD-2024-1186,29-05-2024,30-05-2024,First Class,Consumer,South,Telangana,Hyderabad,Office Supplies,Paper,585.56,97.79,10,0.15
+ORD-2024-1377,29-05-2024,05-06-2024,Second Class,Home Office,East,Odisha,Bhubaneswar,Electronics,Audio,275.35,39.14,1,0
+ORD-2025-1144,29-05-2025,05-06-2025,First Class,Home Office,East,Odisha,Bhubaneswar,Technology,Phones,4541.4,668.13,10,0
+ORD-2025-1223,29-06-2025,02-07-2025,First Class,Corporate,South,Karnataka,Bengaluru,Technology,Machines,4060.2,925.32,3,0
+ORD-2024-1585,29-08-2024,03-09-2024,Same Day,Consumer,West,Gujarat,Ahmedabad,Office Supplies,Art,461.96,133.18,4,0
+ORD-2025-1205,29-08-2025,03-09-2025,Same Day,Home Office,West,Goa,Panaji,Office Supplies,Paper,441.72,143.69,9,0
+ORD-2025-1070,29-09-2025,03-10-2025,Second Class,Corporate,North,Rajasthan,Udaipur,Furniture,Bookcases,592.84,57.33,1,0
+ORD-2024-1466,29-11-2024,04-12-2024,Same Day,Consumer,North,Rajasthan,Jaipur,Office Supplies,Labels,231.44,60.36,8,0
+ORD-2025-1010,29-11-2025,04-12-2025,Same Day,Consumer,West,Goa,Panaji,Technology,Phones,18445.24,2603.64,11,0
+ORD-2025-1029,29-11-2025,01-12-2025,Same Day,Home Office,East,Bihar,Patna,Electronics,Audio,4285.6,-488.61,6,0.3
+ORD-2025-1525,29-12-2025,03-01-2026,Second Class,Consumer,East,Assam,Guwahati,Technology,Accessories,1467.94,-101.57,3,0.3
+ORD-2025-1124,30-01-2025,31-01-2025,First Class,Consumer,West,Maharashtra,Pune,Office Supplies,Paper,96.85,31.29,1,0
+ORD-2024-1440,30-04-2024,02-05-2024,Standard Class,Corporate,East,Bihar,Patna,Office Supplies,Paper,204.26,35.04,1,0.15
+ORD-2025-1099,30-04-2025,01-05-2025,First Class,Consumer,East,Bihar,Patna,Electronics,Wearables,382.72,54.8,2,0
+ORD-2025-1153,30-04-2025,05-05-2025,First Class,Consumer,West,Maharashtra,Mumbai,Furniture,Bookcases,3865.2,-197.21,10,0.15
+ORD-2025-1303,30-04-2025,07-05-2025,First Class,Corporate,North,Rajasthan,Udaipur,Office Supplies,Art,408.19,46.14,12,0.2
+ORD-2025-1450,30-04-2025,01-05-2025,First Class,Corporate,South,Telangana,Hyderabad,Electronics,Cameras,7917.92,1288.4,8,0
+ORD-2024-1111,30-06-2024,07-07-2024,First Class,Home Office,East,Odisha,Bhubaneswar,Technology,Phones,7963.55,-653.43,10,0.3
+ORD-2024-1286,30-06-2024,04-07-2024,First Class,Home Office,North,Delhi,New Delhi,Office Supplies,Labels,892.74,219.93,6,0
+ORD-2025-1527,30-06-2025,03-07-2025,Second Class,Corporate,East,Bihar,Patna,Office Supplies,Paper,31.29,7.29,1,0.1
+ORD-2025-1593,30-07-2025,06-08-2025,Second Class,Corporate,South,Telangana,Hyderabad,Technology,Machines,13299.2,2428.45,10,0
+ORD-2024-1222,30-08-2024,01-09-2024,Same Day,Consumer,East,Bihar,Patna,Office Supplies,Binders,1628.96,138.56,10,0.2
+ORD-2024-1058,30-10-2024,01-11-2024,Second Class,Corporate,West,Goa,Panaji,Electronics,Audio,2898.35,495.04,5,0
+ORD-2024-1415,30-11-2024,05-12-2024,Same Day,Corporate,East,West Bengal,Siliguri,Office Supplies,Paper,527.85,156.96,3,0
+ORD-2025-1080,30-11-2025,02-12-2025,First Class,Corporate,South,Tamil Nadu,Madurai,Electronics,Wearables,7766.4,956.97,10,0
+ORD-2025-1328,30-11-2025,01-12-2025,Same Day,Consumer,East,Odisha,Bhubaneswar,Office Supplies,Paper,121.94,12.36,3,0.2
+ORD-2025-1574,30-11-2025,02-12-2025,First Class,Corporate,East,West Bengal,Siliguri,Office Supplies,Labels,723.03,200.66,3,0
+ORD-2025-1343,30-12-2025,06-01-2026,First Class,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Paper,567.03,-2.3,5,0.3
+ORD-2024-1241,31-01-2024,03-02-2024,Standard Class,Corporate,East,Odisha,Bhubaneswar,Technology,Phones,7628.45,10.58,5,0.15
+ORD-2025-1236,31-01-2025,05-02-2025,Same Day,Consumer,North,Delhi,New Delhi,Electronics,Audio,4795.49,-300.79,9,0.2
+ORD-2025-1426,31-01-2025,01-02-2025,Same Day,Home Office,East,Odisha,Bhubaneswar,Technology,Machines,10413.45,1511.73,5,0
+ORD-2024-1416,31-05-2024,02-06-2024,Same Day,Corporate,North,Punjab,Amritsar,Office Supplies,Labels,594.05,100.71,8,0.15
+ORD-2025-1165,31-05-2025,04-06-2025,Same Day,Home Office,East,Assam,Guwahati,Electronics,Audio,905.78,105.3,2,0
+ORD-2025-1321,31-05-2025,04-06-2025,First Class,Corporate,South,Karnataka,Bengaluru,Furniture,Bookcases,3386.48,-114.34,10,0.2
+ORD-2025-1477,31-07-2025,03-08-2025,Standard Class,Home Office,East,Bihar,Patna,Furniture,Bookcases,886.45,-42.63,8,0.15
+ORD-2024-1441,31-08-2024,02-09-2024,Standard Class,Home Office,West,Madhya Pradesh,Indore,Technology,Copiers,9623.59,779.66,8,0.1
+ORD-2024-1453,31-08-2024,03-09-2024,Second Class,Consumer,East,West Bengal,Siliguri,Office Supplies,Labels,578.6,163.46,5,0
+ORD-2024-1572,31-08-2024,05-09-2024,Same Day,Home Office,North,Delhi,New Delhi,Office Supplies,Binders,209.76,65.7,6,0
+ORD-2025-1177,31-08-2025,01-09-2025,Second Class,Home Office,West,Maharashtra,Mumbai,Furniture,Chairs,3925.5,-89.42,11,0.2
+ORD-2025-1456,31-08-2025,01-09-2025,First Class,Consumer,North,Delhi,New Delhi,Electronics,Wearables,539.94,82.1,1,0
+ORD-2024-1146,31-10-2024,04-11-2024,Same Day,Corporate,East,Bihar,Patna,Furniture,Storage,139.84,15.94,1,0
+ORD-2025-1497,31-10-2025,01-11-2025,Second Class,Consumer,South,Tamil Nadu,Chennai,Technology,Copiers,10895.6,1680.85,10,0
