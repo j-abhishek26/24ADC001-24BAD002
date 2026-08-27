@@ -1,0 +1,136 @@
+ticket_id,issue_category,agent_notes,resolution_time_min,resolved_first_contact,customer_satisfaction
+1,Billing,"Customer disputed a charge, insisting they cancelled last month. Checked logs - cancellation request was submitted but never confirmed in step 2 of the flow. UX issue, not customer error.",33,N,3
+2,Bug Report,Search returned zero results for terms that clearly existed in records. The search index hadn't rebuilt after a recent data migration.,47,Y,5
+3,Billing,Customer charged twice for same invoice due to a retry from a failed webhook. Issued refund for duplicate charge and flagged webhook retry logic for engineering.,40,N,1
+4,Login Issue,Customer using old bookmarked login URL from before our domain migration. Redirected them to the new URL and updated their bookmark.,10,N,2
+5,Login Issue,Customer using old bookmarked login URL from before our domain migration. Redirected them to the new URL and updated their bookmark.,18,Y,5
+6,Login Issue,"Login worked on mobile but not desktop. Cache issue - had them clear cookies for our domain specifically, not full browser cache.",7,Y,4
+7,Billing,"Proration looked wrong after a mid-cycle upgrade. Walked customer through the proration math line by line; it was actually correct, just confusing to read.",10,Y,3
+8,Performance,Reports timing out only during 9-10am IST. That's peak load time across our largest customer cohort; likely a capacity issue rather than a customer-specific bug.,18,N,3
+9,Feature Request,Requested an audit log showing who changed what in shared dashboards. Compliance-driven request from a healthcare customer - likely to become a blocker for others in that industry.,6,N,3
+10,Bug Report,Dashboard filters reset every time the page auto-refreshed. Root cause: filter state wasn't being persisted across the refresh cycle.,111,Y,2
+11,Login Issue,Account showed as 'suspended' but customer never violated anything. Found it was an automated flag from a false-positive fraud rule. Escalated to trust & safety to whitelist.,6,N,1
+12,Performance,Reports timing out only during 9-10am IST. That's peak load time across our largest customer cohort; likely a capacity issue rather than a customer-specific bug.,62,N,3
+13,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",119,N,3
+14,Billing,Currency showing in USD instead of INR despite India billing address. Manually corrected currency on account and noted it for the localization team.,30,Y,4
+15,Login Issue,User's session kept expiring every 2 minutes. Turned out their browser extension was blocking our auth cookie. Had them disable it.,18,N,1
+16,Billing,Invoice PDF wouldn't generate for enterprise plan customers specifically. Found a template bug only triggered when line items exceed 8 rows.,12,Y,4
+17,Bug Report,Duplicate rows appearing after using the bulk-edit tool. Traced it to a race condition when two bulk edits overlap. Advised avoiding concurrent bulk edits until patched.,57,Y,5
+18,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",45,N,4
+19,Bug Report,Duplicate rows appearing after using the bulk-edit tool. Traced it to a race condition when two bulk edits overlap. Advised avoiding concurrent bulk edits until patched.,66,N,1
+20,Login Issue,Account showed as 'suspended' but customer never violated anything. Found it was an automated flag from a false-positive fraud rule. Escalated to trust & safety to whitelist.,9,Y,4
+21,Performance,Dashboard taking 15+ seconds to load for one customer specifically. Their dataset had grown to 2M rows without any indexing - recommended enabling the new indexing option.,86,N,1
+22,Login Issue,"Two-factor code never arrived. Checked SMS gateway logs, delivery was delayed on carrier side. Advised switching to authenticator app.",9,Y,2
+23,Performance,API responses slowed down after customer added a new custom field. Custom fields on that table aren't indexed by default; advised adding an index or removing the field from filters.,70,Y,3
+24,Login Issue,"Login worked on mobile but not desktop. Cache issue - had them clear cookies for our domain specifically, not full browser cache.",21,Y,1
+25,Feature Request,"Asked for a dark mode option, cited eye strain from long dashboard sessions. Passed to product team, noted this is a frequent ask from the analytics-heavy user segment.",3,N,1
+26,Billing,"Customer disputed a charge, insisting they cancelled last month. Checked logs - cancellation request was submitted but never confirmed in step 2 of the flow. UX issue, not customer error.",39,Y,4
+27,Login Issue,"Two-factor code never arrived. Checked SMS gateway logs, delivery was delayed on carrier side. Advised switching to authenticator app.",9,N,5
+28,Billing,Customer's coupon didn't apply at checkout. Coupon had expired 1 day before the call - explained the expiry date and issued a new one as goodwill.,22,Y,5
+29,Login Issue,User's session kept expiring every 2 minutes. Turned out their browser extension was blocking our auth cookie. Had them disable it.,18,N,1
+30,Billing,"Customer disputed a charge, insisting they cancelled last month. Checked logs - cancellation request was submitted but never confirmed in step 2 of the flow. UX issue, not customer error.",18,Y,1
+31,Billing,Customer's coupon didn't apply at checkout. Coupon had expired 1 day before the call - explained the expiry date and issued a new one as goodwill.,21,Y,5
+32,Login Issue,User's session kept expiring every 2 minutes. Turned out their browser extension was blocking our auth cookie. Had them disable it.,10,N,2
+33,Bug Report,Search returned zero results for terms that clearly existed in records. The search index hadn't rebuilt after a recent data migration.,82,Y,5
+34,Feature Request,Wants bulk import to support Excel files directly instead of requiring CSV conversion first. Reasonable ask - many enterprise customers still work in Excel by default.,3,N,2
+35,Login Issue,Customer using old bookmarked login URL from before our domain migration. Redirected them to the new URL and updated their bookmark.,6,N,3
+36,Bug Report,Notification emails were being sent twice. Found a duplicate cron job running from a deployment that wasn't cleaned up properly.,104,Y,5
+37,Performance,API responses slowed down after customer added a new custom field. Custom fields on that table aren't indexed by default; advised adding an index or removing the field from filters.,79,Y,2
+38,Performance,Dashboard taking 15+ seconds to load for one customer specifically. Their dataset had grown to 2M rows without any indexing - recommended enabling the new indexing option.,58,N,3
+39,Login Issue,User's session kept expiring every 2 minutes. Turned out their browser extension was blocking our auth cookie. Had them disable it.,22,Y,3
+40,Login Issue,"Login worked on mobile but not desktop. Cache issue - had them clear cookies for our domain specifically, not full browser cache.",15,N,4
+41,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",116,N,3
+42,Performance,Dashboard taking 15+ seconds to load for one customer specifically. Their dataset had grown to 2M rows without any indexing - recommended enabling the new indexing option.,83,Y,5
+43,Feature Request,"Asked for a dark mode option, cited eye strain from long dashboard sessions. Passed to product team, noted this is a frequent ask from the analytics-heavy user segment.",6,N,1
+44,Performance,Reports timing out only during 9-10am IST. That's peak load time across our largest customer cohort; likely a capacity issue rather than a customer-specific bug.,88,Y,4
+45,Performance,Dashboard taking 15+ seconds to load for one customer specifically. Their dataset had grown to 2M rows without any indexing - recommended enabling the new indexing option.,26,N,3
+46,Bug Report,Dashboard filters reset every time the page auto-refreshed. Root cause: filter state wasn't being persisted across the refresh cycle.,79,N,3
+47,Performance,Reports timing out only during 9-10am IST. That's peak load time across our largest customer cohort; likely a capacity issue rather than a customer-specific bug.,38,Y,4
+48,Login Issue,User's session kept expiring every 2 minutes. Turned out their browser extension was blocking our auth cookie. Had them disable it.,10,N,2
+49,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",47,N,3
+50,Login Issue,Customer locked out after 3 failed attempts. Reset password manually and cleared account lockout flag in admin panel.,10,Y,5
+51,Feature Request,"Asked for a dark mode option, cited eye strain from long dashboard sessions. Passed to product team, noted this is a frequent ask from the analytics-heavy user segment.",6,N,2
+52,Feature Request,Wants bulk import to support Excel files directly instead of requiring CSV conversion first. Reasonable ask - many enterprise customers still work in Excel by default.,4,N,4
+53,Billing,Customer's coupon didn't apply at checkout. Coupon had expired 1 day before the call - explained the expiry date and issued a new one as goodwill.,21,N,1
+54,Performance,Reports timing out only during 9-10am IST. That's peak load time across our largest customer cohort; likely a capacity issue rather than a customer-specific bug.,55,N,2
+55,Bug Report,Export to Excel button did nothing on Safari specifically. Reproduced it - Safari blocks the download differently than Chrome. Filed as a browser-specific bug.,51,Y,5
+56,Performance,API responses slowed down after customer added a new custom field. Custom fields on that table aren't indexed by default; advised adding an index or removing the field from filters.,65,N,3
+57,Bug Report,Notification emails were being sent twice. Found a duplicate cron job running from a deployment that wasn't cleaned up properly.,40,N,3
+58,Feature Request,Wants bulk import to support Excel files directly instead of requiring CSV conversion first. Reasonable ask - many enterprise customers still work in Excel by default.,7,Y,5
+59,Login Issue,Account showed as 'suspended' but customer never violated anything. Found it was an automated flag from a false-positive fraud rule. Escalated to trust & safety to whitelist.,16,N,5
+60,Login Issue,"Login worked on mobile but not desktop. Cache issue - had them clear cookies for our domain specifically, not full browser cache.",6,Y,5
+61,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",43,N,4
+62,Login Issue,"Login worked on mobile but not desktop. Cache issue - had them clear cookies for our domain specifically, not full browser cache.",10,Y,4
+63,Bug Report,Duplicate rows appearing after using the bulk-edit tool. Traced it to a race condition when two bulk edits overlap. Advised avoiding concurrent bulk edits until patched.,71,N,3
+64,Billing,Currency showing in USD instead of INR despite India billing address. Manually corrected currency on account and noted it for the localization team.,16,Y,4
+65,Performance,"Batch upload of 50,000 rows kept failing partway through. Turned out our upload timeout was too aggressive for large files. Recommended splitting into smaller batches meanwhile.",70,N,1
+66,Bug Report,Notification emails were being sent twice. Found a duplicate cron job running from a deployment that wasn't cleaned up properly.,90,N,2
+67,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",40,N,3
+68,Performance,Dashboard taking 15+ seconds to load for one customer specifically. Their dataset had grown to 2M rows without any indexing - recommended enabling the new indexing option.,53,N,2
+69,Login Issue,User's session kept expiring every 2 minutes. Turned out their browser extension was blocking our auth cookie. Had them disable it.,12,N,2
+70,Login Issue,User's session kept expiring every 2 minutes. Turned out their browser extension was blocking our auth cookie. Had them disable it.,15,Y,4
+71,Billing,Invoice PDF wouldn't generate for enterprise plan customers specifically. Found a template bug only triggered when line items exceed 8 rows.,24,Y,5
+72,Performance,Mobile app freezing when switching between more than 5 open dashboards. Memory leak suspected - passed to mobile team with repro steps.,64,N,1
+73,Login Issue,Account showed as 'suspended' but customer never violated anything. Found it was an automated flag from a false-positive fraud rule. Escalated to trust & safety to whitelist.,18,Y,3
+74,Performance,"Batch upload of 50,000 rows kept failing partway through. Turned out our upload timeout was too aggressive for large files. Recommended splitting into smaller batches meanwhile.",44,N,5
+75,Bug Report,Search returned zero results for terms that clearly existed in records. The search index hadn't rebuilt after a recent data migration.,21,Y,5
+76,Feature Request,Wants bulk import to support Excel files directly instead of requiring CSV conversion first. Reasonable ask - many enterprise customers still work in Excel by default.,6,N,1
+77,Billing,Currency showing in USD instead of INR despite India billing address. Manually corrected currency on account and noted it for the localization team.,40,N,4
+78,Feature Request,"Asked for a dark mode option, cited eye strain from long dashboard sessions. Passed to product team, noted this is a frequent ask from the analytics-heavy user segment.",4,N,4
+79,Login Issue,"Two-factor code never arrived. Checked SMS gateway logs, delivery was delayed on carrier side. Advised switching to authenticator app.",9,Y,5
+80,Billing,Invoice PDF wouldn't generate for enterprise plan customers specifically. Found a template bug only triggered when line items exceed 8 rows.,24,Y,4
+81,Billing,"Customer disputed a charge, insisting they cancelled last month. Checked logs - cancellation request was submitted but never confirmed in step 2 of the flow. UX issue, not customer error.",19,N,4
+82,Billing,Invoice PDF wouldn't generate for enterprise plan customers specifically. Found a template bug only triggered when line items exceed 8 rows.,32,Y,5
+83,Performance,API responses slowed down after customer added a new custom field. Custom fields on that table aren't indexed by default; advised adding an index or removing the field from filters.,20,N,5
+84,Billing,"Proration looked wrong after a mid-cycle upgrade. Walked customer through the proration math line by line; it was actually correct, just confusing to read.",15,N,3
+85,Bug Report,Search returned zero results for terms that clearly existed in records. The search index hadn't rebuilt after a recent data migration.,52,N,2
+86,Feature Request,Requested an audit log showing who changed what in shared dashboards. Compliance-driven request from a healthcare customer - likely to become a blocker for others in that industry.,9,N,2
+87,Billing,Customer charged twice for same invoice due to a retry from a failed webhook. Issued refund for duplicate charge and flagged webhook retry logic for engineering.,10,Y,3
+88,Feature Request,Requested an audit log showing who changed what in shared dashboards. Compliance-driven request from a healthcare customer - likely to become a blocker for others in that industry.,6,N,4
+89,Bug Report,Search returned zero results for terms that clearly existed in records. The search index hadn't rebuilt after a recent data migration.,88,Y,4
+90,Billing,"Proration looked wrong after a mid-cycle upgrade. Walked customer through the proration math line by line; it was actually correct, just confusing to read.",40,Y,4
+91,Billing,"Proration looked wrong after a mid-cycle upgrade. Walked customer through the proration math line by line; it was actually correct, just confusing to read.",32,Y,2
+92,Performance,Mobile app freezing when switching between more than 5 open dashboards. Memory leak suspected - passed to mobile team with repro steps.,62,N,5
+93,Feature Request,Wants bulk import to support Excel files directly instead of requiring CSV conversion first. Reasonable ask - many enterprise customers still work in Excel by default.,5,Y,5
+94,Performance,API responses slowed down after customer added a new custom field. Custom fields on that table aren't indexed by default; advised adding an index or removing the field from filters.,48,Y,5
+95,Bug Report,Notification emails were being sent twice. Found a duplicate cron job running from a deployment that wasn't cleaned up properly.,39,Y,4
+96,Billing,"Customer disputed a charge, insisting they cancelled last month. Checked logs - cancellation request was submitted but never confirmed in step 2 of the flow. UX issue, not customer error.",12,Y,5
+97,Feature Request,Asked if we could add a 'compare to last year' toggle on trend charts. Several customers have been manually doing this with two separate charts.,3,N,1
+98,Login Issue,Account showed as 'suspended' but customer never violated anything. Found it was an automated flag from a false-positive fraud rule. Escalated to trust & safety to whitelist.,23,Y,2
+99,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",102,N,1
+100,Billing,"Proration looked wrong after a mid-cycle upgrade. Walked customer through the proration math line by line; it was actually correct, just confusing to read.",11,Y,4
+101,Performance,"Batch upload of 50,000 rows kept failing partway through. Turned out our upload timeout was too aggressive for large files. Recommended splitting into smaller batches meanwhile.",87,N,4
+102,Bug Report,Duplicate rows appearing after using the bulk-edit tool. Traced it to a race condition when two bulk edits overlap. Advised avoiding concurrent bulk edits until patched.,118,Y,4
+103,Billing,Currency showing in USD instead of INR despite India billing address. Manually corrected currency on account and noted it for the localization team.,35,Y,3
+104,Bug Report,Export to Excel button did nothing on Safari specifically. Reproduced it - Safari blocks the download differently than Chrome. Filed as a browser-specific bug.,35,N,4
+105,Billing,Customer charged twice for same invoice due to a retry from a failed webhook. Issued refund for duplicate charge and flagged webhook retry logic for engineering.,31,Y,2
+106,Billing,"Proration looked wrong after a mid-cycle upgrade. Walked customer through the proration math line by line; it was actually correct, just confusing to read.",14,Y,4
+107,Billing,"Customer disputed a charge, insisting they cancelled last month. Checked logs - cancellation request was submitted but never confirmed in step 2 of the flow. UX issue, not customer error.",29,Y,4
+108,Login Issue,"Two-factor code never arrived. Checked SMS gateway logs, delivery was delayed on carrier side. Advised switching to authenticator app.",16,Y,5
+109,Feature Request,Wants bulk import to support Excel files directly instead of requiring CSV conversion first. Reasonable ask - many enterprise customers still work in Excel by default.,6,Y,2
+110,Billing,Invoice PDF wouldn't generate for enterprise plan customers specifically. Found a template bug only triggered when line items exceed 8 rows.,13,Y,4
+111,Login Issue,Customer using old bookmarked login URL from before our domain migration. Redirected them to the new URL and updated their bookmark.,24,Y,4
+112,Bug Report,Export to Excel button did nothing on Safari specifically. Reproduced it - Safari blocks the download differently than Chrome. Filed as a browser-specific bug.,33,N,1
+113,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",25,Y,2
+114,Billing,"Proration looked wrong after a mid-cycle upgrade. Walked customer through the proration math line by line; it was actually correct, just confusing to read.",10,Y,3
+115,Login Issue,"Login worked on mobile but not desktop. Cache issue - had them clear cookies for our domain specifically, not full browser cache.",6,N,1
+116,Billing,Invoice PDF wouldn't generate for enterprise plan customers specifically. Found a template bug only triggered when line items exceed 8 rows.,37,Y,1
+117,Bug Report,Dashboard filters reset every time the page auto-refreshed. Root cause: filter state wasn't being persisted across the refresh cycle.,53,N,3
+118,Bug Report,Notification emails were being sent twice. Found a duplicate cron job running from a deployment that wasn't cleaned up properly.,58,N,3
+119,Performance,"Batch upload of 50,000 rows kept failing partway through. Turned out our upload timeout was too aggressive for large files. Recommended splitting into smaller batches meanwhile.",48,Y,5
+120,Feature Request,Wants bulk import to support Excel files directly instead of requiring CSV conversion first. Reasonable ask - many enterprise customers still work in Excel by default.,5,Y,4
+121,Feature Request,"Asked for a dark mode option, cited eye strain from long dashboard sessions. Passed to product team, noted this is a frequent ask from the analytics-heavy user segment.",8,N,1
+122,Login Issue,"Login worked on mobile but not desktop. Cache issue - had them clear cookies for our domain specifically, not full browser cache.",12,Y,2
+123,Billing,Invoice PDF wouldn't generate for enterprise plan customers specifically. Found a template bug only triggered when line items exceed 8 rows.,14,Y,4
+124,Performance,Reports timing out only during 9-10am IST. That's peak load time across our largest customer cohort; likely a capacity issue rather than a customer-specific bug.,67,N,3
+125,Feature Request,Wants bulk import to support Excel files directly instead of requiring CSV conversion first. Reasonable ask - many enterprise customers still work in Excel by default.,3,N,4
+126,Feature Request,"Asked for a dark mode option, cited eye strain from long dashboard sessions. Passed to product team, noted this is a frequent ask from the analytics-heavy user segment.",10,N,3
+127,Performance,"Batch upload of 50,000 rows kept failing partway through. Turned out our upload timeout was too aggressive for large files. Recommended splitting into smaller batches meanwhile.",36,N,1
+128,Bug Report,"Chart rendered blank for datasets over 10,000 rows. This is a known rendering library limit - recommended aggregating data before charting as a workaround.",113,Y,2
+129,Performance,"Batch upload of 50,000 rows kept failing partway through. Turned out our upload timeout was too aggressive for large files. Recommended splitting into smaller batches meanwhile.",38,Y,3
+130,Feature Request,"Asked for a dark mode option, cited eye strain from long dashboard sessions. Passed to product team, noted this is a frequent ask from the analytics-heavy user segment.",10,Y,5
+131,Performance,Mobile app freezing when switching between more than 5 open dashboards. Memory leak suspected - passed to mobile team with repro steps.,80,N,5
+132,Feature Request,"Asked for a dark mode option, cited eye strain from long dashboard sessions. Passed to product team, noted this is a frequent ask from the analytics-heavy user segment.",4,Y,1
+133,Login Issue,Customer using old bookmarked login URL from before our domain migration. Redirected them to the new URL and updated their bookmark.,22,Y,4
+134,Login Issue,Account showed as 'suspended' but customer never violated anything. Found it was an automated flag from a false-positive fraud rule. Escalated to trust & safety to whitelist.,20,Y,4
+135,Bug Report,Search returned zero results for terms that clearly existed in records. The search index hadn't rebuilt after a recent data migration.,120,N,5

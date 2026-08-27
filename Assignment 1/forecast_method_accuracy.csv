@@ -1,0 +1,31 @@
+region,method,mape_percent,rmse,method_description
+North,Naive (last value),37.0,134.5,Simplest possible baseline; just carries the last actual forward.
+North,Simple Moving Average,37.5,138.1,Smooths noise but reacts slowly to real shifts in demand.
+North,Simple Exponential Smoothing,38.5,125.2,Reacts faster than moving average but assumes no trend or seasonality.
+North,Holt's Method (trend),21.1,81.7,Adds trend-tracking on top of exponential smoothing.
+North,Holt-Winters (trend + seasonality),3,10.2,Captures both trend and repeating seasonal patterns.
+North,Linear Regression,31.0,110.9,Fits a straight trend line; poor fit if the real pattern curves or repeats seasonally.
+South,Naive (last value),19.3,69.1,Simplest possible baseline; just carries the last actual forward.
+South,Simple Moving Average,12.6,41.8,Smooths noise but reacts slowly to real shifts in demand.
+South,Simple Exponential Smoothing,12.5,48.7,Reacts faster than moving average but assumes no trend or seasonality.
+South,Holt's Method (trend),18.1,68.7,Adds trend-tracking on top of exponential smoothing.
+South,Holt-Winters (trend + seasonality),18.7,60.8,Captures both trend and repeating seasonal patterns.
+South,Linear Regression,19.0,69.8,Fits a straight trend line; poor fit if the real pattern curves or repeats seasonally.
+East,Naive (last value),26.2,84.5,Simplest possible baseline; just carries the last actual forward.
+East,Simple Moving Average,28.5,102.0,Smooths noise but reacts slowly to real shifts in demand.
+East,Simple Exponential Smoothing,27.9,108.9,Reacts faster than moving average but assumes no trend or seasonality.
+East,Holt's Method (trend),12.9,50.8,Adds trend-tracking on top of exponential smoothing.
+East,Holt-Winters (trend + seasonality),11.6,44.6,Captures both trend and repeating seasonal patterns.
+East,Linear Regression,17.8,70.3,Fits a straight trend line; poor fit if the real pattern curves or repeats seasonally.
+West,Naive (last value),30.5,100.0,Simplest possible baseline; just carries the last actual forward.
+West,Simple Moving Average,27.5,92.8,Smooths noise but reacts slowly to real shifts in demand.
+West,Simple Exponential Smoothing,30.9,109.7,Reacts faster than moving average but assumes no trend or seasonality.
+West,Holt's Method (trend),29.5,101.5,Adds trend-tracking on top of exponential smoothing.
+West,Holt-Winters (trend + seasonality),8.0,28.1,Captures both trend and repeating seasonal patterns.
+West,Linear Regression,28.4,104.2,Fits a straight trend line; poor fit if the real pattern curves or repeats seasonally.
+Central,Naive (last value),38.3,150.3,Simplest possible baseline; just carries the last actual forward.
+Central,Simple Moving Average,38.7,152.6,Smooths noise but reacts slowly to real shifts in demand.
+Central,Simple Exponential Smoothing,39.4,157.3,Reacts faster than moving average but assumes no trend or seasonality.
+Central,Holt's Method (trend),23.7,78.9,Adds trend-tracking on top of exponential smoothing.
+Central,Holt-Winters (trend + seasonality),3.4,13.5,Captures both trend and repeating seasonal patterns.
+Central,Linear Regression,30.6,111.9,Fits a straight trend line; poor fit if the real pattern curves or repeats seasonally.

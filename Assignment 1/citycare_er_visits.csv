@@ -1,0 +1,1708 @@
+visit_id,date,arrival_hour,department,triage_level,wait_time_min,age_group,outcome,day_of_week
+1,2026-01-01,12,Trauma,3,47,0-12,Referred,Thursday
+2,2026-01-01,5,General Medicine,2,18,26-45,Admitted,Thursday
+3,2026-01-01,16,General Medicine,4,50,66+,Discharged,Thursday
+4,2026-01-01,8,General Medicine,2,14,26-45,Admitted,Thursday
+5,2026-01-01,16,Orthopedics,4,72,26-45,Discharged,Thursday
+6,2026-01-01,18,General Medicine,4,68,26-45,Discharged,Thursday
+7,2026-01-01,19,Orthopedics,5,64,26-45,Discharged,Thursday
+8,2026-01-01,4,Pediatrics,3,41,13-25,Discharged,Thursday
+9,2026-01-01,17,Cardiology,3,40,0-12,Referred,Thursday
+10,2026-01-01,22,Cardiology,4,68,0-12,Admitted,Thursday
+11,2026-01-01,11,Trauma,2,15,26-45,Discharged,Thursday
+12,2026-01-01,18,General Medicine,4,49,0-12,Discharged,Thursday
+13,2026-01-02,20,Trauma,2,15,13-25,Admitted,Friday
+14,2026-01-02,6,General Medicine,4,52,0-12,Discharged,Friday
+15,2026-01-02,12,General Medicine,2,10,66+,Admitted,Friday
+16,2026-01-02,20,Trauma,2,17,13-25,Admitted,Friday
+17,2026-01-02,22,Trauma,1,8,13-25,Admitted,Friday
+18,2026-01-02,9,Orthopedics,3,43,0-12,Discharged,Friday
+19,2026-01-02,22,Orthopedics,3,23,46-65,Discharged,Friday
+20,2026-01-02,19,Trauma,3,24,66+,Discharged,Friday
+21,2026-01-02,5,Cardiology,1,9,46-65,Admitted,Friday
+22,2026-01-02,2,Cardiology,2,16,0-12,Discharged,Friday
+23,2026-01-02,1,Cardiology,4,62,66+,Discharged,Friday
+24,2026-01-02,6,Cardiology,5,89,46-65,Discharged,Friday
+25,2026-01-02,5,Orthopedics,3,33,0-12,Discharged,Friday
+26,2026-01-02,22,General Medicine,2,23,26-45,Admitted,Friday
+27,2026-01-03,10,Pediatrics,2,18,46-65,Referred,Saturday
+28,2026-01-03,8,Cardiology,3,25,26-45,Admitted,Saturday
+29,2026-01-03,19,Orthopedics,2,21,46-65,Admitted,Saturday
+30,2026-01-03,14,General Medicine,5,98,46-65,Admitted,Saturday
+31,2026-01-03,8,Orthopedics,3,41,26-45,Discharged,Saturday
+32,2026-01-03,4,Trauma,2,8,0-12,Admitted,Saturday
+33,2026-01-03,23,Orthopedics,1,13,46-65,Admitted,Saturday
+34,2026-01-03,6,Trauma,3,30,26-45,Discharged,Saturday
+35,2026-01-03,13,Trauma,1,12,46-65,Admitted,Saturday
+36,2026-01-03,5,Pediatrics,5,63,13-25,Discharged,Saturday
+37,2026-01-03,14,Orthopedics,4,40,46-65,Referred,Saturday
+38,2026-01-03,16,General Medicine,4,44,0-12,Discharged,Saturday
+39,2026-01-03,19,General Medicine,5,121,0-12,Discharged,Saturday
+40,2026-01-03,15,General Medicine,3,55,46-65,Admitted,Saturday
+41,2026-01-03,3,Trauma,4,39,46-65,Discharged,Saturday
+42,2026-01-04,15,Trauma,2,8,26-45,Discharged,Sunday
+43,2026-01-04,8,Cardiology,4,64,0-12,Discharged,Sunday
+44,2026-01-04,11,Orthopedics,4,72,26-45,Admitted,Sunday
+45,2026-01-04,16,General Medicine,3,37,13-25,Admitted,Sunday
+46,2026-01-04,21,Pediatrics,4,58,26-45,Discharged,Sunday
+47,2026-01-04,18,Orthopedics,3,24,26-45,Admitted,Sunday
+48,2026-01-04,22,Trauma,2,22,13-25,Referred,Sunday
+49,2026-01-04,6,Trauma,2,18,0-12,Discharged,Sunday
+50,2026-01-04,19,Pediatrics,2,22,66+,Admitted,Sunday
+51,2026-01-04,7,Pediatrics,5,86,66+,Discharged,Sunday
+52,2026-01-04,23,Orthopedics,2,32,46-65,Admitted,Sunday
+53,2026-01-04,11,Orthopedics,3,35,13-25,Admitted,Sunday
+54,2026-01-04,0,Cardiology,4,52,26-45,Discharged,Sunday
+55,2026-01-04,23,General Medicine,5,119,46-65,Discharged,Sunday
+56,2026-01-04,10,Pediatrics,3,40,0-12,Referred,Sunday
+57,2026-01-04,9,Trauma,4,32,0-12,Discharged,Sunday
+58,2026-01-04,18,General Medicine,1,10,26-45,Referred,Sunday
+59,2026-01-04,19,Pediatrics,5,146,0-12,Discharged,Sunday
+60,2026-01-04,16,Cardiology,3,44,66+,Discharged,Sunday
+61,2026-01-04,9,Orthopedics,2,18,0-12,Admitted,Sunday
+62,2026-01-04,19,Cardiology,3,51,13-25,Discharged,Sunday
+63,2026-01-05,23,Trauma,1,2,0-12,Admitted,Monday
+64,2026-01-05,13,General Medicine,4,53,46-65,Discharged,Monday
+65,2026-01-05,21,Orthopedics,3,37,66+,Discharged,Monday
+66,2026-01-05,18,Trauma,5,91,0-12,Referred,Monday
+67,2026-01-05,0,Trauma,4,50,46-65,Discharged,Monday
+68,2026-01-05,15,Cardiology,4,57,66+,Discharged,Monday
+69,2026-01-05,8,General Medicine,1,7,13-25,Referred,Monday
+70,2026-01-05,1,Cardiology,2,18,66+,Admitted,Monday
+71,2026-01-05,4,Cardiology,4,55,13-25,Discharged,Monday
+72,2026-01-05,7,Trauma,2,23,26-45,Admitted,Monday
+73,2026-01-05,4,Orthopedics,5,102,66+,Admitted,Monday
+74,2026-01-05,19,Orthopedics,3,53,46-65,Discharged,Monday
+75,2026-01-06,2,Pediatrics,5,49,46-65,Admitted,Tuesday
+76,2026-01-06,15,General Medicine,5,49,26-45,Admitted,Tuesday
+77,2026-01-06,16,Trauma,3,32,66+,Discharged,Tuesday
+78,2026-01-06,11,General Medicine,5,60,0-12,Discharged,Tuesday
+79,2026-01-06,17,Orthopedics,3,54,46-65,Admitted,Tuesday
+80,2026-01-06,15,Orthopedics,1,8,46-65,Admitted,Tuesday
+81,2026-01-06,4,General Medicine,4,63,13-25,Referred,Tuesday
+82,2026-01-06,12,Orthopedics,4,81,26-45,Admitted,Tuesday
+83,2026-01-06,17,Orthopedics,2,15,0-12,Admitted,Tuesday
+84,2026-01-06,0,Orthopedics,3,52,0-12,Admitted,Tuesday
+85,2026-01-06,18,Pediatrics,4,37,13-25,Discharged,Tuesday
+86,2026-01-06,8,Trauma,4,59,66+,Discharged,Tuesday
+87,2026-01-06,20,Orthopedics,3,34,66+,Referred,Tuesday
+88,2026-01-06,16,General Medicine,3,42,0-12,Referred,Tuesday
+89,2026-01-07,17,Orthopedics,2,12,13-25,Admitted,Wednesday
+90,2026-01-07,7,Cardiology,4,70,66+,Discharged,Wednesday
+91,2026-01-07,13,Pediatrics,2,13,26-45,Admitted,Wednesday
+92,2026-01-07,22,Cardiology,1,10,13-25,Admitted,Wednesday
+93,2026-01-07,3,General Medicine,5,120,26-45,Admitted,Wednesday
+94,2026-01-07,10,Trauma,3,46,0-12,Admitted,Wednesday
+95,2026-01-07,23,General Medicine,3,38,26-45,Discharged,Wednesday
+96,2026-01-07,19,General Medicine,5,36,26-45,Discharged,Wednesday
+97,2026-01-07,4,General Medicine,3,31,66+,Referred,Wednesday
+98,2026-01-07,21,Orthopedics,2,13,26-45,Admitted,Wednesday
+99,2026-01-07,9,General Medicine,4,45,46-65,Discharged,Wednesday
+100,2026-01-08,7,Cardiology,2,17,13-25,Referred,Thursday
+101,2026-01-08,8,Orthopedics,5,63,66+,Discharged,Thursday
+102,2026-01-08,11,General Medicine,2,16,0-12,Admitted,Thursday
+103,2026-01-08,21,Orthopedics,3,24,46-65,Discharged,Thursday
+104,2026-01-08,3,Cardiology,5,89,13-25,Discharged,Thursday
+105,2026-01-08,17,Orthopedics,2,15,66+,Admitted,Thursday
+106,2026-01-08,22,Cardiology,5,92,46-65,Discharged,Thursday
+107,2026-01-08,18,General Medicine,3,35,66+,Discharged,Thursday
+108,2026-01-08,20,Trauma,5,75,66+,Discharged,Thursday
+109,2026-01-08,7,General Medicine,4,80,26-45,Discharged,Thursday
+110,2026-01-08,14,Pediatrics,1,7,26-45,Admitted,Thursday
+111,2026-01-08,21,General Medicine,3,41,46-65,Admitted,Thursday
+112,2026-01-08,6,Pediatrics,4,64,0-12,Discharged,Thursday
+113,2026-01-08,9,Cardiology,1,7,26-45,Referred,Thursday
+114,2026-01-08,21,Pediatrics,3,46,26-45,Discharged,Thursday
+115,2026-01-09,10,Pediatrics,3,30,0-12,Discharged,Friday
+116,2026-01-09,21,Pediatrics,1,6,13-25,Admitted,Friday
+117,2026-01-09,18,Cardiology,4,54,13-25,Discharged,Friday
+118,2026-01-09,10,Trauma,1,5,46-65,Admitted,Friday
+119,2026-01-09,10,Pediatrics,3,38,66+,Discharged,Friday
+120,2026-01-09,22,Pediatrics,3,42,0-12,Discharged,Friday
+121,2026-01-09,7,Trauma,1,4,0-12,Admitted,Friday
+122,2026-01-09,23,Pediatrics,3,49,66+,Discharged,Friday
+123,2026-01-09,19,Trauma,3,28,0-12,Discharged,Friday
+124,2026-01-09,0,General Medicine,3,42,13-25,Referred,Friday
+125,2026-01-09,22,General Medicine,3,43,13-25,Discharged,Friday
+126,2026-01-09,14,General Medicine,5,37,26-45,Discharged,Friday
+127,2026-01-09,21,Cardiology,3,42,0-12,Discharged,Friday
+128,2026-01-10,19,Orthopedics,2,14,0-12,Discharged,Saturday
+129,2026-01-10,12,Orthopedics,5,111,26-45,Discharged,Saturday
+130,2026-01-10,10,Trauma,2,17,46-65,Admitted,Saturday
+131,2026-01-10,3,Trauma,1,7,46-65,Admitted,Saturday
+132,2026-01-10,21,Pediatrics,2,16,46-65,Admitted,Saturday
+133,2026-01-10,22,General Medicine,4,84,13-25,Admitted,Saturday
+134,2026-01-10,19,Orthopedics,3,55,26-45,Discharged,Saturday
+135,2026-01-10,13,General Medicine,3,29,46-65,Discharged,Saturday
+136,2026-01-10,4,General Medicine,2,14,46-65,Admitted,Saturday
+137,2026-01-10,23,Trauma,1,6,13-25,Admitted,Saturday
+138,2026-01-10,19,Orthopedics,4,85,46-65,Discharged,Saturday
+139,2026-01-10,9,General Medicine,3,29,13-25,Discharged,Saturday
+140,2026-01-10,21,General Medicine,1,12,13-25,Admitted,Saturday
+141,2026-01-10,15,General Medicine,2,14,46-65,Discharged,Saturday
+142,2026-01-10,9,Trauma,2,15,26-45,Admitted,Saturday
+143,2026-01-11,8,General Medicine,4,69,66+,Admitted,Sunday
+144,2026-01-11,9,Cardiology,5,66,46-65,Discharged,Sunday
+145,2026-01-11,17,Orthopedics,3,39,13-25,Discharged,Sunday
+146,2026-01-11,17,Orthopedics,1,9,13-25,Admitted,Sunday
+147,2026-01-11,8,Pediatrics,3,39,13-25,Discharged,Sunday
+148,2026-01-11,12,General Medicine,4,35,26-45,Discharged,Sunday
+149,2026-01-11,18,General Medicine,3,40,26-45,Discharged,Sunday
+150,2026-01-11,11,Orthopedics,5,127,26-45,Referred,Sunday
+151,2026-01-11,8,Cardiology,2,25,46-65,Admitted,Sunday
+152,2026-01-11,12,Trauma,2,15,66+,Admitted,Sunday
+153,2026-01-11,16,General Medicine,5,102,46-65,Discharged,Sunday
+154,2026-01-11,7,Orthopedics,3,43,13-25,Referred,Sunday
+155,2026-01-11,14,General Medicine,5,79,46-65,Referred,Sunday
+156,2026-01-11,14,Trauma,4,63,0-12,Discharged,Sunday
+157,2026-01-11,17,Trauma,1,8,46-65,Admitted,Sunday
+158,2026-01-11,20,Trauma,1,10,13-25,Admitted,Sunday
+159,2026-01-12,11,General Medicine,5,81,0-12,Admitted,Monday
+160,2026-01-12,18,Trauma,1,7,46-65,Admitted,Monday
+161,2026-01-12,20,Orthopedics,4,51,46-65,Discharged,Monday
+162,2026-01-12,15,Cardiology,1,10,13-25,Referred,Monday
+163,2026-01-12,13,Orthopedics,4,71,46-65,Discharged,Monday
+164,2026-01-12,11,General Medicine,4,29,26-45,Discharged,Monday
+165,2026-01-12,2,Pediatrics,5,61,0-12,Discharged,Monday
+166,2026-01-12,21,Pediatrics,4,79,46-65,Discharged,Monday
+167,2026-01-12,17,General Medicine,2,21,46-65,Admitted,Monday
+168,2026-01-12,19,Trauma,3,51,46-65,Discharged,Monday
+169,2026-01-12,17,Trauma,1,4,13-25,Admitted,Monday
+170,2026-01-12,22,General Medicine,4,32,26-45,Discharged,Monday
+171,2026-01-12,12,General Medicine,3,29,13-25,Discharged,Monday
+172,2026-01-12,19,Cardiology,4,45,13-25,Discharged,Monday
+173,2026-01-13,20,Cardiology,4,61,26-45,Referred,Tuesday
+174,2026-01-13,12,Orthopedics,3,32,46-65,Referred,Tuesday
+175,2026-01-13,11,Orthopedics,3,43,46-65,Discharged,Tuesday
+176,2026-01-13,9,Trauma,5,108,46-65,Discharged,Tuesday
+177,2026-01-13,10,Pediatrics,1,10,0-12,Admitted,Tuesday
+178,2026-01-13,21,Orthopedics,2,20,0-12,Admitted,Tuesday
+179,2026-01-13,0,General Medicine,2,13,26-45,Admitted,Tuesday
+180,2026-01-13,8,Orthopedics,3,41,46-65,Discharged,Tuesday
+181,2026-01-13,9,Trauma,1,5,0-12,Admitted,Tuesday
+182,2026-01-13,9,Cardiology,4,29,0-12,Discharged,Tuesday
+183,2026-01-13,17,Cardiology,5,73,26-45,Referred,Tuesday
+184,2026-01-13,15,General Medicine,2,12,26-45,Discharged,Tuesday
+185,2026-01-13,0,Pediatrics,5,84,26-45,Discharged,Tuesday
+186,2026-01-13,17,Orthopedics,2,17,46-65,Admitted,Tuesday
+187,2026-01-13,2,Cardiology,4,55,66+,Admitted,Tuesday
+188,2026-01-13,14,Pediatrics,3,34,46-65,Discharged,Tuesday
+189,2026-01-14,17,General Medicine,5,123,0-12,Discharged,Wednesday
+190,2026-01-14,17,General Medicine,4,37,46-65,Referred,Wednesday
+191,2026-01-14,10,Trauma,4,72,66+,Discharged,Wednesday
+192,2026-01-14,20,Trauma,1,9,13-25,Referred,Wednesday
+193,2026-01-14,12,General Medicine,3,49,26-45,Referred,Wednesday
+194,2026-01-14,15,Trauma,2,7,26-45,Discharged,Wednesday
+195,2026-01-14,22,General Medicine,5,80,13-25,Discharged,Wednesday
+196,2026-01-14,7,Orthopedics,2,11,0-12,Admitted,Wednesday
+197,2026-01-14,23,General Medicine,1,10,46-65,Discharged,Wednesday
+198,2026-01-14,2,General Medicine,4,73,66+,Discharged,Wednesday
+199,2026-01-15,18,Orthopedics,4,51,66+,Discharged,Thursday
+200,2026-01-15,1,General Medicine,5,54,66+,Admitted,Thursday
+201,2026-01-15,19,General Medicine,3,48,46-65,Admitted,Thursday
+202,2026-01-15,11,General Medicine,3,49,13-25,Referred,Thursday
+203,2026-01-15,19,General Medicine,4,40,66+,Discharged,Thursday
+204,2026-01-15,19,Pediatrics,4,44,0-12,Discharged,Thursday
+205,2026-01-15,2,Orthopedics,4,65,26-45,Discharged,Thursday
+206,2026-01-15,15,Cardiology,4,36,13-25,Discharged,Thursday
+207,2026-01-15,5,Cardiology,4,77,46-65,Referred,Thursday
+208,2026-01-15,16,Orthopedics,4,50,13-25,Referred,Thursday
+209,2026-01-15,7,General Medicine,4,4,66+,Discharged,Thursday
+210,2026-01-15,11,General Medicine,5,79,0-12,Admitted,Thursday
+211,2026-01-15,13,Pediatrics,3,31,46-65,Admitted,Thursday
+212,2026-01-15,23,General Medicine,5,97,46-65,Discharged,Thursday
+213,2026-01-15,18,Orthopedics,1,5,26-45,Admitted,Thursday
+214,2026-01-15,16,Orthopedics,3,29,13-25,Admitted,Thursday
+215,2026-01-16,6,Orthopedics,5,76,26-45,Discharged,Friday
+216,2026-01-16,20,Pediatrics,2,18,13-25,Admitted,Friday
+217,2026-01-16,15,Cardiology,3,46,13-25,Admitted,Friday
+218,2026-01-16,22,General Medicine,3,61,0-12,Referred,Friday
+219,2026-01-16,19,Pediatrics,2,14,26-45,Admitted,Friday
+220,2026-01-16,1,Cardiology,4,49,26-45,Discharged,Friday
+221,2026-01-16,17,Orthopedics,2,11,26-45,Admitted,Friday
+222,2026-01-16,13,Trauma,3,29,26-45,Discharged,Friday
+223,2026-01-16,18,General Medicine,4,45,66+,Discharged,Friday
+224,2026-01-16,14,Pediatrics,4,24,13-25,Discharged,Friday
+225,2026-01-16,19,Cardiology,4,55,46-65,Discharged,Friday
+226,2026-01-16,13,Orthopedics,5,99,46-65,Discharged,Friday
+227,2026-01-17,0,Cardiology,5,88,46-65,Discharged,Saturday
+228,2026-01-17,22,Pediatrics,3,54,13-25,Admitted,Saturday
+229,2026-01-17,8,Orthopedics,1,9,26-45,Admitted,Saturday
+230,2026-01-17,14,Pediatrics,2,11,66+,Admitted,Saturday
+231,2026-01-17,18,Trauma,2,21,46-65,Discharged,Saturday
+232,2026-01-17,21,General Medicine,4,93,46-65,Discharged,Saturday
+233,2026-01-17,10,General Medicine,5,146,26-45,Referred,Saturday
+234,2026-01-17,7,Orthopedics,1,7,66+,Admitted,Saturday
+235,2026-01-17,17,General Medicine,4,70,46-65,Admitted,Saturday
+236,2026-01-17,13,Pediatrics,4,74,66+,Discharged,Saturday
+237,2026-01-17,14,Pediatrics,3,30,46-65,Referred,Saturday
+238,2026-01-17,14,Pediatrics,4,31,46-65,Discharged,Saturday
+239,2026-01-17,11,Pediatrics,4,85,26-45,Discharged,Saturday
+240,2026-01-17,12,Cardiology,4,73,0-12,Discharged,Saturday
+241,2026-01-17,15,Trauma,2,13,26-45,Discharged,Saturday
+242,2026-01-17,17,General Medicine,5,62,26-45,Discharged,Saturday
+243,2026-01-17,19,Orthopedics,3,35,13-25,Admitted,Saturday
+244,2026-01-17,5,Trauma,2,14,66+,Admitted,Saturday
+245,2026-01-17,14,General Medicine,1,10,13-25,Discharged,Saturday
+246,2026-01-17,13,General Medicine,3,22,46-65,Admitted,Saturday
+247,2026-01-18,7,Orthopedics,3,15,26-45,Discharged,Sunday
+248,2026-01-18,14,Trauma,3,30,26-45,Admitted,Sunday
+249,2026-01-18,13,Cardiology,1,6,66+,Discharged,Sunday
+250,2026-01-18,18,Orthopedics,3,38,66+,Referred,Sunday
+251,2026-01-18,14,Orthopedics,1,7,66+,Admitted,Sunday
+252,2026-01-18,12,Trauma,2,9,26-45,Admitted,Sunday
+253,2026-01-18,13,General Medicine,4,61,26-45,Admitted,Sunday
+254,2026-01-18,15,Cardiology,3,27,13-25,Referred,Sunday
+255,2026-01-18,19,Pediatrics,3,45,26-45,Admitted,Sunday
+256,2026-01-18,2,Pediatrics,5,103,46-65,Discharged,Sunday
+257,2026-01-18,10,General Medicine,2,20,0-12,Admitted,Sunday
+258,2026-01-18,21,Pediatrics,4,66,46-65,Discharged,Sunday
+259,2026-01-18,16,Pediatrics,3,29,46-65,Admitted,Sunday
+260,2026-01-18,8,General Medicine,4,39,0-12,Referred,Sunday
+261,2026-01-18,12,Pediatrics,4,43,46-65,Discharged,Sunday
+262,2026-01-18,11,Cardiology,4,50,26-45,Referred,Sunday
+263,2026-01-18,16,General Medicine,2,17,0-12,Referred,Sunday
+264,2026-01-18,0,Cardiology,4,35,26-45,Referred,Sunday
+265,2026-01-19,13,Orthopedics,4,57,0-12,Discharged,Monday
+266,2026-01-19,18,General Medicine,5,88,0-12,Discharged,Monday
+267,2026-01-19,6,Trauma,3,36,0-12,Discharged,Monday
+268,2026-01-19,19,General Medicine,5,112,46-65,Discharged,Monday
+269,2026-01-19,17,General Medicine,3,42,46-65,Referred,Monday
+270,2026-01-19,0,Pediatrics,4,50,0-12,Admitted,Monday
+271,2026-01-19,10,General Medicine,2,18,46-65,Discharged,Monday
+272,2026-01-19,16,Cardiology,4,40,26-45,Discharged,Monday
+273,2026-01-19,12,Pediatrics,4,41,46-65,Admitted,Monday
+274,2026-01-19,19,Trauma,1,9,26-45,Discharged,Monday
+275,2026-01-19,18,Trauma,1,3,46-65,Admitted,Monday
+276,2026-01-20,16,Trauma,1,4,66+,Admitted,Tuesday
+277,2026-01-20,19,Cardiology,3,32,13-25,Discharged,Tuesday
+278,2026-01-20,21,General Medicine,4,42,46-65,Discharged,Tuesday
+279,2026-01-20,21,General Medicine,2,23,66+,Admitted,Tuesday
+280,2026-01-20,14,Pediatrics,4,50,26-45,Discharged,Tuesday
+281,2026-01-20,19,Cardiology,5,72,46-65,Discharged,Tuesday
+282,2026-01-20,21,Pediatrics,1,9,26-45,Admitted,Tuesday
+283,2026-01-20,15,Orthopedics,1,6,26-45,Admitted,Tuesday
+284,2026-01-20,11,Trauma,1,10,26-45,Admitted,Tuesday
+285,2026-01-20,19,General Medicine,4,37,13-25,Admitted,Tuesday
+286,2026-01-20,21,General Medicine,5,105,26-45,Discharged,Tuesday
+287,2026-01-20,4,Orthopedics,1,7,13-25,Discharged,Tuesday
+288,2026-01-20,20,General Medicine,4,77,26-45,Discharged,Tuesday
+289,2026-01-20,10,Trauma,2,10,0-12,Discharged,Tuesday
+290,2026-01-21,8,General Medicine,2,12,13-25,Discharged,Wednesday
+291,2026-01-21,20,Orthopedics,5,82,26-45,Discharged,Wednesday
+292,2026-01-21,6,Cardiology,3,33,66+,Admitted,Wednesday
+293,2026-01-21,22,Pediatrics,3,29,46-65,Referred,Wednesday
+294,2026-01-21,8,Trauma,1,8,0-12,Admitted,Wednesday
+295,2026-01-21,21,Trauma,1,9,46-65,Admitted,Wednesday
+296,2026-01-21,3,Trauma,3,19,0-12,Referred,Wednesday
+297,2026-01-21,10,Pediatrics,4,67,26-45,Discharged,Wednesday
+298,2026-01-21,14,General Medicine,2,17,13-25,Discharged,Wednesday
+299,2026-01-21,0,Pediatrics,2,25,46-65,Admitted,Wednesday
+300,2026-01-21,20,Trauma,1,9,66+,Admitted,Wednesday
+301,2026-01-21,21,General Medicine,4,41,46-65,Admitted,Wednesday
+302,2026-01-21,17,Orthopedics,2,16,0-12,Discharged,Wednesday
+303,2026-01-21,16,Pediatrics,5,73,0-12,Discharged,Wednesday
+304,2026-01-21,20,General Medicine,2,20,26-45,Admitted,Wednesday
+305,2026-01-21,21,Cardiology,5,120,0-12,Discharged,Wednesday
+306,2026-01-22,20,Orthopedics,4,67,0-12,Referred,Thursday
+307,2026-01-22,9,Cardiology,2,11,13-25,Admitted,Thursday
+308,2026-01-22,23,Trauma,2,18,0-12,Admitted,Thursday
+309,2026-01-22,15,Orthopedics,4,68,26-45,Discharged,Thursday
+310,2026-01-22,13,General Medicine,2,14,13-25,Admitted,Thursday
+311,2026-01-22,9,Orthopedics,4,71,13-25,Discharged,Thursday
+312,2026-01-22,7,Pediatrics,4,25,0-12,Discharged,Thursday
+313,2026-01-22,10,General Medicine,4,24,0-12,Referred,Thursday
+314,2026-01-22,11,Orthopedics,4,51,13-25,Referred,Thursday
+315,2026-01-22,13,General Medicine,2,13,46-65,Admitted,Thursday
+316,2026-01-22,1,Trauma,2,12,46-65,Admitted,Thursday
+317,2026-01-23,13,Orthopedics,2,13,26-45,Admitted,Friday
+318,2026-01-23,18,Cardiology,4,25,26-45,Discharged,Friday
+319,2026-01-23,22,Trauma,2,10,26-45,Discharged,Friday
+320,2026-01-23,9,Trauma,1,7,13-25,Admitted,Friday
+321,2026-01-23,1,Trauma,3,36,0-12,Admitted,Friday
+322,2026-01-23,15,Orthopedics,2,16,46-65,Admitted,Friday
+323,2026-01-23,2,Pediatrics,3,26,0-12,Discharged,Friday
+324,2026-01-23,6,Cardiology,5,75,26-45,Discharged,Friday
+325,2026-01-23,19,Orthopedics,4,70,13-25,Discharged,Friday
+326,2026-01-23,15,Trauma,4,49,26-45,Admitted,Friday
+327,2026-01-23,9,Cardiology,3,54,26-45,Referred,Friday
+328,2026-01-23,20,Trauma,2,14,0-12,Referred,Friday
+329,2026-01-24,13,General Medicine,3,31,46-65,Discharged,Saturday
+330,2026-01-24,0,Orthopedics,5,73,0-12,Admitted,Saturday
+331,2026-01-24,17,Trauma,4,58,46-65,Discharged,Saturday
+332,2026-01-24,18,General Medicine,3,47,13-25,Referred,Saturday
+333,2026-01-24,9,Orthopedics,3,43,26-45,Discharged,Saturday
+334,2026-01-24,6,Pediatrics,5,69,26-45,Discharged,Saturday
+335,2026-01-24,14,General Medicine,2,17,26-45,Admitted,Saturday
+336,2026-01-24,10,Cardiology,2,17,13-25,Admitted,Saturday
+337,2026-01-24,17,Trauma,3,40,26-45,Admitted,Saturday
+338,2026-01-24,17,Orthopedics,3,51,26-45,Discharged,Saturday
+339,2026-01-24,15,General Medicine,4,70,26-45,Admitted,Saturday
+340,2026-01-24,16,General Medicine,3,36,26-45,Referred,Saturday
+341,2026-01-24,19,General Medicine,1,13,13-25,Discharged,Saturday
+342,2026-01-24,13,Cardiology,2,11,46-65,Admitted,Saturday
+343,2026-01-24,19,Trauma,1,9,13-25,Admitted,Saturday
+344,2026-01-24,20,Trauma,3,62,26-45,Admitted,Saturday
+345,2026-01-24,14,Pediatrics,4,62,46-65,Admitted,Saturday
+346,2026-01-25,16,Cardiology,3,32,0-12,Referred,Sunday
+347,2026-01-25,20,General Medicine,4,102,13-25,Discharged,Sunday
+348,2026-01-25,11,General Medicine,3,48,26-45,Admitted,Sunday
+349,2026-01-25,0,Pediatrics,5,61,46-65,Discharged,Sunday
+350,2026-01-25,13,Trauma,1,9,26-45,Admitted,Sunday
+351,2026-01-25,22,Cardiology,2,15,26-45,Admitted,Sunday
+352,2026-01-25,1,Trauma,4,94,13-25,Discharged,Sunday
+353,2026-01-25,10,Orthopedics,3,43,46-65,Discharged,Sunday
+354,2026-01-25,2,Orthopedics,3,20,46-65,Discharged,Sunday
+355,2026-01-25,9,General Medicine,3,21,26-45,Discharged,Sunday
+356,2026-01-25,13,General Medicine,4,25,26-45,Admitted,Sunday
+357,2026-01-25,18,Orthopedics,2,18,46-65,Discharged,Sunday
+358,2026-01-25,7,Cardiology,3,43,46-65,Discharged,Sunday
+359,2026-01-25,15,Trauma,2,7,66+,Admitted,Sunday
+360,2026-01-25,13,Trauma,2,14,0-12,Discharged,Sunday
+361,2026-01-26,17,Trauma,2,16,0-12,Admitted,Monday
+362,2026-01-26,10,General Medicine,4,41,46-65,Discharged,Monday
+363,2026-01-26,14,General Medicine,3,27,26-45,Referred,Monday
+364,2026-01-26,13,Orthopedics,2,11,0-12,Admitted,Monday
+365,2026-01-26,5,General Medicine,3,41,13-25,Admitted,Monday
+366,2026-01-26,0,General Medicine,3,22,46-65,Admitted,Monday
+367,2026-01-26,7,Cardiology,2,20,13-25,Admitted,Monday
+368,2026-01-26,12,Cardiology,5,58,0-12,Discharged,Monday
+369,2026-01-26,13,Trauma,1,13,46-65,Admitted,Monday
+370,2026-01-26,21,Cardiology,3,42,46-65,Admitted,Monday
+371,2026-01-26,14,Trauma,1,5,66+,Admitted,Monday
+372,2026-01-26,20,Cardiology,4,72,26-45,Discharged,Monday
+373,2026-01-26,11,General Medicine,5,68,13-25,Discharged,Monday
+374,2026-01-26,12,Orthopedics,1,11,26-45,Discharged,Monday
+375,2026-01-27,16,Trauma,2,12,26-45,Admitted,Tuesday
+376,2026-01-27,19,General Medicine,2,19,13-25,Admitted,Tuesday
+377,2026-01-27,19,Orthopedics,3,37,26-45,Discharged,Tuesday
+378,2026-01-27,12,General Medicine,4,43,46-65,Discharged,Tuesday
+379,2026-01-27,8,Orthopedics,4,109,66+,Discharged,Tuesday
+380,2026-01-27,23,Cardiology,3,22,26-45,Admitted,Tuesday
+381,2026-01-27,19,General Medicine,2,19,46-65,Admitted,Tuesday
+382,2026-01-27,18,General Medicine,1,5,0-12,Admitted,Tuesday
+383,2026-01-27,19,Pediatrics,2,16,13-25,Referred,Tuesday
+384,2026-01-27,19,Trauma,3,33,13-25,Discharged,Tuesday
+385,2026-01-27,20,General Medicine,3,42,26-45,Admitted,Tuesday
+386,2026-01-27,20,Orthopedics,2,11,66+,Admitted,Tuesday
+387,2026-01-27,18,Pediatrics,1,7,66+,Referred,Tuesday
+388,2026-01-27,21,Cardiology,3,24,0-12,Discharged,Tuesday
+389,2026-01-27,8,Orthopedics,3,26,46-65,Admitted,Tuesday
+390,2026-01-27,19,General Medicine,4,44,26-45,Referred,Tuesday
+391,2026-01-28,16,Trauma,1,5,46-65,Admitted,Wednesday
+392,2026-01-28,20,General Medicine,3,41,46-65,Discharged,Wednesday
+393,2026-01-28,17,Trauma,1,11,0-12,Admitted,Wednesday
+394,2026-01-28,19,Trauma,3,47,0-12,Discharged,Wednesday
+395,2026-01-28,20,Pediatrics,2,19,13-25,Referred,Wednesday
+396,2026-01-28,19,Pediatrics,4,49,46-65,Discharged,Wednesday
+397,2026-01-28,18,General Medicine,3,40,26-45,Admitted,Wednesday
+398,2026-01-28,18,General Medicine,3,33,46-65,Admitted,Wednesday
+399,2026-01-28,17,Trauma,1,10,26-45,Admitted,Wednesday
+400,2026-01-28,10,General Medicine,4,61,0-12,Discharged,Wednesday
+401,2026-01-28,9,General Medicine,3,44,26-45,Discharged,Wednesday
+402,2026-01-28,7,Trauma,1,7,26-45,Admitted,Wednesday
+403,2026-01-28,19,Orthopedics,4,40,13-25,Admitted,Wednesday
+404,2026-01-28,6,Trauma,2,12,13-25,Admitted,Wednesday
+405,2026-01-29,10,Trauma,1,9,0-12,Admitted,Thursday
+406,2026-01-29,10,Orthopedics,1,8,26-45,Admitted,Thursday
+407,2026-01-29,14,Trauma,1,8,46-65,Admitted,Thursday
+408,2026-01-29,14,Trauma,1,6,46-65,Admitted,Thursday
+409,2026-01-29,10,General Medicine,4,47,46-65,Discharged,Thursday
+410,2026-01-29,1,Pediatrics,2,9,26-45,Admitted,Thursday
+411,2026-01-29,15,Trauma,3,48,66+,Discharged,Thursday
+412,2026-01-29,12,Orthopedics,3,45,46-65,Discharged,Thursday
+413,2026-01-29,21,General Medicine,3,40,46-65,Admitted,Thursday
+414,2026-01-29,23,Trauma,1,8,26-45,Admitted,Thursday
+415,2026-01-30,7,Orthopedics,4,77,13-25,Discharged,Friday
+416,2026-01-30,23,Cardiology,1,10,0-12,Admitted,Friday
+417,2026-01-30,18,General Medicine,5,99,0-12,Discharged,Friday
+418,2026-01-30,18,General Medicine,3,20,26-45,Discharged,Friday
+419,2026-01-30,18,Cardiology,5,85,46-65,Discharged,Friday
+420,2026-01-30,11,Orthopedics,2,18,13-25,Admitted,Friday
+421,2026-01-30,23,Orthopedics,5,132,66+,Discharged,Friday
+422,2026-01-30,3,Trauma,2,13,46-65,Admitted,Friday
+423,2026-01-30,22,Orthopedics,4,50,26-45,Admitted,Friday
+424,2026-01-30,8,General Medicine,3,44,46-65,Discharged,Friday
+425,2026-01-30,12,Pediatrics,3,22,26-45,Discharged,Friday
+426,2026-01-30,8,General Medicine,3,32,66+,Discharged,Friday
+427,2026-01-30,9,Trauma,2,15,0-12,Admitted,Friday
+428,2026-01-31,18,Orthopedics,5,131,46-65,Discharged,Saturday
+429,2026-01-31,18,Trauma,1,8,46-65,Admitted,Saturday
+430,2026-01-31,17,Trauma,2,15,66+,Admitted,Saturday
+431,2026-01-31,15,Pediatrics,2,13,66+,Admitted,Saturday
+432,2026-01-31,12,Orthopedics,1,8,0-12,Admitted,Saturday
+433,2026-01-31,14,Trauma,1,9,0-12,Referred,Saturday
+434,2026-01-31,6,General Medicine,3,33,46-65,Discharged,Saturday
+435,2026-01-31,19,Trauma,1,11,46-65,Admitted,Saturday
+436,2026-01-31,11,Orthopedics,4,67,26-45,Discharged,Saturday
+437,2026-01-31,11,Cardiology,1,10,26-45,Admitted,Saturday
+438,2026-01-31,0,Pediatrics,3,31,66+,Admitted,Saturday
+439,2026-01-31,4,Orthopedics,2,23,13-25,Admitted,Saturday
+440,2026-01-31,16,Trauma,5,56,13-25,Admitted,Saturday
+441,2026-01-31,13,General Medicine,5,49,0-12,Discharged,Saturday
+442,2026-01-31,4,Trauma,2,15,46-65,Admitted,Saturday
+443,2026-01-31,22,Trauma,2,22,46-65,Admitted,Saturday
+444,2026-02-01,8,Cardiology,4,96,66+,Discharged,Sunday
+445,2026-02-01,11,General Medicine,4,43,26-45,Discharged,Sunday
+446,2026-02-01,11,Orthopedics,3,41,0-12,Referred,Sunday
+447,2026-02-01,7,General Medicine,3,33,46-65,Discharged,Sunday
+448,2026-02-01,15,Orthopedics,5,101,66+,Discharged,Sunday
+449,2026-02-01,19,Orthopedics,4,61,66+,Discharged,Sunday
+450,2026-02-01,19,General Medicine,5,81,66+,Discharged,Sunday
+451,2026-02-01,19,Cardiology,3,43,46-65,Admitted,Sunday
+452,2026-02-01,3,Cardiology,3,28,26-45,Referred,Sunday
+453,2026-02-01,12,Orthopedics,2,14,13-25,Discharged,Sunday
+454,2026-02-01,13,Trauma,2,17,26-45,Admitted,Sunday
+455,2026-02-01,3,General Medicine,3,33,13-25,Referred,Sunday
+456,2026-02-01,21,Cardiology,2,15,26-45,Admitted,Sunday
+457,2026-02-01,23,Orthopedics,4,47,26-45,Discharged,Sunday
+458,2026-02-01,21,Orthopedics,3,58,13-25,Discharged,Sunday
+459,2026-02-01,9,General Medicine,2,13,46-65,Admitted,Sunday
+460,2026-02-01,17,Trauma,3,39,13-25,Referred,Sunday
+461,2026-02-02,4,General Medicine,4,55,46-65,Discharged,Monday
+462,2026-02-02,0,Pediatrics,1,8,13-25,Admitted,Monday
+463,2026-02-02,1,Trauma,2,16,26-45,Admitted,Monday
+464,2026-02-02,5,Pediatrics,4,45,46-65,Referred,Monday
+465,2026-02-02,22,Cardiology,1,7,66+,Admitted,Monday
+466,2026-02-02,18,Cardiology,2,21,46-65,Discharged,Monday
+467,2026-02-02,15,General Medicine,3,29,46-65,Admitted,Monday
+468,2026-02-02,7,Trauma,2,18,66+,Admitted,Monday
+469,2026-02-02,20,Orthopedics,1,6,26-45,Admitted,Monday
+470,2026-02-02,16,Pediatrics,4,36,26-45,Discharged,Monday
+471,2026-02-02,16,General Medicine,4,64,0-12,Discharged,Monday
+472,2026-02-02,23,Cardiology,4,54,66+,Discharged,Monday
+473,2026-02-02,8,Orthopedics,3,21,46-65,Referred,Monday
+474,2026-02-02,20,Trauma,2,10,46-65,Admitted,Monday
+475,2026-02-03,23,General Medicine,4,38,26-45,Discharged,Tuesday
+476,2026-02-03,21,Cardiology,4,80,0-12,Discharged,Tuesday
+477,2026-02-03,12,Pediatrics,2,11,66+,Referred,Tuesday
+478,2026-02-03,17,Trauma,1,7,13-25,Admitted,Tuesday
+479,2026-02-03,9,Cardiology,4,46,13-25,Referred,Tuesday
+480,2026-02-03,16,General Medicine,5,60,13-25,Admitted,Tuesday
+481,2026-02-03,19,General Medicine,3,29,46-65,Referred,Tuesday
+482,2026-02-03,18,General Medicine,3,46,26-45,Admitted,Tuesday
+483,2026-02-03,8,Trauma,2,17,66+,Admitted,Tuesday
+484,2026-02-03,23,Trauma,1,3,13-25,Discharged,Tuesday
+485,2026-02-03,0,Trauma,1,8,66+,Admitted,Tuesday
+486,2026-02-03,5,Pediatrics,5,65,26-45,Discharged,Tuesday
+487,2026-02-03,23,Trauma,1,9,0-12,Discharged,Tuesday
+488,2026-02-03,9,Orthopedics,2,8,26-45,Discharged,Tuesday
+489,2026-02-03,11,Trauma,1,7,66+,Admitted,Tuesday
+490,2026-02-04,15,General Medicine,3,35,46-65,Referred,Wednesday
+491,2026-02-04,20,Orthopedics,1,13,66+,Referred,Wednesday
+492,2026-02-04,4,General Medicine,1,7,46-65,Admitted,Wednesday
+493,2026-02-04,8,Trauma,3,43,0-12,Discharged,Wednesday
+494,2026-02-04,13,General Medicine,3,33,13-25,Discharged,Wednesday
+495,2026-02-04,19,Trauma,2,11,13-25,Admitted,Wednesday
+496,2026-02-04,21,Pediatrics,5,70,46-65,Discharged,Wednesday
+497,2026-02-04,15,General Medicine,4,49,66+,Admitted,Wednesday
+498,2026-02-04,5,Pediatrics,1,2,46-65,Admitted,Wednesday
+499,2026-02-04,16,Cardiology,3,29,46-65,Admitted,Wednesday
+500,2026-02-04,17,Orthopedics,3,25,26-45,Admitted,Wednesday
+501,2026-02-05,17,General Medicine,3,33,46-65,Admitted,Thursday
+502,2026-02-05,18,Orthopedics,4,39,13-25,Discharged,Thursday
+503,2026-02-05,17,General Medicine,5,40,13-25,Discharged,Thursday
+504,2026-02-05,8,Orthopedics,5,81,0-12,Discharged,Thursday
+505,2026-02-05,15,Orthopedics,2,19,46-65,Admitted,Thursday
+506,2026-02-05,20,Pediatrics,5,112,66+,Discharged,Thursday
+507,2026-02-05,20,Cardiology,2,17,46-65,Discharged,Thursday
+508,2026-02-05,19,Cardiology,3,42,26-45,Discharged,Thursday
+509,2026-02-05,23,Cardiology,3,16,46-65,Admitted,Thursday
+510,2026-02-05,18,General Medicine,3,38,26-45,Discharged,Thursday
+511,2026-02-05,11,Cardiology,1,9,26-45,Discharged,Thursday
+512,2026-02-05,18,General Medicine,3,48,13-25,Discharged,Thursday
+513,2026-02-05,5,Trauma,4,60,46-65,Admitted,Thursday
+514,2026-02-06,21,Pediatrics,3,46,46-65,Discharged,Friday
+515,2026-02-06,23,Pediatrics,4,54,26-45,Admitted,Friday
+516,2026-02-06,17,General Medicine,5,92,66+,Discharged,Friday
+517,2026-02-06,8,General Medicine,1,6,66+,Admitted,Friday
+518,2026-02-06,17,Trauma,1,9,46-65,Admitted,Friday
+519,2026-02-06,18,Trauma,5,79,26-45,Discharged,Friday
+520,2026-02-06,19,General Medicine,2,16,0-12,Admitted,Friday
+521,2026-02-06,21,Orthopedics,3,26,13-25,Discharged,Friday
+522,2026-02-06,16,Trauma,2,18,0-12,Admitted,Friday
+523,2026-02-06,14,General Medicine,2,10,46-65,Admitted,Friday
+524,2026-02-06,20,Pediatrics,3,53,0-12,Discharged,Friday
+525,2026-02-06,11,Orthopedics,5,86,13-25,Discharged,Friday
+526,2026-02-06,12,General Medicine,3,47,46-65,Discharged,Friday
+527,2026-02-06,18,Trauma,1,6,13-25,Admitted,Friday
+528,2026-02-07,2,General Medicine,3,43,26-45,Admitted,Saturday
+529,2026-02-07,16,Orthopedics,4,66,26-45,Discharged,Saturday
+530,2026-02-07,10,General Medicine,3,57,26-45,Admitted,Saturday
+531,2026-02-07,10,Cardiology,3,30,46-65,Admitted,Saturday
+532,2026-02-07,22,Orthopedics,5,66,26-45,Discharged,Saturday
+533,2026-02-07,17,Cardiology,5,102,0-12,Discharged,Saturday
+534,2026-02-07,16,Trauma,2,18,46-65,Admitted,Saturday
+535,2026-02-07,10,Pediatrics,5,106,13-25,Discharged,Saturday
+536,2026-02-07,5,General Medicine,5,115,46-65,Discharged,Saturday
+537,2026-02-07,9,Pediatrics,4,58,66+,Discharged,Saturday
+538,2026-02-07,20,General Medicine,2,22,13-25,Admitted,Saturday
+539,2026-02-07,16,Cardiology,5,56,13-25,Discharged,Saturday
+540,2026-02-07,23,Pediatrics,1,15,26-45,Admitted,Saturday
+541,2026-02-07,9,Pediatrics,2,8,26-45,Admitted,Saturday
+542,2026-02-07,6,Pediatrics,2,17,46-65,Referred,Saturday
+543,2026-02-07,22,Trauma,1,9,26-45,Admitted,Saturday
+544,2026-02-07,5,Trauma,4,77,26-45,Discharged,Saturday
+545,2026-02-08,8,Pediatrics,4,58,26-45,Discharged,Sunday
+546,2026-02-08,16,General Medicine,1,3,0-12,Admitted,Sunday
+547,2026-02-08,10,General Medicine,3,26,13-25,Discharged,Sunday
+548,2026-02-08,20,General Medicine,4,79,46-65,Discharged,Sunday
+549,2026-02-08,6,Pediatrics,3,38,13-25,Admitted,Sunday
+550,2026-02-08,18,Cardiology,5,106,26-45,Discharged,Sunday
+551,2026-02-08,19,Pediatrics,4,78,26-45,Discharged,Sunday
+552,2026-02-08,10,Trauma,1,8,13-25,Admitted,Sunday
+553,2026-02-08,10,General Medicine,3,35,26-45,Discharged,Sunday
+554,2026-02-08,22,General Medicine,4,98,13-25,Referred,Sunday
+555,2026-02-08,18,Trauma,1,12,26-45,Discharged,Sunday
+556,2026-02-08,18,Pediatrics,4,81,13-25,Discharged,Sunday
+557,2026-02-08,20,General Medicine,3,45,66+,Admitted,Sunday
+558,2026-02-08,18,General Medicine,2,19,13-25,Admitted,Sunday
+559,2026-02-08,20,Orthopedics,1,11,46-65,Admitted,Sunday
+560,2026-02-08,7,Pediatrics,2,17,13-25,Admitted,Sunday
+561,2026-02-08,8,Orthopedics,5,76,13-25,Admitted,Sunday
+562,2026-02-08,15,General Medicine,4,51,13-25,Admitted,Sunday
+563,2026-02-08,21,General Medicine,4,78,46-65,Admitted,Sunday
+564,2026-02-09,19,Orthopedics,4,56,66+,Discharged,Monday
+565,2026-02-09,17,General Medicine,4,77,46-65,Discharged,Monday
+566,2026-02-09,22,General Medicine,4,69,46-65,Discharged,Monday
+567,2026-02-09,22,Trauma,3,44,66+,Admitted,Monday
+568,2026-02-09,20,Cardiology,5,40,46-65,Discharged,Monday
+569,2026-02-09,15,Trauma,1,12,66+,Admitted,Monday
+570,2026-02-09,9,Trauma,2,13,13-25,Admitted,Monday
+571,2026-02-09,21,Orthopedics,4,33,46-65,Admitted,Monday
+572,2026-02-09,22,Pediatrics,3,47,46-65,Discharged,Monday
+573,2026-02-09,20,Pediatrics,4,70,26-45,Discharged,Monday
+574,2026-02-10,22,Orthopedics,3,19,66+,Discharged,Tuesday
+575,2026-02-10,7,General Medicine,2,11,26-45,Discharged,Tuesday
+576,2026-02-10,23,Cardiology,5,91,13-25,Discharged,Tuesday
+577,2026-02-10,9,Orthopedics,4,30,13-25,Discharged,Tuesday
+578,2026-02-10,7,Cardiology,3,51,13-25,Admitted,Tuesday
+579,2026-02-10,22,Trauma,1,11,13-25,Admitted,Tuesday
+580,2026-02-10,22,Trauma,1,5,26-45,Admitted,Tuesday
+581,2026-02-10,9,General Medicine,4,53,26-45,Referred,Tuesday
+582,2026-02-10,19,Pediatrics,2,8,46-65,Admitted,Tuesday
+583,2026-02-10,13,General Medicine,3,34,26-45,Discharged,Tuesday
+584,2026-02-10,18,Pediatrics,5,94,66+,Discharged,Tuesday
+585,2026-02-10,14,Pediatrics,1,12,46-65,Discharged,Tuesday
+586,2026-02-10,10,Cardiology,2,8,26-45,Admitted,Tuesday
+587,2026-02-11,11,General Medicine,5,85,0-12,Discharged,Wednesday
+588,2026-02-11,2,Orthopedics,4,49,26-45,Discharged,Wednesday
+589,2026-02-11,19,General Medicine,3,9,13-25,Admitted,Wednesday
+590,2026-02-11,18,Trauma,5,105,26-45,Discharged,Wednesday
+591,2026-02-11,10,Pediatrics,4,68,13-25,Discharged,Wednesday
+592,2026-02-11,15,General Medicine,2,8,66+,Admitted,Wednesday
+593,2026-02-11,10,General Medicine,3,15,0-12,Referred,Wednesday
+594,2026-02-11,10,General Medicine,2,23,66+,Admitted,Wednesday
+595,2026-02-11,6,Cardiology,3,15,13-25,Discharged,Wednesday
+596,2026-02-11,21,General Medicine,5,113,26-45,Discharged,Wednesday
+597,2026-02-11,10,Pediatrics,4,34,13-25,Discharged,Wednesday
+598,2026-02-11,10,Pediatrics,5,80,26-45,Discharged,Wednesday
+599,2026-02-11,17,General Medicine,4,85,13-25,Discharged,Wednesday
+600,2026-02-12,11,Orthopedics,5,86,66+,Admitted,Thursday
+601,2026-02-12,17,General Medicine,5,63,46-65,Discharged,Thursday
+602,2026-02-12,18,General Medicine,2,5,46-65,Admitted,Thursday
+603,2026-02-12,19,Trauma,2,11,46-65,Admitted,Thursday
+604,2026-02-12,7,Pediatrics,3,35,46-65,Referred,Thursday
+605,2026-02-12,8,General Medicine,5,77,46-65,Discharged,Thursday
+606,2026-02-12,13,General Medicine,4,56,13-25,Admitted,Thursday
+607,2026-02-12,20,Pediatrics,3,40,0-12,Discharged,Thursday
+608,2026-02-12,1,General Medicine,5,62,66+,Discharged,Thursday
+609,2026-02-12,17,General Medicine,3,48,66+,Admitted,Thursday
+610,2026-02-12,15,Orthopedics,5,53,26-45,Discharged,Thursday
+611,2026-02-12,16,Cardiology,1,11,66+,Discharged,Thursday
+612,2026-02-13,14,General Medicine,3,37,46-65,Admitted,Friday
+613,2026-02-13,16,Trauma,1,5,26-45,Admitted,Friday
+614,2026-02-13,22,General Medicine,3,32,66+,Discharged,Friday
+615,2026-02-13,20,Orthopedics,5,44,13-25,Discharged,Friday
+616,2026-02-13,20,General Medicine,3,27,13-25,Referred,Friday
+617,2026-02-13,5,General Medicine,3,45,0-12,Admitted,Friday
+618,2026-02-13,3,Trauma,2,14,26-45,Admitted,Friday
+619,2026-02-13,17,General Medicine,3,56,26-45,Admitted,Friday
+620,2026-02-13,17,General Medicine,2,13,0-12,Admitted,Friday
+621,2026-02-13,21,General Medicine,4,62,0-12,Admitted,Friday
+622,2026-02-13,19,General Medicine,3,18,46-65,Admitted,Friday
+623,2026-02-13,19,General Medicine,1,6,46-65,Admitted,Friday
+624,2026-02-14,17,Pediatrics,3,44,13-25,Discharged,Saturday
+625,2026-02-14,23,Pediatrics,1,12,13-25,Admitted,Saturday
+626,2026-02-14,14,Trauma,1,10,0-12,Admitted,Saturday
+627,2026-02-14,14,Pediatrics,5,82,66+,Admitted,Saturday
+628,2026-02-14,6,General Medicine,3,24,26-45,Discharged,Saturday
+629,2026-02-14,0,General Medicine,4,99,66+,Discharged,Saturday
+630,2026-02-14,12,Pediatrics,5,54,46-65,Discharged,Saturday
+631,2026-02-14,8,General Medicine,3,55,26-45,Admitted,Saturday
+632,2026-02-14,2,Orthopedics,3,36,66+,Discharged,Saturday
+633,2026-02-14,17,Cardiology,3,30,66+,Discharged,Saturday
+634,2026-02-14,12,Trauma,2,13,0-12,Discharged,Saturday
+635,2026-02-14,14,General Medicine,4,50,26-45,Discharged,Saturday
+636,2026-02-14,2,Pediatrics,3,24,26-45,Admitted,Saturday
+637,2026-02-14,9,Pediatrics,4,46,46-65,Referred,Saturday
+638,2026-02-14,3,Orthopedics,5,77,13-25,Discharged,Saturday
+639,2026-02-14,19,Cardiology,4,77,46-65,Discharged,Saturday
+640,2026-02-14,19,Trauma,1,11,0-12,Admitted,Saturday
+641,2026-02-14,8,Trauma,4,31,46-65,Discharged,Saturday
+642,2026-02-14,0,General Medicine,2,7,46-65,Referred,Saturday
+643,2026-02-14,8,Pediatrics,2,13,46-65,Admitted,Saturday
+644,2026-02-15,0,Trauma,2,15,66+,Admitted,Sunday
+645,2026-02-15,17,Orthopedics,4,60,26-45,Discharged,Sunday
+646,2026-02-15,12,General Medicine,4,58,0-12,Discharged,Sunday
+647,2026-02-15,20,Trauma,1,10,26-45,Admitted,Sunday
+648,2026-02-15,23,General Medicine,3,43,26-45,Discharged,Sunday
+649,2026-02-15,20,Pediatrics,2,18,46-65,Admitted,Sunday
+650,2026-02-15,17,General Medicine,4,65,66+,Discharged,Sunday
+651,2026-02-15,6,General Medicine,4,37,46-65,Discharged,Sunday
+652,2026-02-15,17,Orthopedics,4,53,66+,Admitted,Sunday
+653,2026-02-15,20,Trauma,1,9,46-65,Admitted,Sunday
+654,2026-02-15,8,Trauma,2,7,66+,Admitted,Sunday
+655,2026-02-15,10,General Medicine,3,44,26-45,Referred,Sunday
+656,2026-02-15,22,Pediatrics,5,119,46-65,Referred,Sunday
+657,2026-02-15,10,Pediatrics,3,43,13-25,Referred,Sunday
+658,2026-02-15,11,Trauma,3,36,46-65,Referred,Sunday
+659,2026-02-15,15,Pediatrics,5,63,0-12,Discharged,Sunday
+660,2026-02-15,22,Orthopedics,3,63,13-25,Admitted,Sunday
+661,2026-02-15,22,Orthopedics,5,83,26-45,Discharged,Sunday
+662,2026-02-16,19,General Medicine,4,15,66+,Discharged,Monday
+663,2026-02-16,22,General Medicine,4,75,46-65,Discharged,Monday
+664,2026-02-16,11,Cardiology,2,24,66+,Admitted,Monday
+665,2026-02-16,17,Pediatrics,4,59,46-65,Discharged,Monday
+666,2026-02-16,4,Cardiology,3,38,46-65,Discharged,Monday
+667,2026-02-16,16,General Medicine,4,21,46-65,Referred,Monday
+668,2026-02-16,21,Orthopedics,3,34,13-25,Admitted,Monday
+669,2026-02-16,23,General Medicine,5,56,66+,Discharged,Monday
+670,2026-02-16,19,Cardiology,2,16,0-12,Admitted,Monday
+671,2026-02-16,17,Cardiology,1,12,46-65,Admitted,Monday
+672,2026-02-16,9,Cardiology,3,45,0-12,Admitted,Monday
+673,2026-02-17,17,Cardiology,2,16,26-45,Admitted,Tuesday
+674,2026-02-17,22,General Medicine,4,56,26-45,Discharged,Tuesday
+675,2026-02-17,9,Pediatrics,4,65,26-45,Admitted,Tuesday
+676,2026-02-17,12,General Medicine,2,17,46-65,Admitted,Tuesday
+677,2026-02-17,12,General Medicine,4,22,26-45,Discharged,Tuesday
+678,2026-02-17,20,Pediatrics,1,9,13-25,Admitted,Tuesday
+679,2026-02-17,14,General Medicine,2,19,46-65,Admitted,Tuesday
+680,2026-02-17,13,General Medicine,1,10,0-12,Admitted,Tuesday
+681,2026-02-17,22,Orthopedics,1,9,26-45,Admitted,Tuesday
+682,2026-02-17,22,Trauma,1,12,66+,Referred,Tuesday
+683,2026-02-18,15,General Medicine,3,45,26-45,Admitted,Wednesday
+684,2026-02-18,19,Trauma,3,42,0-12,Admitted,Wednesday
+685,2026-02-18,10,General Medicine,1,7,46-65,Admitted,Wednesday
+686,2026-02-18,17,Orthopedics,5,51,46-65,Discharged,Wednesday
+687,2026-02-18,1,Pediatrics,4,50,46-65,Discharged,Wednesday
+688,2026-02-18,21,Cardiology,1,7,13-25,Admitted,Wednesday
+689,2026-02-18,17,Pediatrics,1,4,46-65,Admitted,Wednesday
+690,2026-02-18,10,Trauma,3,39,66+,Discharged,Wednesday
+691,2026-02-18,8,Cardiology,1,9,0-12,Admitted,Wednesday
+692,2026-02-18,12,General Medicine,4,68,66+,Discharged,Wednesday
+693,2026-02-18,21,General Medicine,3,28,13-25,Discharged,Wednesday
+694,2026-02-18,19,Trauma,1,12,0-12,Admitted,Wednesday
+695,2026-02-18,16,Pediatrics,3,38,46-65,Admitted,Wednesday
+696,2026-02-18,14,Orthopedics,3,30,26-45,Discharged,Wednesday
+697,2026-02-19,22,General Medicine,2,9,0-12,Admitted,Thursday
+698,2026-02-19,9,General Medicine,4,52,13-25,Discharged,Thursday
+699,2026-02-19,21,Cardiology,5,92,46-65,Referred,Thursday
+700,2026-02-19,2,Cardiology,2,14,66+,Discharged,Thursday
+701,2026-02-19,10,General Medicine,5,51,66+,Admitted,Thursday
+702,2026-02-19,17,Trauma,1,9,26-45,Admitted,Thursday
+703,2026-02-19,16,Pediatrics,5,89,46-65,Discharged,Thursday
+704,2026-02-19,16,Trauma,3,33,13-25,Discharged,Thursday
+705,2026-02-19,12,General Medicine,4,79,26-45,Discharged,Thursday
+706,2026-02-19,18,Orthopedics,1,10,46-65,Admitted,Thursday
+707,2026-02-19,18,Pediatrics,2,23,46-65,Admitted,Thursday
+708,2026-02-19,22,Cardiology,3,30,13-25,Referred,Thursday
+709,2026-02-19,9,Trauma,2,11,46-65,Discharged,Thursday
+710,2026-02-19,8,General Medicine,1,4,13-25,Discharged,Thursday
+711,2026-02-20,17,Orthopedics,3,29,26-45,Discharged,Friday
+712,2026-02-20,10,Pediatrics,4,73,46-65,Discharged,Friday
+713,2026-02-20,12,Pediatrics,4,50,0-12,Discharged,Friday
+714,2026-02-20,16,General Medicine,3,48,46-65,Referred,Friday
+715,2026-02-20,7,Pediatrics,3,26,0-12,Discharged,Friday
+716,2026-02-20,16,Trauma,2,8,26-45,Discharged,Friday
+717,2026-02-20,20,Pediatrics,3,38,0-12,Referred,Friday
+718,2026-02-20,9,Pediatrics,2,17,0-12,Discharged,Friday
+719,2026-02-20,14,General Medicine,3,30,0-12,Referred,Friday
+720,2026-02-20,21,Cardiology,3,52,13-25,Discharged,Friday
+721,2026-02-20,23,General Medicine,5,62,0-12,Discharged,Friday
+722,2026-02-20,23,Orthopedics,4,72,46-65,Admitted,Friday
+723,2026-02-20,10,Cardiology,3,46,0-12,Discharged,Friday
+724,2026-02-21,18,General Medicine,4,85,46-65,Discharged,Saturday
+725,2026-02-21,18,General Medicine,2,23,26-45,Discharged,Saturday
+726,2026-02-21,9,Pediatrics,3,48,13-25,Admitted,Saturday
+727,2026-02-21,1,Pediatrics,3,31,46-65,Admitted,Saturday
+728,2026-02-21,21,Orthopedics,3,64,13-25,Admitted,Saturday
+729,2026-02-21,7,General Medicine,4,67,13-25,Referred,Saturday
+730,2026-02-21,10,Pediatrics,4,32,13-25,Discharged,Saturday
+731,2026-02-21,5,Orthopedics,3,49,0-12,Referred,Saturday
+732,2026-02-21,8,Orthopedics,3,55,0-12,Admitted,Saturday
+733,2026-02-21,18,Cardiology,4,82,26-45,Discharged,Saturday
+734,2026-02-21,9,Orthopedics,2,16,46-65,Admitted,Saturday
+735,2026-02-21,18,Orthopedics,3,26,46-65,Referred,Saturday
+736,2026-02-21,5,Orthopedics,4,67,26-45,Discharged,Saturday
+737,2026-02-21,23,General Medicine,2,15,66+,Admitted,Saturday
+738,2026-02-21,19,General Medicine,3,52,46-65,Discharged,Saturday
+739,2026-02-21,5,Cardiology,1,7,66+,Discharged,Saturday
+740,2026-02-22,11,Pediatrics,4,82,46-65,Discharged,Sunday
+741,2026-02-22,12,General Medicine,4,32,46-65,Discharged,Sunday
+742,2026-02-22,5,Orthopedics,5,111,66+,Discharged,Sunday
+743,2026-02-22,9,Cardiology,4,56,13-25,Discharged,Sunday
+744,2026-02-22,19,Pediatrics,3,39,66+,Referred,Sunday
+745,2026-02-22,19,Orthopedics,3,55,0-12,Referred,Sunday
+746,2026-02-22,10,Orthopedics,5,43,46-65,Discharged,Sunday
+747,2026-02-22,3,Pediatrics,3,25,0-12,Discharged,Sunday
+748,2026-02-22,1,General Medicine,2,22,66+,Admitted,Sunday
+749,2026-02-22,22,Trauma,2,18,13-25,Referred,Sunday
+750,2026-02-22,18,General Medicine,4,85,46-65,Discharged,Sunday
+751,2026-02-22,20,Trauma,1,12,46-65,Admitted,Sunday
+752,2026-02-22,15,Cardiology,3,31,13-25,Discharged,Sunday
+753,2026-02-22,18,General Medicine,1,12,46-65,Admitted,Sunday
+754,2026-02-22,20,Pediatrics,5,97,66+,Discharged,Sunday
+755,2026-02-23,20,Pediatrics,5,50,66+,Discharged,Monday
+756,2026-02-23,18,Trauma,1,8,26-45,Discharged,Monday
+757,2026-02-23,21,Trauma,2,11,0-12,Discharged,Monday
+758,2026-02-23,17,Trauma,2,12,13-25,Admitted,Monday
+759,2026-02-23,21,Pediatrics,3,24,26-45,Admitted,Monday
+760,2026-02-23,21,Cardiology,5,111,26-45,Admitted,Monday
+761,2026-02-23,13,General Medicine,5,77,0-12,Discharged,Monday
+762,2026-02-23,17,Trauma,3,42,66+,Admitted,Monday
+763,2026-02-23,16,Orthopedics,2,18,0-12,Admitted,Monday
+764,2026-02-23,19,Orthopedics,4,55,0-12,Discharged,Monday
+765,2026-02-24,21,General Medicine,3,23,66+,Referred,Tuesday
+766,2026-02-24,10,General Medicine,4,73,13-25,Discharged,Tuesday
+767,2026-02-24,15,Orthopedics,2,35,46-65,Admitted,Tuesday
+768,2026-02-24,8,Pediatrics,4,35,66+,Admitted,Tuesday
+769,2026-02-24,12,Trauma,1,11,66+,Admitted,Tuesday
+770,2026-02-24,22,Trauma,4,58,26-45,Discharged,Tuesday
+771,2026-02-24,17,General Medicine,3,28,46-65,Discharged,Tuesday
+772,2026-02-24,15,Cardiology,2,13,26-45,Discharged,Tuesday
+773,2026-02-24,18,Cardiology,2,15,46-65,Admitted,Tuesday
+774,2026-02-24,21,Orthopedics,4,75,13-25,Discharged,Tuesday
+775,2026-02-25,16,Orthopedics,5,51,13-25,Discharged,Wednesday
+776,2026-02-25,20,General Medicine,5,87,66+,Discharged,Wednesday
+777,2026-02-25,11,Cardiology,2,11,13-25,Admitted,Wednesday
+778,2026-02-25,9,Trauma,2,14,66+,Admitted,Wednesday
+779,2026-02-25,17,Cardiology,2,13,26-45,Admitted,Wednesday
+780,2026-02-25,20,Cardiology,4,50,46-65,Discharged,Wednesday
+781,2026-02-25,15,General Medicine,3,27,26-45,Discharged,Wednesday
+782,2026-02-25,4,Cardiology,4,55,0-12,Discharged,Wednesday
+783,2026-02-25,20,Pediatrics,3,42,46-65,Discharged,Wednesday
+784,2026-02-25,14,Pediatrics,4,37,26-45,Discharged,Wednesday
+785,2026-02-25,17,Trauma,3,35,13-25,Admitted,Wednesday
+786,2026-02-25,18,Orthopedics,3,34,26-45,Admitted,Wednesday
+787,2026-02-25,19,General Medicine,4,47,13-25,Discharged,Wednesday
+788,2026-02-25,23,Trauma,3,28,46-65,Discharged,Wednesday
+789,2026-02-25,15,General Medicine,3,37,0-12,Referred,Wednesday
+790,2026-02-26,12,Cardiology,4,41,26-45,Discharged,Thursday
+791,2026-02-26,12,Cardiology,5,57,26-45,Discharged,Thursday
+792,2026-02-26,7,Trauma,1,8,46-65,Admitted,Thursday
+793,2026-02-26,19,General Medicine,2,18,0-12,Admitted,Thursday
+794,2026-02-26,21,Pediatrics,4,60,66+,Referred,Thursday
+795,2026-02-26,21,General Medicine,2,15,26-45,Admitted,Thursday
+796,2026-02-26,20,General Medicine,4,22,46-65,Referred,Thursday
+797,2026-02-26,3,General Medicine,1,7,0-12,Discharged,Thursday
+798,2026-02-26,8,General Medicine,4,33,26-45,Referred,Thursday
+799,2026-02-26,23,Cardiology,3,35,26-45,Referred,Thursday
+800,2026-02-27,7,Pediatrics,2,18,13-25,Admitted,Friday
+801,2026-02-27,3,Pediatrics,4,72,26-45,Admitted,Friday
+802,2026-02-27,13,Orthopedics,4,59,66+,Discharged,Friday
+803,2026-02-27,22,Cardiology,5,63,66+,Discharged,Friday
+804,2026-02-27,18,Cardiology,4,52,0-12,Admitted,Friday
+805,2026-02-27,0,Orthopedics,3,28,46-65,Admitted,Friday
+806,2026-02-27,22,Cardiology,5,49,66+,Discharged,Friday
+807,2026-02-27,12,Cardiology,5,85,13-25,Admitted,Friday
+808,2026-02-27,18,Trauma,3,17,13-25,Discharged,Friday
+809,2026-02-27,7,Orthopedics,3,31,66+,Discharged,Friday
+810,2026-02-27,19,Trauma,3,58,0-12,Admitted,Friday
+811,2026-02-27,16,Trauma,4,79,26-45,Discharged,Friday
+812,2026-02-27,6,General Medicine,3,44,66+,Admitted,Friday
+813,2026-02-27,18,General Medicine,2,8,46-65,Admitted,Friday
+814,2026-02-27,10,Pediatrics,5,76,26-45,Referred,Friday
+815,2026-02-28,16,Cardiology,4,23,46-65,Discharged,Saturday
+816,2026-02-28,14,Trauma,3,41,0-12,Discharged,Saturday
+817,2026-02-28,2,Pediatrics,4,54,66+,Discharged,Saturday
+818,2026-02-28,9,Cardiology,1,7,46-65,Admitted,Saturday
+819,2026-02-28,20,General Medicine,1,9,66+,Admitted,Saturday
+820,2026-02-28,11,Pediatrics,2,16,66+,Discharged,Saturday
+821,2026-02-28,6,Trauma,2,14,13-25,Referred,Saturday
+822,2026-02-28,19,Orthopedics,5,117,13-25,Discharged,Saturday
+823,2026-02-28,17,Trauma,3,26,66+,Referred,Saturday
+824,2026-02-28,5,Cardiology,4,40,66+,Discharged,Saturday
+825,2026-02-28,9,Pediatrics,5,125,26-45,Discharged,Saturday
+826,2026-02-28,16,Pediatrics,2,13,26-45,Discharged,Saturday
+827,2026-02-28,14,Orthopedics,3,18,13-25,Admitted,Saturday
+828,2026-02-28,21,General Medicine,5,92,26-45,Referred,Saturday
+829,2026-02-28,16,General Medicine,3,26,66+,Discharged,Saturday
+830,2026-02-28,6,General Medicine,4,51,13-25,Discharged,Saturday
+831,2026-02-28,18,Trauma,4,63,26-45,Admitted,Saturday
+832,2026-02-28,11,Pediatrics,3,25,26-45,Referred,Saturday
+833,2026-02-28,23,General Medicine,1,10,0-12,Admitted,Saturday
+834,2026-03-01,9,Pediatrics,3,33,0-12,Discharged,Sunday
+835,2026-03-01,16,General Medicine,3,39,46-65,Discharged,Sunday
+836,2026-03-01,18,Trauma,2,21,26-45,Admitted,Sunday
+837,2026-03-01,8,Orthopedics,5,88,26-45,Discharged,Sunday
+838,2026-03-01,16,General Medicine,5,66,46-65,Discharged,Sunday
+839,2026-03-01,23,Cardiology,4,71,0-12,Admitted,Sunday
+840,2026-03-01,15,Trauma,4,39,26-45,Discharged,Sunday
+841,2026-03-01,3,General Medicine,3,27,26-45,Discharged,Sunday
+842,2026-03-01,21,General Medicine,3,56,26-45,Discharged,Sunday
+843,2026-03-01,6,General Medicine,2,13,46-65,Discharged,Sunday
+844,2026-03-01,14,Orthopedics,4,75,46-65,Discharged,Sunday
+845,2026-03-01,21,General Medicine,5,81,0-12,Admitted,Sunday
+846,2026-03-01,13,Orthopedics,1,11,26-45,Referred,Sunday
+847,2026-03-01,2,Trauma,1,13,66+,Admitted,Sunday
+848,2026-03-01,19,General Medicine,3,55,46-65,Discharged,Sunday
+849,2026-03-02,15,Cardiology,2,17,66+,Admitted,Monday
+850,2026-03-02,18,Trauma,1,10,26-45,Discharged,Monday
+851,2026-03-02,20,General Medicine,2,14,46-65,Admitted,Monday
+852,2026-03-02,5,Cardiology,4,51,46-65,Discharged,Monday
+853,2026-03-02,18,General Medicine,4,85,26-45,Discharged,Monday
+854,2026-03-02,12,General Medicine,2,20,13-25,Admitted,Monday
+855,2026-03-02,11,Trauma,3,37,13-25,Admitted,Monday
+856,2026-03-02,7,Cardiology,3,45,0-12,Referred,Monday
+857,2026-03-02,5,Trauma,2,17,26-45,Admitted,Monday
+858,2026-03-02,10,Trauma,3,50,66+,Admitted,Monday
+859,2026-03-02,14,General Medicine,4,48,0-12,Referred,Monday
+860,2026-03-02,18,General Medicine,2,9,46-65,Admitted,Monday
+861,2026-03-02,16,General Medicine,3,32,46-65,Admitted,Monday
+862,2026-03-02,23,General Medicine,1,6,26-45,Discharged,Monday
+863,2026-03-02,20,Pediatrics,2,20,46-65,Discharged,Monday
+864,2026-03-02,18,Cardiology,1,5,0-12,Admitted,Monday
+865,2026-03-03,16,Cardiology,4,19,46-65,Discharged,Tuesday
+866,2026-03-03,19,Trauma,2,11,46-65,Admitted,Tuesday
+867,2026-03-03,18,General Medicine,3,5,0-12,Admitted,Tuesday
+868,2026-03-03,6,Pediatrics,3,23,0-12,Admitted,Tuesday
+869,2026-03-03,10,General Medicine,4,40,0-12,Discharged,Tuesday
+870,2026-03-03,20,Pediatrics,4,60,26-45,Discharged,Tuesday
+871,2026-03-03,1,Trauma,1,6,13-25,Admitted,Tuesday
+872,2026-03-03,14,Pediatrics,3,20,0-12,Admitted,Tuesday
+873,2026-03-03,23,Trauma,3,35,26-45,Discharged,Tuesday
+874,2026-03-03,11,Orthopedics,3,45,26-45,Admitted,Tuesday
+875,2026-03-03,20,Trauma,3,29,13-25,Admitted,Tuesday
+876,2026-03-03,8,Pediatrics,2,19,0-12,Admitted,Tuesday
+877,2026-03-03,6,General Medicine,3,43,26-45,Discharged,Tuesday
+878,2026-03-03,17,General Medicine,3,33,46-65,Discharged,Tuesday
+879,2026-03-03,9,Pediatrics,2,19,0-12,Admitted,Tuesday
+880,2026-03-03,15,Pediatrics,3,39,0-12,Admitted,Tuesday
+881,2026-03-04,23,Trauma,1,9,26-45,Discharged,Wednesday
+882,2026-03-04,6,Cardiology,4,29,0-12,Discharged,Wednesday
+883,2026-03-04,16,Orthopedics,2,13,13-25,Admitted,Wednesday
+884,2026-03-04,19,Orthopedics,2,7,66+,Admitted,Wednesday
+885,2026-03-04,20,Orthopedics,3,36,0-12,Referred,Wednesday
+886,2026-03-04,0,Trauma,1,11,13-25,Admitted,Wednesday
+887,2026-03-04,13,Pediatrics,3,27,26-45,Admitted,Wednesday
+888,2026-03-04,14,Cardiology,3,26,46-65,Discharged,Wednesday
+889,2026-03-04,14,Pediatrics,2,11,26-45,Referred,Wednesday
+890,2026-03-04,22,General Medicine,4,44,66+,Discharged,Wednesday
+891,2026-03-04,21,Trauma,4,53,13-25,Referred,Wednesday
+892,2026-03-04,0,General Medicine,3,31,26-45,Referred,Wednesday
+893,2026-03-04,12,Cardiology,2,13,46-65,Admitted,Wednesday
+894,2026-03-04,8,Orthopedics,5,73,26-45,Discharged,Wednesday
+895,2026-03-05,10,Orthopedics,5,67,0-12,Discharged,Thursday
+896,2026-03-05,11,Orthopedics,5,83,13-25,Discharged,Thursday
+897,2026-03-05,22,Cardiology,3,43,26-45,Admitted,Thursday
+898,2026-03-05,12,Cardiology,4,76,13-25,Discharged,Thursday
+899,2026-03-05,12,Trauma,1,9,46-65,Admitted,Thursday
+900,2026-03-05,14,Pediatrics,2,26,26-45,Admitted,Thursday
+901,2026-03-05,18,Pediatrics,4,70,13-25,Discharged,Thursday
+902,2026-03-05,10,Orthopedics,2,20,26-45,Admitted,Thursday
+903,2026-03-05,6,Orthopedics,4,33,13-25,Admitted,Thursday
+904,2026-03-05,8,Orthopedics,5,66,26-45,Discharged,Thursday
+905,2026-03-05,12,Pediatrics,5,89,26-45,Discharged,Thursday
+906,2026-03-05,1,Orthopedics,5,46,66+,Discharged,Thursday
+907,2026-03-05,20,General Medicine,4,52,13-25,Admitted,Thursday
+908,2026-03-05,20,Cardiology,3,35,46-65,Referred,Thursday
+909,2026-03-06,17,Cardiology,2,8,26-45,Discharged,Friday
+910,2026-03-06,2,Pediatrics,4,81,46-65,Discharged,Friday
+911,2026-03-06,5,Pediatrics,5,27,13-25,Discharged,Friday
+912,2026-03-06,3,General Medicine,3,18,13-25,Referred,Friday
+913,2026-03-06,14,Pediatrics,5,54,26-45,Discharged,Friday
+914,2026-03-06,20,Trauma,1,10,66+,Admitted,Friday
+915,2026-03-06,15,Trauma,1,9,0-12,Admitted,Friday
+916,2026-03-06,14,Pediatrics,3,36,26-45,Admitted,Friday
+917,2026-03-06,19,Pediatrics,3,42,46-65,Referred,Friday
+918,2026-03-06,7,Trauma,2,19,46-65,Admitted,Friday
+919,2026-03-06,8,Trauma,3,35,66+,Referred,Friday
+920,2026-03-07,17,General Medicine,3,49,26-45,Admitted,Saturday
+921,2026-03-07,13,General Medicine,4,54,0-12,Discharged,Saturday
+922,2026-03-07,17,Orthopedics,4,86,0-12,Discharged,Saturday
+923,2026-03-07,19,Trauma,3,35,46-65,Referred,Saturday
+924,2026-03-07,5,General Medicine,3,41,26-45,Discharged,Saturday
+925,2026-03-07,20,General Medicine,2,23,26-45,Admitted,Saturday
+926,2026-03-07,15,Orthopedics,3,48,26-45,Admitted,Saturday
+927,2026-03-07,21,General Medicine,1,12,13-25,Admitted,Saturday
+928,2026-03-07,19,General Medicine,4,56,13-25,Discharged,Saturday
+929,2026-03-07,17,Orthopedics,3,49,26-45,Admitted,Saturday
+930,2026-03-07,16,General Medicine,2,18,46-65,Admitted,Saturday
+931,2026-03-07,2,Trauma,1,8,13-25,Admitted,Saturday
+932,2026-03-07,10,General Medicine,3,39,26-45,Admitted,Saturday
+933,2026-03-07,6,Pediatrics,1,7,13-25,Admitted,Saturday
+934,2026-03-07,23,Pediatrics,1,12,13-25,Admitted,Saturday
+935,2026-03-07,22,Cardiology,3,72,26-45,Admitted,Saturday
+936,2026-03-07,13,Cardiology,5,99,46-65,Discharged,Saturday
+937,2026-03-08,21,Trauma,1,13,46-65,Referred,Sunday
+938,2026-03-08,23,Trauma,1,12,26-45,Admitted,Sunday
+939,2026-03-08,13,Trauma,1,7,0-12,Admitted,Sunday
+940,2026-03-08,20,Trauma,2,21,26-45,Referred,Sunday
+941,2026-03-08,12,General Medicine,3,23,0-12,Admitted,Sunday
+942,2026-03-08,3,General Medicine,1,11,0-12,Discharged,Sunday
+943,2026-03-08,19,General Medicine,2,26,46-65,Referred,Sunday
+944,2026-03-08,19,General Medicine,4,90,66+,Discharged,Sunday
+945,2026-03-08,19,Pediatrics,2,16,66+,Admitted,Sunday
+946,2026-03-08,21,General Medicine,2,22,26-45,Admitted,Sunday
+947,2026-03-08,12,Pediatrics,4,66,26-45,Discharged,Sunday
+948,2026-03-08,21,General Medicine,3,37,13-25,Admitted,Sunday
+949,2026-03-08,17,Cardiology,2,14,13-25,Discharged,Sunday
+950,2026-03-08,4,General Medicine,4,86,46-65,Admitted,Sunday
+951,2026-03-08,13,Trauma,1,9,46-65,Admitted,Sunday
+952,2026-03-08,20,Trauma,3,39,26-45,Discharged,Sunday
+953,2026-03-09,8,General Medicine,2,17,0-12,Discharged,Monday
+954,2026-03-09,13,Trauma,1,11,13-25,Admitted,Monday
+955,2026-03-09,19,General Medicine,5,50,0-12,Admitted,Monday
+956,2026-03-09,3,General Medicine,4,67,46-65,Discharged,Monday
+957,2026-03-09,14,General Medicine,3,32,13-25,Discharged,Monday
+958,2026-03-09,17,General Medicine,4,76,0-12,Discharged,Monday
+959,2026-03-09,6,General Medicine,3,33,26-45,Discharged,Monday
+960,2026-03-09,10,Trauma,4,39,66+,Referred,Monday
+961,2026-03-09,9,Trauma,2,19,46-65,Admitted,Monday
+962,2026-03-09,16,Trauma,4,110,0-12,Discharged,Monday
+963,2026-03-10,21,Pediatrics,2,13,26-45,Admitted,Tuesday
+964,2026-03-10,17,General Medicine,3,28,26-45,Referred,Tuesday
+965,2026-03-10,12,Trauma,1,6,46-65,Referred,Tuesday
+966,2026-03-10,17,General Medicine,3,23,26-45,Discharged,Tuesday
+967,2026-03-10,15,General Medicine,4,62,26-45,Discharged,Tuesday
+968,2026-03-10,16,General Medicine,3,36,13-25,Admitted,Tuesday
+969,2026-03-10,14,Trauma,2,24,26-45,Admitted,Tuesday
+970,2026-03-10,7,Orthopedics,5,70,0-12,Discharged,Tuesday
+971,2026-03-10,20,Orthopedics,2,3,26-45,Admitted,Tuesday
+972,2026-03-10,10,Trauma,1,6,0-12,Referred,Tuesday
+973,2026-03-10,8,Trauma,2,10,26-45,Discharged,Tuesday
+974,2026-03-10,12,Trauma,2,9,13-25,Admitted,Tuesday
+975,2026-03-11,15,Orthopedics,3,45,13-25,Referred,Wednesday
+976,2026-03-11,6,Trauma,1,8,46-65,Admitted,Wednesday
+977,2026-03-11,18,Trauma,3,42,26-45,Discharged,Wednesday
+978,2026-03-11,8,Cardiology,4,72,46-65,Admitted,Wednesday
+979,2026-03-11,16,Orthopedics,4,42,66+,Referred,Wednesday
+980,2026-03-11,5,Cardiology,4,49,26-45,Referred,Wednesday
+981,2026-03-11,18,Pediatrics,4,38,66+,Admitted,Wednesday
+982,2026-03-11,6,Cardiology,4,61,46-65,Discharged,Wednesday
+983,2026-03-11,21,Pediatrics,2,11,0-12,Referred,Wednesday
+984,2026-03-11,13,Trauma,2,15,46-65,Admitted,Wednesday
+985,2026-03-11,7,Trauma,2,20,0-12,Admitted,Wednesday
+986,2026-03-11,13,Trauma,3,36,46-65,Admitted,Wednesday
+987,2026-03-11,10,General Medicine,3,27,26-45,Discharged,Wednesday
+988,2026-03-12,13,Pediatrics,5,54,13-25,Discharged,Thursday
+989,2026-03-12,20,Trauma,2,11,66+,Discharged,Thursday
+990,2026-03-12,11,Cardiology,4,56,66+,Discharged,Thursday
+991,2026-03-12,14,Trauma,1,11,26-45,Admitted,Thursday
+992,2026-03-12,15,Cardiology,4,69,0-12,Discharged,Thursday
+993,2026-03-12,20,Pediatrics,4,35,13-25,Discharged,Thursday
+994,2026-03-12,14,General Medicine,3,42,66+,Admitted,Thursday
+995,2026-03-12,17,General Medicine,1,7,26-45,Admitted,Thursday
+996,2026-03-12,21,Cardiology,4,66,46-65,Discharged,Thursday
+997,2026-03-12,17,Trauma,1,8,26-45,Referred,Thursday
+998,2026-03-12,10,General Medicine,2,11,46-65,Admitted,Thursday
+999,2026-03-12,19,Pediatrics,5,84,13-25,Discharged,Thursday
+1000,2026-03-12,19,Trauma,5,90,46-65,Admitted,Thursday
+1001,2026-03-12,7,Orthopedics,4,69,46-65,Admitted,Thursday
+1002,2026-03-13,13,General Medicine,5,89,46-65,Discharged,Friday
+1003,2026-03-13,15,Cardiology,1,11,46-65,Discharged,Friday
+1004,2026-03-13,18,Trauma,1,11,46-65,Discharged,Friday
+1005,2026-03-13,21,Cardiology,1,11,26-45,Admitted,Friday
+1006,2026-03-13,14,Pediatrics,2,9,46-65,Admitted,Friday
+1007,2026-03-13,10,General Medicine,1,10,66+,Admitted,Friday
+1008,2026-03-13,13,General Medicine,4,48,26-45,Referred,Friday
+1009,2026-03-13,6,Trauma,3,30,13-25,Admitted,Friday
+1010,2026-03-13,19,Cardiology,2,17,26-45,Admitted,Friday
+1011,2026-03-13,7,Cardiology,1,9,46-65,Admitted,Friday
+1012,2026-03-13,11,General Medicine,5,64,46-65,Discharged,Friday
+1013,2026-03-13,15,Trauma,1,7,26-45,Admitted,Friday
+1014,2026-03-14,21,General Medicine,2,23,26-45,Admitted,Saturday
+1015,2026-03-14,22,General Medicine,2,19,46-65,Admitted,Saturday
+1016,2026-03-14,11,Cardiology,3,39,26-45,Referred,Saturday
+1017,2026-03-14,3,Trauma,1,10,26-45,Admitted,Saturday
+1018,2026-03-14,20,General Medicine,3,57,46-65,Admitted,Saturday
+1019,2026-03-14,6,General Medicine,3,24,0-12,Discharged,Saturday
+1020,2026-03-14,18,General Medicine,3,54,46-65,Discharged,Saturday
+1021,2026-03-14,21,General Medicine,5,87,46-65,Discharged,Saturday
+1022,2026-03-14,4,Pediatrics,2,20,26-45,Admitted,Saturday
+1023,2026-03-14,11,General Medicine,3,47,46-65,Admitted,Saturday
+1024,2026-03-14,17,Orthopedics,3,22,13-25,Admitted,Saturday
+1025,2026-03-14,18,General Medicine,3,37,46-65,Referred,Saturday
+1026,2026-03-14,13,Trauma,5,69,0-12,Discharged,Saturday
+1027,2026-03-14,18,Pediatrics,4,91,0-12,Discharged,Saturday
+1028,2026-03-14,18,Cardiology,3,49,46-65,Discharged,Saturday
+1029,2026-03-14,9,Cardiology,2,15,13-25,Referred,Saturday
+1030,2026-03-14,16,Pediatrics,3,17,46-65,Admitted,Saturday
+1031,2026-03-14,23,Orthopedics,3,66,13-25,Discharged,Saturday
+1032,2026-03-14,15,Orthopedics,4,55,46-65,Discharged,Saturday
+1033,2026-03-14,4,General Medicine,3,28,13-25,Discharged,Saturday
+1034,2026-03-14,19,General Medicine,2,30,13-25,Discharged,Saturday
+1035,2026-03-15,20,Trauma,1,8,13-25,Admitted,Sunday
+1036,2026-03-15,14,General Medicine,4,47,0-12,Discharged,Sunday
+1037,2026-03-15,13,General Medicine,2,18,13-25,Admitted,Sunday
+1038,2026-03-15,11,Pediatrics,4,83,46-65,Discharged,Sunday
+1039,2026-03-15,16,Cardiology,5,62,13-25,Discharged,Sunday
+1040,2026-03-15,11,General Medicine,5,51,13-25,Discharged,Sunday
+1041,2026-03-15,20,Cardiology,4,73,46-65,Discharged,Sunday
+1042,2026-03-15,18,General Medicine,4,88,26-45,Discharged,Sunday
+1043,2026-03-15,23,Trauma,5,151,26-45,Discharged,Sunday
+1044,2026-03-15,12,Orthopedics,3,36,46-65,Discharged,Sunday
+1045,2026-03-15,16,Pediatrics,3,53,46-65,Discharged,Sunday
+1046,2026-03-15,0,Orthopedics,4,61,13-25,Admitted,Sunday
+1047,2026-03-15,13,Pediatrics,4,61,46-65,Discharged,Sunday
+1048,2026-03-15,8,Pediatrics,3,48,13-25,Discharged,Sunday
+1049,2026-03-15,18,Cardiology,2,21,26-45,Admitted,Sunday
+1050,2026-03-15,5,General Medicine,3,30,13-25,Discharged,Sunday
+1051,2026-03-16,10,Trauma,3,28,46-65,Referred,Monday
+1052,2026-03-16,0,Trauma,1,7,26-45,Admitted,Monday
+1053,2026-03-16,21,Cardiology,5,74,0-12,Admitted,Monday
+1054,2026-03-16,8,General Medicine,3,37,0-12,Discharged,Monday
+1055,2026-03-16,9,General Medicine,3,31,26-45,Admitted,Monday
+1056,2026-03-16,11,Pediatrics,4,74,66+,Discharged,Monday
+1057,2026-03-16,11,Orthopedics,5,67,0-12,Referred,Monday
+1058,2026-03-16,1,Trauma,1,7,46-65,Admitted,Monday
+1059,2026-03-16,11,Trauma,3,40,26-45,Discharged,Monday
+1060,2026-03-16,8,Trauma,1,11,46-65,Admitted,Monday
+1061,2026-03-16,7,General Medicine,2,16,26-45,Admitted,Monday
+1062,2026-03-16,6,Trauma,3,30,13-25,Admitted,Monday
+1063,2026-03-16,11,Trauma,5,42,26-45,Admitted,Monday
+1064,2026-03-17,15,General Medicine,4,91,66+,Discharged,Tuesday
+1065,2026-03-17,9,Trauma,1,9,46-65,Admitted,Tuesday
+1066,2026-03-17,12,Pediatrics,2,17,0-12,Admitted,Tuesday
+1067,2026-03-17,17,General Medicine,3,34,46-65,Admitted,Tuesday
+1068,2026-03-17,8,Trauma,1,10,13-25,Admitted,Tuesday
+1069,2026-03-17,8,Orthopedics,1,7,46-65,Admitted,Tuesday
+1070,2026-03-17,6,General Medicine,3,24,26-45,Referred,Tuesday
+1071,2026-03-17,9,Pediatrics,3,23,66+,Discharged,Tuesday
+1072,2026-03-17,8,Orthopedics,2,13,66+,Discharged,Tuesday
+1073,2026-03-17,18,Pediatrics,3,20,13-25,Discharged,Tuesday
+1074,2026-03-17,15,Pediatrics,3,52,66+,Admitted,Tuesday
+1075,2026-03-18,2,Pediatrics,3,29,46-65,Admitted,Wednesday
+1076,2026-03-18,6,Trauma,2,15,66+,Admitted,Wednesday
+1077,2026-03-18,14,General Medicine,4,70,46-65,Discharged,Wednesday
+1078,2026-03-18,8,Trauma,1,6,0-12,Admitted,Wednesday
+1079,2026-03-18,13,General Medicine,5,29,0-12,Discharged,Wednesday
+1080,2026-03-18,19,Pediatrics,4,58,13-25,Discharged,Wednesday
+1081,2026-03-18,16,Orthopedics,2,10,46-65,Admitted,Wednesday
+1082,2026-03-18,6,Trauma,1,12,13-25,Admitted,Wednesday
+1083,2026-03-18,17,Pediatrics,4,21,46-65,Discharged,Wednesday
+1084,2026-03-18,16,Pediatrics,4,41,26-45,Discharged,Wednesday
+1085,2026-03-18,13,General Medicine,3,26,26-45,Discharged,Wednesday
+1086,2026-03-18,12,Cardiology,2,13,66+,Discharged,Wednesday
+1087,2026-03-18,12,Pediatrics,4,47,26-45,Discharged,Wednesday
+1088,2026-03-18,22,Trauma,2,17,13-25,Admitted,Wednesday
+1089,2026-03-18,21,General Medicine,2,15,46-65,Admitted,Wednesday
+1090,2026-03-18,12,Orthopedics,4,81,13-25,Admitted,Wednesday
+1091,2026-03-19,11,Cardiology,4,63,46-65,Referred,Thursday
+1092,2026-03-19,8,Cardiology,3,12,46-65,Admitted,Thursday
+1093,2026-03-19,22,Pediatrics,2,15,46-65,Admitted,Thursday
+1094,2026-03-19,18,Orthopedics,4,53,66+,Discharged,Thursday
+1095,2026-03-19,21,General Medicine,4,70,0-12,Discharged,Thursday
+1096,2026-03-19,18,Trauma,4,33,0-12,Discharged,Thursday
+1097,2026-03-19,22,General Medicine,3,41,13-25,Discharged,Thursday
+1098,2026-03-19,20,General Medicine,2,11,26-45,Referred,Thursday
+1099,2026-03-19,21,General Medicine,3,34,46-65,Admitted,Thursday
+1100,2026-03-19,17,General Medicine,3,26,26-45,Referred,Thursday
+1101,2026-03-19,7,Pediatrics,3,53,46-65,Discharged,Thursday
+1102,2026-03-19,2,Cardiology,4,18,46-65,Discharged,Thursday
+1103,2026-03-19,11,Trauma,5,80,13-25,Referred,Thursday
+1104,2026-03-19,20,Trauma,2,13,26-45,Discharged,Thursday
+1105,2026-03-19,23,Pediatrics,3,27,46-65,Discharged,Thursday
+1106,2026-03-19,5,Trauma,1,4,0-12,Admitted,Thursday
+1107,2026-03-20,10,General Medicine,3,40,13-25,Admitted,Friday
+1108,2026-03-20,17,Trauma,1,4,0-12,Admitted,Friday
+1109,2026-03-20,15,General Medicine,4,44,46-65,Referred,Friday
+1110,2026-03-20,11,Pediatrics,5,82,0-12,Discharged,Friday
+1111,2026-03-20,6,Trauma,2,18,46-65,Discharged,Friday
+1112,2026-03-20,19,General Medicine,4,46,66+,Discharged,Friday
+1113,2026-03-20,10,General Medicine,5,105,0-12,Discharged,Friday
+1114,2026-03-20,13,General Medicine,2,17,66+,Admitted,Friday
+1115,2026-03-20,17,Orthopedics,2,17,26-45,Admitted,Friday
+1116,2026-03-20,15,General Medicine,4,49,26-45,Discharged,Friday
+1117,2026-03-20,14,Trauma,3,44,0-12,Discharged,Friday
+1118,2026-03-20,19,Orthopedics,3,36,0-12,Referred,Friday
+1119,2026-03-20,6,Pediatrics,4,47,46-65,Discharged,Friday
+1120,2026-03-20,6,Cardiology,3,38,13-25,Discharged,Friday
+1121,2026-03-21,11,General Medicine,3,38,13-25,Admitted,Saturday
+1122,2026-03-21,19,Orthopedics,4,57,0-12,Discharged,Saturday
+1123,2026-03-21,20,Orthopedics,4,86,26-45,Admitted,Saturday
+1124,2026-03-21,5,General Medicine,5,91,13-25,Discharged,Saturday
+1125,2026-03-21,9,Trauma,3,34,0-12,Discharged,Saturday
+1126,2026-03-21,21,Pediatrics,4,85,26-45,Discharged,Saturday
+1127,2026-03-21,18,Cardiology,3,65,0-12,Admitted,Saturday
+1128,2026-03-21,11,Pediatrics,4,64,26-45,Discharged,Saturday
+1129,2026-03-21,4,General Medicine,4,47,66+,Discharged,Saturday
+1130,2026-03-21,21,General Medicine,5,74,13-25,Discharged,Saturday
+1131,2026-03-21,15,Trauma,1,5,0-12,Admitted,Saturday
+1132,2026-03-21,20,Orthopedics,2,11,0-12,Admitted,Saturday
+1133,2026-03-21,19,Pediatrics,3,53,66+,Referred,Saturday
+1134,2026-03-21,19,Trauma,5,96,26-45,Admitted,Saturday
+1135,2026-03-21,20,General Medicine,3,32,13-25,Referred,Saturday
+1136,2026-03-21,13,General Medicine,4,45,0-12,Discharged,Saturday
+1137,2026-03-21,17,Orthopedics,4,45,26-45,Discharged,Saturday
+1138,2026-03-21,16,Orthopedics,3,8,0-12,Admitted,Saturday
+1139,2026-03-22,23,Cardiology,1,12,46-65,Admitted,Sunday
+1140,2026-03-22,9,Cardiology,1,9,26-45,Referred,Sunday
+1141,2026-03-22,16,Trauma,1,6,26-45,Referred,Sunday
+1142,2026-03-22,18,Trauma,1,10,46-65,Discharged,Sunday
+1143,2026-03-22,6,Cardiology,5,104,26-45,Discharged,Sunday
+1144,2026-03-22,1,General Medicine,1,3,13-25,Admitted,Sunday
+1145,2026-03-22,18,Cardiology,4,69,26-45,Discharged,Sunday
+1146,2026-03-22,14,Pediatrics,3,51,26-45,Discharged,Sunday
+1147,2026-03-22,17,Orthopedics,5,107,13-25,Admitted,Sunday
+1148,2026-03-22,7,Orthopedics,4,33,13-25,Referred,Sunday
+1149,2026-03-22,0,General Medicine,3,31,26-45,Admitted,Sunday
+1150,2026-03-22,21,Cardiology,3,46,13-25,Discharged,Sunday
+1151,2026-03-22,16,Trauma,1,4,46-65,Referred,Sunday
+1152,2026-03-22,5,Trauma,5,65,26-45,Discharged,Sunday
+1153,2026-03-22,9,Trauma,4,53,0-12,Discharged,Sunday
+1154,2026-03-22,22,Orthopedics,5,134,66+,Discharged,Sunday
+1155,2026-03-22,0,Trauma,4,55,26-45,Discharged,Sunday
+1156,2026-03-22,18,General Medicine,2,25,46-65,Referred,Sunday
+1157,2026-03-23,9,Orthopedics,5,73,0-12,Admitted,Monday
+1158,2026-03-23,9,Cardiology,4,26,13-25,Admitted,Monday
+1159,2026-03-23,11,Trauma,2,16,46-65,Admitted,Monday
+1160,2026-03-23,20,Orthopedics,5,58,0-12,Discharged,Monday
+1161,2026-03-23,3,Trauma,3,29,46-65,Admitted,Monday
+1162,2026-03-23,8,General Medicine,4,69,46-65,Discharged,Monday
+1163,2026-03-23,13,General Medicine,4,49,26-45,Referred,Monday
+1164,2026-03-23,20,General Medicine,1,4,13-25,Admitted,Monday
+1165,2026-03-23,5,General Medicine,5,65,26-45,Discharged,Monday
+1166,2026-03-23,16,General Medicine,3,29,0-12,Referred,Monday
+1167,2026-03-24,14,Pediatrics,3,23,13-25,Admitted,Tuesday
+1168,2026-03-24,16,General Medicine,1,9,26-45,Admitted,Tuesday
+1169,2026-03-24,20,Pediatrics,4,16,0-12,Discharged,Tuesday
+1170,2026-03-24,20,General Medicine,5,107,26-45,Discharged,Tuesday
+1171,2026-03-24,16,General Medicine,2,11,66+,Admitted,Tuesday
+1172,2026-03-24,13,General Medicine,5,97,46-65,Discharged,Tuesday
+1173,2026-03-24,15,Orthopedics,2,16,46-65,Admitted,Tuesday
+1174,2026-03-24,6,General Medicine,3,55,13-25,Referred,Tuesday
+1175,2026-03-24,14,Trauma,2,12,26-45,Referred,Tuesday
+1176,2026-03-24,6,Trauma,1,8,46-65,Admitted,Tuesday
+1177,2026-03-24,17,General Medicine,5,89,13-25,Referred,Tuesday
+1178,2026-03-25,20,Pediatrics,4,89,0-12,Discharged,Wednesday
+1179,2026-03-25,22,Pediatrics,5,117,0-12,Discharged,Wednesday
+1180,2026-03-25,20,Cardiology,4,50,0-12,Discharged,Wednesday
+1181,2026-03-25,16,Orthopedics,5,69,13-25,Discharged,Wednesday
+1182,2026-03-25,20,Pediatrics,3,24,26-45,Referred,Wednesday
+1183,2026-03-25,19,General Medicine,3,38,0-12,Referred,Wednesday
+1184,2026-03-25,14,Pediatrics,2,10,46-65,Admitted,Wednesday
+1185,2026-03-25,12,General Medicine,3,17,66+,Discharged,Wednesday
+1186,2026-03-25,18,General Medicine,4,25,26-45,Discharged,Wednesday
+1187,2026-03-25,22,Pediatrics,2,9,26-45,Admitted,Wednesday
+1188,2026-03-25,7,General Medicine,2,14,13-25,Referred,Wednesday
+1189,2026-03-25,20,Cardiology,4,24,26-45,Discharged,Wednesday
+1190,2026-03-26,19,Orthopedics,3,35,26-45,Admitted,Thursday
+1191,2026-03-26,21,Pediatrics,5,73,13-25,Discharged,Thursday
+1192,2026-03-26,4,Orthopedics,3,21,0-12,Discharged,Thursday
+1193,2026-03-26,18,General Medicine,4,62,46-65,Admitted,Thursday
+1194,2026-03-26,9,Orthopedics,3,51,26-45,Discharged,Thursday
+1195,2026-03-26,20,General Medicine,5,83,46-65,Discharged,Thursday
+1196,2026-03-26,10,General Medicine,3,42,26-45,Referred,Thursday
+1197,2026-03-26,17,Orthopedics,4,55,26-45,Referred,Thursday
+1198,2026-03-26,6,Pediatrics,3,35,0-12,Admitted,Thursday
+1199,2026-03-26,0,General Medicine,1,8,26-45,Admitted,Thursday
+1200,2026-03-26,9,General Medicine,3,45,13-25,Discharged,Thursday
+1201,2026-03-26,11,Cardiology,5,73,0-12,Discharged,Thursday
+1202,2026-03-27,14,General Medicine,5,49,46-65,Discharged,Friday
+1203,2026-03-27,22,General Medicine,5,89,26-45,Discharged,Friday
+1204,2026-03-27,17,General Medicine,3,35,46-65,Admitted,Friday
+1205,2026-03-27,16,General Medicine,3,39,46-65,Discharged,Friday
+1206,2026-03-27,16,General Medicine,5,68,66+,Referred,Friday
+1207,2026-03-27,8,General Medicine,2,12,26-45,Admitted,Friday
+1208,2026-03-27,15,Cardiology,5,84,13-25,Discharged,Friday
+1209,2026-03-27,7,Pediatrics,4,74,46-65,Referred,Friday
+1210,2026-03-27,8,General Medicine,3,34,26-45,Admitted,Friday
+1211,2026-03-27,17,Cardiology,1,8,66+,Admitted,Friday
+1212,2026-03-27,22,Orthopedics,2,15,46-65,Admitted,Friday
+1213,2026-03-28,22,Cardiology,4,58,26-45,Referred,Saturday
+1214,2026-03-28,7,Pediatrics,5,64,46-65,Admitted,Saturday
+1215,2026-03-28,2,Trauma,1,9,13-25,Referred,Saturday
+1216,2026-03-28,14,Cardiology,1,10,46-65,Admitted,Saturday
+1217,2026-03-28,9,Cardiology,5,41,13-25,Discharged,Saturday
+1218,2026-03-28,18,Trauma,2,24,0-12,Admitted,Saturday
+1219,2026-03-28,7,Pediatrics,3,31,46-65,Referred,Saturday
+1220,2026-03-28,23,Cardiology,3,49,26-45,Discharged,Saturday
+1221,2026-03-28,14,Orthopedics,2,13,46-65,Admitted,Saturday
+1222,2026-03-28,13,Cardiology,4,62,26-45,Discharged,Saturday
+1223,2026-03-28,21,Trauma,1,13,13-25,Admitted,Saturday
+1224,2026-03-28,2,Orthopedics,5,96,26-45,Discharged,Saturday
+1225,2026-03-28,18,Pediatrics,5,61,0-12,Discharged,Saturday
+1226,2026-03-28,14,Cardiology,3,26,26-45,Discharged,Saturday
+1227,2026-03-28,9,Orthopedics,2,15,26-45,Referred,Saturday
+1228,2026-03-28,20,Orthopedics,3,36,66+,Admitted,Saturday
+1229,2026-03-28,4,General Medicine,2,12,46-65,Discharged,Saturday
+1230,2026-03-28,12,Trauma,4,56,66+,Discharged,Saturday
+1231,2026-03-28,18,Trauma,2,18,13-25,Admitted,Saturday
+1232,2026-03-29,9,General Medicine,4,48,66+,Discharged,Sunday
+1233,2026-03-29,20,Orthopedics,4,109,66+,Discharged,Sunday
+1234,2026-03-29,6,General Medicine,4,65,26-45,Discharged,Sunday
+1235,2026-03-29,7,Orthopedics,3,28,46-65,Referred,Sunday
+1236,2026-03-29,23,Trauma,2,29,0-12,Admitted,Sunday
+1237,2026-03-29,19,General Medicine,2,9,66+,Admitted,Sunday
+1238,2026-03-29,5,Orthopedics,3,34,26-45,Admitted,Sunday
+1239,2026-03-29,10,General Medicine,1,7,66+,Admitted,Sunday
+1240,2026-03-29,21,Cardiology,5,99,13-25,Discharged,Sunday
+1241,2026-03-29,5,General Medicine,3,45,0-12,Admitted,Sunday
+1242,2026-03-29,15,General Medicine,2,14,26-45,Admitted,Sunday
+1243,2026-03-29,11,Cardiology,4,61,46-65,Discharged,Sunday
+1244,2026-03-29,17,General Medicine,5,82,66+,Admitted,Sunday
+1245,2026-03-29,19,General Medicine,3,63,46-65,Discharged,Sunday
+1246,2026-03-29,6,General Medicine,4,54,46-65,Admitted,Sunday
+1247,2026-03-30,4,Trauma,2,18,13-25,Discharged,Monday
+1248,2026-03-30,9,Cardiology,4,91,66+,Discharged,Monday
+1249,2026-03-30,13,General Medicine,1,9,26-45,Discharged,Monday
+1250,2026-03-30,10,Pediatrics,3,39,46-65,Discharged,Monday
+1251,2026-03-30,1,Orthopedics,1,7,66+,Admitted,Monday
+1252,2026-03-30,12,Orthopedics,3,36,26-45,Discharged,Monday
+1253,2026-03-30,16,Trauma,1,9,0-12,Admitted,Monday
+1254,2026-03-30,20,Orthopedics,2,12,66+,Discharged,Monday
+1255,2026-03-30,1,General Medicine,3,38,66+,Discharged,Monday
+1256,2026-03-30,10,General Medicine,3,28,46-65,Discharged,Monday
+1257,2026-03-31,1,Pediatrics,4,46,66+,Discharged,Tuesday
+1258,2026-03-31,12,General Medicine,4,70,46-65,Discharged,Tuesday
+1259,2026-03-31,8,General Medicine,1,6,13-25,Referred,Tuesday
+1260,2026-03-31,21,Orthopedics,3,24,26-45,Discharged,Tuesday
+1261,2026-03-31,22,Orthopedics,1,7,26-45,Admitted,Tuesday
+1262,2026-03-31,14,Orthopedics,4,64,66+,Discharged,Tuesday
+1263,2026-03-31,18,General Medicine,4,51,26-45,Discharged,Tuesday
+1264,2026-03-31,17,Trauma,1,8,0-12,Referred,Tuesday
+1265,2026-03-31,7,Orthopedics,5,96,46-65,Admitted,Tuesday
+1266,2026-03-31,14,General Medicine,3,24,46-65,Discharged,Tuesday
+1267,2026-03-31,18,Trauma,1,2,0-12,Admitted,Tuesday
+1268,2026-03-31,5,Trauma,1,6,26-45,Admitted,Tuesday
+1269,2026-03-31,14,General Medicine,4,33,0-12,Admitted,Tuesday
+1270,2026-03-31,20,General Medicine,5,36,26-45,Discharged,Tuesday
+1271,2026-04-01,21,Cardiology,5,73,46-65,Discharged,Wednesday
+1272,2026-04-01,10,General Medicine,4,46,13-25,Referred,Wednesday
+1273,2026-04-01,15,Cardiology,3,28,13-25,Admitted,Wednesday
+1274,2026-04-01,3,Orthopedics,4,67,66+,Discharged,Wednesday
+1275,2026-04-01,7,General Medicine,3,61,66+,Discharged,Wednesday
+1276,2026-04-01,8,Trauma,1,8,26-45,Admitted,Wednesday
+1277,2026-04-01,10,Pediatrics,5,88,0-12,Discharged,Wednesday
+1278,2026-04-01,17,Trauma,2,11,46-65,Admitted,Wednesday
+1279,2026-04-01,4,Orthopedics,3,36,26-45,Discharged,Wednesday
+1280,2026-04-01,23,General Medicine,3,46,46-65,Admitted,Wednesday
+1281,2026-04-02,20,Pediatrics,3,32,13-25,Referred,Thursday
+1282,2026-04-02,14,Pediatrics,5,82,26-45,Discharged,Thursday
+1283,2026-04-02,18,Cardiology,3,35,26-45,Admitted,Thursday
+1284,2026-04-02,22,Cardiology,5,91,66+,Discharged,Thursday
+1285,2026-04-02,5,Orthopedics,1,2,26-45,Admitted,Thursday
+1286,2026-04-02,10,Cardiology,1,8,66+,Admitted,Thursday
+1287,2026-04-02,3,Trauma,2,11,66+,Admitted,Thursday
+1288,2026-04-02,20,Orthopedics,3,42,66+,Discharged,Thursday
+1289,2026-04-02,17,Pediatrics,2,24,46-65,Admitted,Thursday
+1290,2026-04-02,23,Orthopedics,4,71,13-25,Discharged,Thursday
+1291,2026-04-02,19,Orthopedics,4,85,13-25,Admitted,Thursday
+1292,2026-04-02,18,Trauma,3,31,26-45,Admitted,Thursday
+1293,2026-04-02,18,Orthopedics,3,26,13-25,Admitted,Thursday
+1294,2026-04-02,23,General Medicine,1,12,0-12,Admitted,Thursday
+1295,2026-04-02,22,General Medicine,3,43,26-45,Admitted,Thursday
+1296,2026-04-02,14,Cardiology,3,25,66+,Admitted,Thursday
+1297,2026-04-03,8,Trauma,1,7,26-45,Admitted,Friday
+1298,2026-04-03,20,Trauma,5,79,46-65,Discharged,Friday
+1299,2026-04-03,15,Trauma,2,14,0-12,Admitted,Friday
+1300,2026-04-03,3,Trauma,3,26,26-45,Admitted,Friday
+1301,2026-04-03,8,Trauma,1,9,26-45,Referred,Friday
+1302,2026-04-03,8,Trauma,1,7,26-45,Admitted,Friday
+1303,2026-04-03,17,Orthopedics,2,11,26-45,Admitted,Friday
+1304,2026-04-03,13,Trauma,2,13,13-25,Admitted,Friday
+1305,2026-04-03,21,Orthopedics,2,19,46-65,Admitted,Friday
+1306,2026-04-03,18,Orthopedics,4,30,46-65,Discharged,Friday
+1307,2026-04-03,14,General Medicine,4,29,66+,Admitted,Friday
+1308,2026-04-03,22,Orthopedics,1,7,0-12,Admitted,Friday
+1309,2026-04-03,21,General Medicine,5,80,13-25,Admitted,Friday
+1310,2026-04-04,15,Pediatrics,5,75,66+,Admitted,Saturday
+1311,2026-04-04,20,Trauma,1,16,0-12,Admitted,Saturday
+1312,2026-04-04,13,Orthopedics,2,14,26-45,Admitted,Saturday
+1313,2026-04-04,6,General Medicine,4,65,66+,Discharged,Saturday
+1314,2026-04-04,20,General Medicine,4,67,13-25,Discharged,Saturday
+1315,2026-04-04,4,Cardiology,3,38,26-45,Discharged,Saturday
+1316,2026-04-04,19,Cardiology,4,67,13-25,Discharged,Saturday
+1317,2026-04-04,18,General Medicine,2,10,26-45,Admitted,Saturday
+1318,2026-04-04,13,Orthopedics,1,9,26-45,Admitted,Saturday
+1319,2026-04-04,11,Orthopedics,2,23,13-25,Admitted,Saturday
+1320,2026-04-04,16,Orthopedics,1,6,13-25,Admitted,Saturday
+1321,2026-04-04,16,General Medicine,1,10,0-12,Admitted,Saturday
+1322,2026-04-04,17,Trauma,1,11,26-45,Referred,Saturday
+1323,2026-04-04,20,Orthopedics,5,89,0-12,Discharged,Saturday
+1324,2026-04-04,16,General Medicine,4,57,13-25,Discharged,Saturday
+1325,2026-04-05,4,Orthopedics,4,50,26-45,Discharged,Sunday
+1326,2026-04-05,16,Orthopedics,2,15,26-45,Admitted,Sunday
+1327,2026-04-05,6,General Medicine,3,47,0-12,Admitted,Sunday
+1328,2026-04-05,22,Orthopedics,3,50,13-25,Admitted,Sunday
+1329,2026-04-05,8,Orthopedics,2,11,66+,Discharged,Sunday
+1330,2026-04-05,16,General Medicine,3,27,0-12,Admitted,Sunday
+1331,2026-04-05,19,Trauma,2,21,0-12,Admitted,Sunday
+1332,2026-04-05,8,General Medicine,4,47,46-65,Discharged,Sunday
+1333,2026-04-05,5,Orthopedics,3,25,26-45,Admitted,Sunday
+1334,2026-04-05,17,Pediatrics,3,27,26-45,Discharged,Sunday
+1335,2026-04-05,14,General Medicine,4,67,13-25,Discharged,Sunday
+1336,2026-04-05,14,Trauma,2,15,0-12,Admitted,Sunday
+1337,2026-04-05,14,Cardiology,4,57,66+,Discharged,Sunday
+1338,2026-04-05,10,Pediatrics,5,60,13-25,Discharged,Sunday
+1339,2026-04-05,21,Cardiology,2,16,0-12,Admitted,Sunday
+1340,2026-04-05,8,Pediatrics,4,23,66+,Admitted,Sunday
+1341,2026-04-05,17,General Medicine,4,61,0-12,Discharged,Sunday
+1342,2026-04-05,8,Trauma,2,10,46-65,Admitted,Sunday
+1343,2026-04-05,19,General Medicine,3,77,13-25,Admitted,Sunday
+1344,2026-04-05,21,Orthopedics,3,56,0-12,Discharged,Sunday
+1345,2026-04-06,14,Cardiology,4,70,26-45,Discharged,Monday
+1346,2026-04-06,20,Cardiology,3,52,66+,Referred,Monday
+1347,2026-04-06,22,General Medicine,1,8,13-25,Admitted,Monday
+1348,2026-04-06,6,General Medicine,2,12,26-45,Admitted,Monday
+1349,2026-04-06,19,Cardiology,5,83,26-45,Referred,Monday
+1350,2026-04-06,16,Trauma,1,7,26-45,Admitted,Monday
+1351,2026-04-06,8,General Medicine,3,37,46-65,Admitted,Monday
+1352,2026-04-06,20,General Medicine,4,34,26-45,Discharged,Monday
+1353,2026-04-06,12,Pediatrics,4,64,46-65,Admitted,Monday
+1354,2026-04-06,17,General Medicine,4,66,26-45,Discharged,Monday
+1355,2026-04-06,14,Orthopedics,1,6,46-65,Admitted,Monday
+1356,2026-04-06,8,General Medicine,5,74,13-25,Discharged,Monday
+1357,2026-04-06,19,Trauma,2,25,13-25,Admitted,Monday
+1358,2026-04-06,15,General Medicine,4,57,26-45,Discharged,Monday
+1359,2026-04-06,17,Trauma,3,42,0-12,Admitted,Monday
+1360,2026-04-06,21,Trauma,3,29,0-12,Discharged,Monday
+1361,2026-04-07,8,Orthopedics,5,125,26-45,Discharged,Tuesday
+1362,2026-04-07,15,General Medicine,4,34,66+,Discharged,Tuesday
+1363,2026-04-07,22,Orthopedics,2,13,26-45,Discharged,Tuesday
+1364,2026-04-07,8,Pediatrics,5,90,26-45,Discharged,Tuesday
+1365,2026-04-07,11,Cardiology,3,29,0-12,Discharged,Tuesday
+1366,2026-04-07,13,Orthopedics,3,37,0-12,Discharged,Tuesday
+1367,2026-04-07,18,Orthopedics,3,39,66+,Admitted,Tuesday
+1368,2026-04-07,4,Cardiology,4,55,46-65,Discharged,Tuesday
+1369,2026-04-07,19,Pediatrics,5,105,46-65,Discharged,Tuesday
+1370,2026-04-07,9,General Medicine,2,11,66+,Admitted,Tuesday
+1371,2026-04-07,13,Trauma,1,9,13-25,Admitted,Tuesday
+1372,2026-04-07,18,General Medicine,4,52,13-25,Discharged,Tuesday
+1373,2026-04-07,20,Pediatrics,4,74,46-65,Discharged,Tuesday
+1374,2026-04-07,10,Orthopedics,4,62,66+,Admitted,Tuesday
+1375,2026-04-07,21,Trauma,1,6,46-65,Admitted,Tuesday
+1376,2026-04-07,20,Trauma,2,6,13-25,Admitted,Tuesday
+1377,2026-04-08,3,Pediatrics,3,27,26-45,Admitted,Wednesday
+1378,2026-04-08,16,Orthopedics,3,28,66+,Discharged,Wednesday
+1379,2026-04-08,6,General Medicine,5,90,46-65,Referred,Wednesday
+1380,2026-04-08,23,Trauma,1,10,66+,Discharged,Wednesday
+1381,2026-04-08,15,General Medicine,3,19,0-12,Discharged,Wednesday
+1382,2026-04-08,11,General Medicine,2,16,0-12,Discharged,Wednesday
+1383,2026-04-08,21,Pediatrics,5,93,0-12,Discharged,Wednesday
+1384,2026-04-08,4,Trauma,5,48,0-12,Discharged,Wednesday
+1385,2026-04-08,19,Trauma,1,7,0-12,Admitted,Wednesday
+1386,2026-04-08,9,Pediatrics,3,30,26-45,Referred,Wednesday
+1387,2026-04-08,18,Pediatrics,2,21,46-65,Admitted,Wednesday
+1388,2026-04-08,14,Orthopedics,3,23,46-65,Discharged,Wednesday
+1389,2026-04-09,14,Trauma,3,38,26-45,Admitted,Thursday
+1390,2026-04-09,18,Pediatrics,5,63,0-12,Referred,Thursday
+1391,2026-04-09,0,Orthopedics,1,4,0-12,Admitted,Thursday
+1392,2026-04-09,8,General Medicine,3,43,66+,Discharged,Thursday
+1393,2026-04-09,15,Cardiology,3,36,26-45,Admitted,Thursday
+1394,2026-04-09,6,Orthopedics,4,41,46-65,Discharged,Thursday
+1395,2026-04-09,13,Orthopedics,4,41,26-45,Discharged,Thursday
+1396,2026-04-09,21,Cardiology,1,9,0-12,Admitted,Thursday
+1397,2026-04-09,18,Trauma,3,31,26-45,Discharged,Thursday
+1398,2026-04-09,10,General Medicine,2,12,46-65,Admitted,Thursday
+1399,2026-04-09,21,Pediatrics,3,57,13-25,Discharged,Thursday
+1400,2026-04-09,4,General Medicine,4,55,66+,Discharged,Thursday
+1401,2026-04-09,17,Orthopedics,2,18,46-65,Admitted,Thursday
+1402,2026-04-09,4,General Medicine,4,8,46-65,Discharged,Thursday
+1403,2026-04-10,21,General Medicine,3,41,46-65,Discharged,Friday
+1404,2026-04-10,19,Cardiology,4,53,0-12,Discharged,Friday
+1405,2026-04-10,11,Pediatrics,2,14,0-12,Admitted,Friday
+1406,2026-04-10,10,General Medicine,5,49,13-25,Discharged,Friday
+1407,2026-04-10,18,General Medicine,3,34,0-12,Admitted,Friday
+1408,2026-04-10,8,Pediatrics,4,83,0-12,Discharged,Friday
+1409,2026-04-10,20,General Medicine,3,20,66+,Referred,Friday
+1410,2026-04-10,15,Pediatrics,3,33,46-65,Discharged,Friday
+1411,2026-04-10,13,Orthopedics,3,37,26-45,Admitted,Friday
+1412,2026-04-10,14,Trauma,1,10,46-65,Admitted,Friday
+1413,2026-04-10,19,Pediatrics,2,21,26-45,Admitted,Friday
+1414,2026-04-10,6,Cardiology,3,31,26-45,Referred,Friday
+1415,2026-04-10,19,Pediatrics,4,92,26-45,Discharged,Friday
+1416,2026-04-10,8,Orthopedics,4,96,0-12,Discharged,Friday
+1417,2026-04-10,9,Pediatrics,4,32,26-45,Discharged,Friday
+1418,2026-04-10,0,Pediatrics,4,27,46-65,Discharged,Friday
+1419,2026-04-11,4,Pediatrics,5,34,46-65,Discharged,Saturday
+1420,2026-04-11,15,Pediatrics,5,48,26-45,Discharged,Saturday
+1421,2026-04-11,7,Trauma,5,84,26-45,Discharged,Saturday
+1422,2026-04-11,4,Pediatrics,2,19,0-12,Referred,Saturday
+1423,2026-04-11,23,General Medicine,3,50,26-45,Discharged,Saturday
+1424,2026-04-11,2,General Medicine,4,75,26-45,Admitted,Saturday
+1425,2026-04-11,17,Pediatrics,4,51,0-12,Discharged,Saturday
+1426,2026-04-11,15,General Medicine,3,34,66+,Discharged,Saturday
+1427,2026-04-11,18,Orthopedics,4,93,13-25,Admitted,Saturday
+1428,2026-04-11,5,General Medicine,4,61,46-65,Discharged,Saturday
+1429,2026-04-11,0,Cardiology,4,55,0-12,Discharged,Saturday
+1430,2026-04-11,10,Trauma,1,10,66+,Admitted,Saturday
+1431,2026-04-11,5,Trauma,5,83,26-45,Discharged,Saturday
+1432,2026-04-11,1,Trauma,3,34,13-25,Discharged,Saturday
+1433,2026-04-11,0,Cardiology,3,24,0-12,Referred,Saturday
+1434,2026-04-11,8,Cardiology,3,33,13-25,Admitted,Saturday
+1435,2026-04-11,22,Trauma,2,22,66+,Admitted,Saturday
+1436,2026-04-11,14,Trauma,2,21,26-45,Admitted,Saturday
+1437,2026-04-12,18,Trauma,1,9,26-45,Admitted,Sunday
+1438,2026-04-12,17,General Medicine,3,31,26-45,Admitted,Sunday
+1439,2026-04-12,23,Trauma,5,131,26-45,Discharged,Sunday
+1440,2026-04-12,19,General Medicine,4,71,26-45,Referred,Sunday
+1441,2026-04-12,18,Orthopedics,2,19,26-45,Admitted,Sunday
+1442,2026-04-12,12,Trauma,2,15,0-12,Discharged,Sunday
+1443,2026-04-12,9,Orthopedics,4,57,13-25,Discharged,Sunday
+1444,2026-04-12,14,Orthopedics,1,8,26-45,Admitted,Sunday
+1445,2026-04-12,11,Orthopedics,3,46,66+,Admitted,Sunday
+1446,2026-04-12,14,Orthopedics,2,8,46-65,Admitted,Sunday
+1447,2026-04-12,14,General Medicine,5,96,26-45,Discharged,Sunday
+1448,2026-04-12,19,General Medicine,2,19,26-45,Admitted,Sunday
+1449,2026-04-12,8,General Medicine,5,86,26-45,Admitted,Sunday
+1450,2026-04-12,21,Cardiology,2,24,0-12,Admitted,Sunday
+1451,2026-04-12,5,Trauma,4,84,46-65,Discharged,Sunday
+1452,2026-04-12,8,Orthopedics,2,14,0-12,Admitted,Sunday
+1453,2026-04-12,6,Orthopedics,1,12,13-25,Admitted,Sunday
+1454,2026-04-12,23,Trauma,1,9,13-25,Admitted,Sunday
+1455,2026-04-12,16,Orthopedics,4,41,26-45,Discharged,Sunday
+1456,2026-04-12,2,Trauma,1,8,26-45,Admitted,Sunday
+1457,2026-04-12,20,Cardiology,5,78,46-65,Referred,Sunday
+1458,2026-04-13,11,Trauma,1,6,13-25,Admitted,Monday
+1459,2026-04-13,3,Pediatrics,4,55,46-65,Discharged,Monday
+1460,2026-04-13,16,General Medicine,3,39,13-25,Discharged,Monday
+1461,2026-04-13,13,General Medicine,3,27,26-45,Admitted,Monday
+1462,2026-04-13,18,General Medicine,3,19,13-25,Discharged,Monday
+1463,2026-04-13,19,Cardiology,2,17,46-65,Admitted,Monday
+1464,2026-04-13,3,Orthopedics,4,67,46-65,Discharged,Monday
+1465,2026-04-13,14,Trauma,5,56,0-12,Discharged,Monday
+1466,2026-04-13,5,Orthopedics,4,35,46-65,Referred,Monday
+1467,2026-04-13,21,General Medicine,2,18,26-45,Admitted,Monday
+1468,2026-04-13,22,General Medicine,3,32,26-45,Admitted,Monday
+1469,2026-04-13,19,Orthopedics,4,49,26-45,Admitted,Monday
+1470,2026-04-13,7,Pediatrics,3,42,46-65,Discharged,Monday
+1471,2026-04-13,9,General Medicine,5,63,26-45,Discharged,Monday
+1472,2026-04-13,17,General Medicine,4,30,13-25,Discharged,Monday
+1473,2026-04-13,16,Trauma,1,7,46-65,Discharged,Monday
+1474,2026-04-14,14,Orthopedics,3,50,46-65,Discharged,Tuesday
+1475,2026-04-14,17,Cardiology,5,39,13-25,Discharged,Tuesday
+1476,2026-04-14,12,General Medicine,2,15,26-45,Referred,Tuesday
+1477,2026-04-14,14,Orthopedics,2,12,0-12,Admitted,Tuesday
+1478,2026-04-14,10,Orthopedics,4,75,26-45,Discharged,Tuesday
+1479,2026-04-14,17,Pediatrics,4,27,0-12,Referred,Tuesday
+1480,2026-04-14,20,Cardiology,4,58,13-25,Discharged,Tuesday
+1481,2026-04-14,13,Trauma,2,13,26-45,Admitted,Tuesday
+1482,2026-04-14,3,Orthopedics,5,87,13-25,Discharged,Tuesday
+1483,2026-04-14,16,General Medicine,5,87,26-45,Discharged,Tuesday
+1484,2026-04-14,13,General Medicine,4,54,13-25,Admitted,Tuesday
+1485,2026-04-15,0,Pediatrics,3,40,26-45,Admitted,Wednesday
+1486,2026-04-15,18,Pediatrics,4,64,0-12,Referred,Wednesday
+1487,2026-04-15,7,Orthopedics,3,40,0-12,Referred,Wednesday
+1488,2026-04-15,20,General Medicine,3,32,46-65,Discharged,Wednesday
+1489,2026-04-15,23,Cardiology,3,49,13-25,Discharged,Wednesday
+1490,2026-04-15,8,Orthopedics,3,44,46-65,Admitted,Wednesday
+1491,2026-04-15,18,General Medicine,3,37,26-45,Admitted,Wednesday
+1492,2026-04-15,5,General Medicine,4,46,13-25,Admitted,Wednesday
+1493,2026-04-15,12,Cardiology,2,22,46-65,Referred,Wednesday
+1494,2026-04-15,11,General Medicine,4,49,13-25,Discharged,Wednesday
+1495,2026-04-16,22,Cardiology,3,38,0-12,Admitted,Thursday
+1496,2026-04-16,5,Orthopedics,4,31,46-65,Discharged,Thursday
+1497,2026-04-16,19,Orthopedics,3,18,26-45,Admitted,Thursday
+1498,2026-04-16,19,Cardiology,4,58,26-45,Discharged,Thursday
+1499,2026-04-16,22,Trauma,2,12,46-65,Admitted,Thursday
+1500,2026-04-16,15,General Medicine,1,10,66+,Admitted,Thursday
+1501,2026-04-16,23,Orthopedics,4,55,46-65,Discharged,Thursday
+1502,2026-04-16,21,Trauma,1,5,46-65,Admitted,Thursday
+1503,2026-04-16,12,Orthopedics,3,50,26-45,Referred,Thursday
+1504,2026-04-16,8,Trauma,2,14,46-65,Admitted,Thursday
+1505,2026-04-17,11,Pediatrics,2,20,26-45,Admitted,Friday
+1506,2026-04-17,5,Pediatrics,3,18,13-25,Discharged,Friday
+1507,2026-04-17,9,General Medicine,4,39,46-65,Discharged,Friday
+1508,2026-04-17,9,Trauma,1,8,46-65,Referred,Friday
+1509,2026-04-17,8,General Medicine,2,22,46-65,Admitted,Friday
+1510,2026-04-17,22,Orthopedics,4,69,0-12,Referred,Friday
+1511,2026-04-17,19,Pediatrics,4,28,0-12,Discharged,Friday
+1512,2026-04-17,19,Trauma,1,8,46-65,Discharged,Friday
+1513,2026-04-17,18,General Medicine,5,89,26-45,Discharged,Friday
+1514,2026-04-17,16,General Medicine,4,51,0-12,Discharged,Friday
+1515,2026-04-17,18,Pediatrics,4,36,26-45,Discharged,Friday
+1516,2026-04-17,13,General Medicine,4,65,13-25,Discharged,Friday
+1517,2026-04-17,19,Trauma,2,16,46-65,Discharged,Friday
+1518,2026-04-17,10,Pediatrics,5,89,13-25,Discharged,Friday
+1519,2026-04-18,12,General Medicine,3,32,46-65,Discharged,Saturday
+1520,2026-04-18,18,Orthopedics,1,10,0-12,Admitted,Saturday
+1521,2026-04-18,21,General Medicine,2,20,46-65,Discharged,Saturday
+1522,2026-04-18,21,Cardiology,4,80,66+,Discharged,Saturday
+1523,2026-04-18,15,Orthopedics,3,19,46-65,Discharged,Saturday
+1524,2026-04-18,18,Cardiology,3,61,66+,Discharged,Saturday
+1525,2026-04-18,8,Cardiology,4,62,26-45,Discharged,Saturday
+1526,2026-04-18,19,Orthopedics,3,60,0-12,Discharged,Saturday
+1527,2026-04-18,18,Pediatrics,3,46,13-25,Referred,Saturday
+1528,2026-04-18,19,Trauma,2,25,26-45,Admitted,Saturday
+1529,2026-04-18,22,Orthopedics,3,56,0-12,Discharged,Saturday
+1530,2026-04-18,2,Orthopedics,3,54,46-65,Admitted,Saturday
+1531,2026-04-18,19,Pediatrics,3,46,13-25,Referred,Saturday
+1532,2026-04-18,14,Pediatrics,2,14,26-45,Admitted,Saturday
+1533,2026-04-18,6,Pediatrics,4,26,0-12,Discharged,Saturday
+1534,2026-04-18,20,Trauma,2,22,13-25,Admitted,Saturday
+1535,2026-04-18,20,Orthopedics,4,77,46-65,Discharged,Saturday
+1536,2026-04-18,0,Orthopedics,3,47,46-65,Discharged,Saturday
+1537,2026-04-19,17,General Medicine,2,14,0-12,Discharged,Sunday
+1538,2026-04-19,18,Trauma,3,35,26-45,Discharged,Sunday
+1539,2026-04-19,23,Trauma,1,6,13-25,Admitted,Sunday
+1540,2026-04-19,20,Cardiology,5,103,0-12,Referred,Sunday
+1541,2026-04-19,19,Trauma,2,27,0-12,Referred,Sunday
+1542,2026-04-19,7,Trauma,3,34,46-65,Referred,Sunday
+1543,2026-04-19,17,Trauma,1,6,26-45,Discharged,Sunday
+1544,2026-04-19,6,Orthopedics,2,23,0-12,Admitted,Sunday
+1545,2026-04-19,22,Orthopedics,2,19,13-25,Discharged,Sunday
+1546,2026-04-19,19,Orthopedics,4,67,13-25,Discharged,Sunday
+1547,2026-04-19,15,Trauma,2,13,26-45,Discharged,Sunday
+1548,2026-04-19,12,General Medicine,2,22,46-65,Admitted,Sunday
+1549,2026-04-19,5,General Medicine,4,68,66+,Referred,Sunday
+1550,2026-04-19,12,Trauma,3,43,13-25,Discharged,Sunday
+1551,2026-04-19,20,Cardiology,3,53,13-25,Referred,Sunday
+1552,2026-04-19,21,General Medicine,4,105,66+,Discharged,Sunday
+1553,2026-04-19,2,Orthopedics,3,50,66+,Referred,Sunday
+1554,2026-04-19,21,General Medicine,3,53,13-25,Admitted,Sunday
+1555,2026-04-19,10,Trauma,1,11,66+,Admitted,Sunday
+1556,2026-04-19,14,Orthopedics,4,41,0-12,Admitted,Sunday
+1557,2026-04-19,21,Orthopedics,2,12,13-25,Referred,Sunday
+1558,2026-04-20,6,Pediatrics,3,29,46-65,Discharged,Monday
+1559,2026-04-20,20,Trauma,2,2,46-65,Referred,Monday
+1560,2026-04-20,4,Orthopedics,1,6,66+,Discharged,Monday
+1561,2026-04-20,8,Pediatrics,4,73,46-65,Referred,Monday
+1562,2026-04-20,23,Pediatrics,3,55,46-65,Admitted,Monday
+1563,2026-04-20,18,Trauma,2,14,0-12,Admitted,Monday
+1564,2026-04-20,7,Orthopedics,2,11,26-45,Admitted,Monday
+1565,2026-04-20,22,General Medicine,4,48,0-12,Discharged,Monday
+1566,2026-04-20,17,Orthopedics,3,30,13-25,Admitted,Monday
+1567,2026-04-20,9,Orthopedics,5,99,26-45,Discharged,Monday
+1568,2026-04-21,21,Trauma,3,39,46-65,Admitted,Tuesday
+1569,2026-04-21,14,Cardiology,5,59,26-45,Admitted,Tuesday
+1570,2026-04-21,9,General Medicine,5,87,26-45,Discharged,Tuesday
+1571,2026-04-21,11,General Medicine,4,33,46-65,Discharged,Tuesday
+1572,2026-04-21,19,Cardiology,4,41,26-45,Discharged,Tuesday
+1573,2026-04-21,15,General Medicine,1,10,13-25,Admitted,Tuesday
+1574,2026-04-21,5,Cardiology,4,63,66+,Discharged,Tuesday
+1575,2026-04-21,23,General Medicine,4,40,66+,Discharged,Tuesday
+1576,2026-04-21,23,Trauma,2,19,66+,Admitted,Tuesday
+1577,2026-04-21,14,Orthopedics,4,76,66+,Discharged,Tuesday
+1578,2026-04-21,2,Orthopedics,2,11,46-65,Admitted,Tuesday
+1579,2026-04-21,19,Pediatrics,5,106,46-65,Discharged,Tuesday
+1580,2026-04-21,9,Pediatrics,3,44,13-25,Referred,Tuesday
+1581,2026-04-22,8,Trauma,1,9,26-45,Discharged,Wednesday
+1582,2026-04-22,17,Orthopedics,4,67,26-45,Discharged,Wednesday
+1583,2026-04-22,5,Pediatrics,1,11,13-25,Discharged,Wednesday
+1584,2026-04-22,12,Orthopedics,5,112,46-65,Admitted,Wednesday
+1585,2026-04-22,22,Trauma,5,76,26-45,Discharged,Wednesday
+1586,2026-04-22,20,Orthopedics,5,57,0-12,Discharged,Wednesday
+1587,2026-04-22,12,Orthopedics,3,33,26-45,Admitted,Wednesday
+1588,2026-04-22,5,Trauma,4,38,0-12,Discharged,Wednesday
+1589,2026-04-22,12,Trauma,1,5,13-25,Discharged,Wednesday
+1590,2026-04-22,10,General Medicine,4,65,66+,Discharged,Wednesday
+1591,2026-04-22,13,Cardiology,3,27,46-65,Discharged,Wednesday
+1592,2026-04-23,18,General Medicine,2,19,13-25,Referred,Thursday
+1593,2026-04-23,20,General Medicine,1,11,26-45,Admitted,Thursday
+1594,2026-04-23,9,General Medicine,5,99,46-65,Discharged,Thursday
+1595,2026-04-23,8,Trauma,3,33,46-65,Referred,Thursday
+1596,2026-04-23,11,Pediatrics,4,61,26-45,Discharged,Thursday
+1597,2026-04-23,10,General Medicine,4,52,26-45,Discharged,Thursday
+1598,2026-04-23,20,Orthopedics,3,20,46-65,Discharged,Thursday
+1599,2026-04-23,13,Orthopedics,3,24,26-45,Admitted,Thursday
+1600,2026-04-23,7,Cardiology,3,36,46-65,Discharged,Thursday
+1601,2026-04-23,22,Trauma,2,9,0-12,Admitted,Thursday
+1602,2026-04-23,16,Orthopedics,4,110,13-25,Discharged,Thursday
+1603,2026-04-23,7,General Medicine,5,38,0-12,Admitted,Thursday
+1604,2026-04-23,13,Cardiology,4,52,46-65,Discharged,Thursday
+1605,2026-04-24,9,General Medicine,3,12,13-25,Discharged,Friday
+1606,2026-04-24,17,Orthopedics,3,36,13-25,Discharged,Friday
+1607,2026-04-24,19,Trauma,1,5,26-45,Admitted,Friday
+1608,2026-04-24,17,Cardiology,4,79,0-12,Discharged,Friday
+1609,2026-04-24,13,General Medicine,3,26,66+,Admitted,Friday
+1610,2026-04-24,11,Cardiology,4,52,66+,Referred,Friday
+1611,2026-04-24,14,Cardiology,5,52,26-45,Discharged,Friday
+1612,2026-04-24,10,Orthopedics,3,47,66+,Referred,Friday
+1613,2026-04-24,11,Orthopedics,5,60,26-45,Discharged,Friday
+1614,2026-04-24,7,Orthopedics,4,26,46-65,Discharged,Friday
+1615,2026-04-24,19,Cardiology,3,53,26-45,Admitted,Friday
+1616,2026-04-24,18,Trauma,5,73,26-45,Referred,Friday
+1617,2026-04-24,13,Pediatrics,1,11,26-45,Admitted,Friday
+1618,2026-04-25,6,Cardiology,5,48,26-45,Discharged,Saturday
+1619,2026-04-25,10,Orthopedics,3,40,46-65,Discharged,Saturday
+1620,2026-04-25,17,Orthopedics,5,75,13-25,Discharged,Saturday
+1621,2026-04-25,19,Orthopedics,4,96,26-45,Discharged,Saturday
+1622,2026-04-25,9,General Medicine,5,85,26-45,Discharged,Saturday
+1623,2026-04-25,9,Cardiology,4,44,46-65,Discharged,Saturday
+1624,2026-04-25,19,General Medicine,1,19,46-65,Admitted,Saturday
+1625,2026-04-25,15,Trauma,1,10,0-12,Admitted,Saturday
+1626,2026-04-25,21,Orthopedics,3,53,0-12,Discharged,Saturday
+1627,2026-04-25,13,General Medicine,5,35,26-45,Discharged,Saturday
+1628,2026-04-25,20,General Medicine,5,115,13-25,Discharged,Saturday
+1629,2026-04-25,17,General Medicine,1,5,26-45,Admitted,Saturday
+1630,2026-04-25,7,Orthopedics,2,26,0-12,Admitted,Saturday
+1631,2026-04-25,6,Pediatrics,5,73,0-12,Discharged,Saturday
+1632,2026-04-25,9,General Medicine,3,25,46-65,Discharged,Saturday
+1633,2026-04-25,18,General Medicine,4,88,46-65,Discharged,Saturday
+1634,2026-04-25,7,Pediatrics,3,38,13-25,Discharged,Saturday
+1635,2026-04-25,22,Cardiology,2,16,66+,Admitted,Saturday
+1636,2026-04-26,15,Pediatrics,5,65,26-45,Discharged,Sunday
+1637,2026-04-26,22,General Medicine,5,129,46-65,Discharged,Sunday
+1638,2026-04-26,14,Orthopedics,4,53,26-45,Discharged,Sunday
+1639,2026-04-26,8,Trauma,3,37,13-25,Discharged,Sunday
+1640,2026-04-26,14,Cardiology,4,81,13-25,Referred,Sunday
+1641,2026-04-26,7,Trauma,2,15,0-12,Referred,Sunday
+1642,2026-04-26,18,Trauma,2,15,13-25,Discharged,Sunday
+1643,2026-04-26,19,Cardiology,2,12,13-25,Admitted,Sunday
+1644,2026-04-26,13,General Medicine,4,47,13-25,Discharged,Sunday
+1645,2026-04-26,21,Cardiology,3,58,13-25,Admitted,Sunday
+1646,2026-04-26,11,Pediatrics,3,34,46-65,Admitted,Sunday
+1647,2026-04-26,18,Orthopedics,4,70,26-45,Discharged,Sunday
+1648,2026-04-26,0,Cardiology,3,39,46-65,Admitted,Sunday
+1649,2026-04-26,3,Pediatrics,4,87,0-12,Discharged,Sunday
+1650,2026-04-26,20,Trauma,1,12,26-45,Admitted,Sunday
+1651,2026-04-26,14,Pediatrics,5,75,46-65,Discharged,Sunday
+1652,2026-04-26,16,Orthopedics,5,48,26-45,Referred,Sunday
+1653,2026-04-26,16,Orthopedics,4,66,0-12,Admitted,Sunday
+1654,2026-04-26,18,General Medicine,4,72,13-25,Admitted,Sunday
+1655,2026-04-26,20,General Medicine,2,19,26-45,Admitted,Sunday
+1656,2026-04-26,4,General Medicine,4,75,13-25,Discharged,Sunday
+1657,2026-04-27,19,General Medicine,2,12,46-65,Admitted,Monday
+1658,2026-04-27,9,Pediatrics,4,60,0-12,Discharged,Monday
+1659,2026-04-27,14,Orthopedics,2,16,13-25,Admitted,Monday
+1660,2026-04-27,17,Orthopedics,4,49,46-65,Discharged,Monday
+1661,2026-04-27,9,General Medicine,3,29,26-45,Discharged,Monday
+1662,2026-04-27,1,General Medicine,3,34,46-65,Discharged,Monday
+1663,2026-04-27,12,Trauma,2,16,26-45,Admitted,Monday
+1664,2026-04-27,22,Pediatrics,3,39,26-45,Discharged,Monday
+1665,2026-04-27,19,General Medicine,3,14,46-65,Discharged,Monday
+1666,2026-04-27,12,General Medicine,3,47,46-65,Discharged,Monday
+1667,2026-04-27,15,General Medicine,1,7,26-45,Admitted,Monday
+1668,2026-04-27,15,General Medicine,1,7,66+,Admitted,Monday
+1669,2026-04-27,14,Cardiology,1,9,0-12,Discharged,Monday
+1670,2026-04-27,17,Cardiology,5,56,0-12,Discharged,Monday
+1671,2026-04-27,20,General Medicine,2,18,26-45,Admitted,Monday
+1672,2026-04-27,19,Cardiology,2,22,26-45,Admitted,Monday
+1673,2026-04-28,21,General Medicine,5,90,46-65,Admitted,Tuesday
+1674,2026-04-28,9,Cardiology,3,44,0-12,Admitted,Tuesday
+1675,2026-04-28,9,General Medicine,2,17,46-65,Admitted,Tuesday
+1676,2026-04-28,16,General Medicine,2,6,13-25,Admitted,Tuesday
+1677,2026-04-28,10,Orthopedics,4,68,13-25,Discharged,Tuesday
+1678,2026-04-28,14,General Medicine,3,30,26-45,Admitted,Tuesday
+1679,2026-04-28,2,Orthopedics,3,43,0-12,Admitted,Tuesday
+1680,2026-04-28,21,Orthopedics,4,72,26-45,Discharged,Tuesday
+1681,2026-04-28,21,Trauma,3,24,26-45,Discharged,Tuesday
+1682,2026-04-28,18,Orthopedics,5,68,46-65,Discharged,Tuesday
+1683,2026-04-28,12,Trauma,2,8,0-12,Admitted,Tuesday
+1684,2026-04-29,17,Cardiology,2,13,46-65,Admitted,Wednesday
+1685,2026-04-29,15,Cardiology,5,55,66+,Discharged,Wednesday
+1686,2026-04-29,12,Pediatrics,4,64,13-25,Discharged,Wednesday
+1687,2026-04-29,19,Cardiology,4,69,46-65,Discharged,Wednesday
+1688,2026-04-29,11,Orthopedics,3,31,66+,Admitted,Wednesday
+1689,2026-04-29,13,General Medicine,1,7,66+,Admitted,Wednesday
+1690,2026-04-29,2,Pediatrics,2,13,46-65,Admitted,Wednesday
+1691,2026-04-29,15,General Medicine,4,49,46-65,Admitted,Wednesday
+1692,2026-04-29,21,Orthopedics,5,76,0-12,Discharged,Wednesday
+1693,2026-04-29,15,Cardiology,2,13,26-45,Discharged,Wednesday
+1694,2026-04-30,8,Trauma,3,32,26-45,Admitted,Thursday
+1695,2026-04-30,13,Trauma,1,7,26-45,Admitted,Thursday
+1696,2026-04-30,19,Trauma,1,13,26-45,Discharged,Thursday
+1697,2026-04-30,20,General Medicine,5,65,66+,Discharged,Thursday
+1698,2026-04-30,21,Cardiology,4,93,46-65,Discharged,Thursday
+1699,2026-04-30,8,General Medicine,2,11,13-25,Admitted,Thursday
+1700,2026-04-30,12,Trauma,1,7,0-12,Admitted,Thursday
+1701,2026-04-30,16,General Medicine,3,25,0-12,Discharged,Thursday
+1702,2026-04-30,23,Trauma,4,41,46-65,Referred,Thursday
+1703,2026-04-30,15,Cardiology,4,61,26-45,Discharged,Thursday
+1704,2026-04-30,23,Orthopedics,1,9,26-45,Admitted,Thursday
+1705,2026-04-30,5,Trauma,2,17,26-45,Admitted,Thursday
+1706,2026-04-30,23,Trauma,1,6,26-45,Admitted,Thursday
+1707,2026-04-30,18,Pediatrics,3,33,46-65,Discharged,Thursday
